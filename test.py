@@ -2,7 +2,7 @@
 
 import networkx as nx
 import pandas as pd
-import pagerank
+#import pagerank
 import math
 import numpy as np
 
