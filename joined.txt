@@ -77,7 +77,7 @@ Providence-Warwick, RI-MA Metro Area 	 41.8240,-71.4128	3.767
 Raleigh, NC Metro Area 	 35.7803977,-78.6390989	5.764
 Redding, CA Metro Area 	 40.5863563,-122.3916754	1.0690000000000002
 Reno, NV Metro Area 	 39.52927,-119.8136744	2.287
-Riverside-San Bernardino-Ontario, CA Metro Area 	 33.9806, 117.3755	13.225000000000001
+Riverside-San Bernardino-Ontario, CA Metro Area 	 33.9806, -117.3755	13.225000000000001
 Sacramento--Roseville--Arden-Arcade, CA Metro Area 	 38.5815719,-121.4943996	7.308
 St. Louis, MO-IL Metro Area 	 38.6268039,-90.1994097	5.917000000000001
 Salt Lake City, UT Metro Area 	 40.7670126,-111.8904308	4.7749999999999995
@@ -260,7 +260,7 @@ Dover, DE Metro Area 	 39.158168,-75.5243682	1.229
 Duluth, MN-WI Metro Area 	 46.7729322,-92.1251218	1.3110000000000002
 Durham-Chapel Hill, NC Metro Area 	 36.0181316,-78.8751582	3.839
 Elmira, NY Metro Area 	 42.0897965,-76.8077338	0.608
-Evansville, IN-KY Metro Area 	 37.9716, 87.5711	1.175
+Evansville, IN-KY Metro Area 	 37.9716, -87.5711	1.175
 Glens Falls, NY Metro Area 	 43.309941,-73.644447	0.741
 Grand Forks, ND-MN Metro Area 	 47.9078244,-97.0592028	1.024
 Greeley, CO Metro Area 	 38.4570355,-101.8185007	2.7590000000000003
@@ -338,7 +338,7 @@ Hanford-Corcoran, CA Metro Area 	 36.3274502,-119.6456844	1.4909999999999999
 Morristown, TN Metro Area 	 36.2139814,-83.2948923	0.972
 Ocean City, NJ Metro Area 	 39.2776156,-74.5746001	0.6849999999999999
 Staunton-Waynesboro, VA Metro Area 	 38.1496,-79.0717	0.856
-Stockton-Lodi, CA Metro Area 	 38.1341, 121.2722	3.0170000000000003
+Stockton-Lodi, CA Metro Area 	 38.1341, -121.2722	3.0170000000000003
 Topeka, KS Metro Area 	 39.049011,-95.677556	1.103
 Williamsport, PA Metro Area 	 41.2493292,-77.0027671	0.733
 Abilene, TX Metro Area 	 32.4466741,-99.7333011	1.5230000000000001
