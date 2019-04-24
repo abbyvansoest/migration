@@ -73,7 +73,7 @@ Pensacola-Ferry Pass-Brent, FL Metro Area 	 30.421309,-87.2169149	3.653
 Phoenix-Mesa-Scottsdale, AZ Metro Area 	 33.4485866,-112.0773456	15.620000000000001
 Portland-Vancouver-Hillsboro, OR-WA Metro Area 	 45.5202471,-122.6741949	9.407
 Prescott, AZ Metro Area 	 34.5399962,-112.4687616	1.802
-Providence-Warwick, RI-MA Metro Area 	 51.4325529,-2.6640439	3.767
+Providence-Warwick, RI-MA Metro Area 	 41.8240,-71.4128	3.767
 Raleigh, NC Metro Area 	 35.7803977,-78.6390989	5.764
 Redding, CA Metro Area 	 40.5863563,-122.3916754	1.0690000000000002
 Reno, NV Metro Area 	 39.52927,-119.8136744	2.287
@@ -116,14 +116,14 @@ Lebanon, PA Metro Area 	 40.3429683,-76.4233816	0.9700000000000001
 Manchester-Nashua, NH Metro Area 	 42.9956397,-71.4547891	1.516
 Mayagüez, PR Metro Area 	 17.9390029,-66.9539751	0.712
 Milwaukee-Waukesha-West Allis, WI Metro Area 	 43.0349931,-87.922497	4.016
-New Haven-Milford, CT Metro Area 	 41.3083,72.9279	2.362
+New Haven-Milford, CT Metro Area 	 41.3083,-72.9279	2.362
 Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area 	 39.9527237,-75.1635262	11.723
 Ponce, PR Metro Area 	 17.9935058,-66.6071120305113	0.8270000000000001
 Reading, PA Metro Area 	 40.335345,-75.9279495	1.5330000000000001
 Rochester, NY Metro Area 	 43.1854754,-77.6106861508176	2.774
 Salinas, CA Metro Area 	 36.6744117,-121.6550372	2.233
 San Germán, PR Metro Area 	 18.0887911,-67.007989	0.47800000000000004
-San Juan-Carolina-Caguas, PR Metro Area 	 18.4655,66.1057	2.113
+San Juan-Carolina-Caguas, PR Metro Area 	 18.4655,-66.1057	2.113
 Sheboygan, WI Metro Area 	 43.7508284,-87.71453	0.731
 Tallahassee, FL Metro Area 	 30.4380832,-84.2809332	3.1180000000000003
 Vineland-Bridgeton, NJ Metro Area 	 39.473152,-75.0020265495217	0.832
@@ -140,7 +140,7 @@ Blacksburg-Christiansburg-Radford, VA Metro Area 	 37.2296566,-80.4136767	1.794
 Bloomington, IL Metro Area 	 40.4731073,-88.9941403	1.441
 Bloomsburg-Berwick, PA Metro Area 	 41.0041213,-76.453816	0.754
 Boulder, CO Metro Area 	 40.102555,-105.3632079	3.376
-Bridgeport-Stamford-Norwalk, CT Metro Area 	 41.1792,73.1894	2.4
+Bridgeport-Stamford-Norwalk, CT Metro Area 	 41.1792,-73.1894	2.4
 Burlington-South Burlington, VT Metro Area 	 44.4762975,-73.2135472	0.98
 California-Lexington Park, MD Metro Area 	 38.3004029,-76.5074542	0.878
 Canton-Massillon, OH Metro Area 	 40.7989522,-81.3784445	1.346
@@ -184,19 +184,19 @@ Naples-Immokalee-Marco Island, FL Metro Area 	 26.1421976,-81.7942944	2.265
 Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area 	 36.1622296,-86.7743531	6.8500000000000005
 New Orleans-Metairie, LA Metro Area 	 29.9499323,-90.0701156	4.398
 North Port-Sarasota-Bradenton, FL Metro Area 	 27.044224,-82.2359254	4.5840000000000005
-Norwich-New London, CT Metro Area 	 41.3557,72.0995	1.597
+Norwich-New London, CT Metro Area 	 41.3557,-72.0995	1.597
 Parkersburg-Vienna, WV Metro Area 	 39.2699565,-81.5506916	0.5900000000000001
 Pittsburgh, PA Metro Area 	 40.4416941,-79.9900861	5.162
-Portland-South Portland, ME Metro Area 	 43.6591,70.2568	2.081
+Portland-South Portland, ME Metro Area 	 43.6591,-70.2568	2.081
 Port St. Lucie, FL Metro Area 	 27.2939333,-80.3503283	2.8609999999999998
 Provo-Orem, UT Metro Area 	 40.2338438,-111.6585337	3.7030000000000003
 Punta Gorda, FL Metro Area 	 26.9297836,-82.0453664	1.617
-Richmond, VA Metro Area 	 37.5407,77.4360	4.806
+Richmond, VA Metro Area 	 37.5407,-77.4360	4.806
 Roanoke, VA Metro Area 	 37.2738215,-79.9602021478478	1.582
 Rockford, IL Metro Area 	 42.2713945,-89.093966	1.1280000000000001
-San Francisco-Oakland-Hayward, CA Metro Area 	 37.7749,122.4194	13.186
+San Francisco-Oakland-Hayward, CA Metro Area 	 37.7749,-122.4194	13.186
 Santa Maria-Santa Barbara, CA Metro Area 	 34.9531295,-120.4358577	2.4250000000000003
-Savannah, GA Metro Area 	 32.0809,81.0912	2.699
+Savannah, GA Metro Area 	 32.0809,-81.0912	2.699
 Sierra Vista-Douglas, AZ Metro Area 	 31.5455709,-110.2772249	1.484
 South Bend-Mishawaka, IN-MI Metro Area 	 41.6833813,-86.2500066	1.719
 Springfield, OH Metro Area 	 39.9242266,-83.8088172	0.885
@@ -209,16 +209,16 @@ Weirton-Steubenville, WV-OH Metro Area 	 40.4189566,-80.5895167	0.844
 Wheeling, WV-OH Metro Area 	 40.0639616,-80.7209149	0.8400000000000001
 Winchester, VA-WV Metro Area 	 39.1852184,-78.1652404	0.864
 York-Hanover, PA Metro Area 	 39.962398,-76.727392	1.887
-Alexandria, LA Metro Area 	 31.3113,92.4451	0.766
+Alexandria, LA Metro Area 	 31.3113,-92.4451	0.766
 Anniston-Oxford-Jacksonville, AL Metro Area 	 33.695381,-85.8398422788233	1.034
 Augusta-Richmond County, GA-SC Metro Area 	 33.4709714,-81.9748429	2.8649999999999998
 Bay City, MI Metro Area 	 28.9827565,-95.969402	0.7010000000000001
-Brunswick, GA Metro Area 	 31.1500,81.4915	0.969
+Brunswick, GA Metro Area 	 31.1500,-81.4915	0.969
 Cape Girardeau, MO-IL Metro Area 	 37.3058839,-89.5181476	0.775
 Chattanooga, TN-GA Metro Area 	 35.0456297,-85.3096801	2.4090000000000003
 Columbus, GA-AL Metro Area 	 32.4609764,-84.9877094	2.764
 Crestview-Fort Walton Beach-Destin, FL Metro Area 	 30.7621326,-86.5705084	2.1229999999999998
-Dalton, GA Metro Area 	 34.7698,84.9702	0.8069999999999999
+Dalton, GA Metro Area 	 34.7698,-84.9702	0.8069999999999999
 Dothan, AL Metro Area 	 31.2232313,-85.3904889	0.735
 Florence, SC Metro Area 	 34.1984435,-79.7671658	0.9269999999999999
 Goldsboro, NC Metro Area 	 35.3848841,-77.9927651	0.964
@@ -237,7 +237,7 @@ Warner Robins, GA Metro Area 	 32.6209775,-83.5999048	1.269
 Beckley, WV Metro Area 	 37.7781702,-81.1881557	0.66
 Bend-Redmond, OR Metro Area 	 44.0581728,-121.3153096	1.189
 Bremerton-Silverdale, WA Metro Area 	 47.5653663,-122.6246836	1.88
-Chico, CA Metro Area 	 39.7285,121.8375	1.315
+Chico, CA Metro Area 	 39.7285,-121.8375	1.315
 Coeur d'Alene, ID Metro Area 	 47.6742994,-116.7811531	1.219
 Elkhart-Goshen, IN Metro Area 	 41.6819935,-85.9766671	0.9
 Eugene, OR Metro Area 	 44.0505054,-123.0950506	2.439
@@ -310,7 +310,7 @@ Lafayette, LA Metro Area 	 30.2240897,-92.0198427	1.964
 Lincoln, NE Metro Area 	 40.8,-96.667821	1.663
 Missoula, MT Metro Area 	 46.8700801,-113.9952796	0.9219999999999999
 Mount Vernon-Anacortes, WA Metro Area 	 48.4200462,-122.32642	1.013
-Napa, CA Metro Area 	 38.2975,122.2869	0.91
+Napa, CA Metro Area 	 38.2975,-122.2869	0.91
 New Bern, NC Metro Area 	 35.1084931,-77.0441143	1.342
 Ogden-Clearfield, UT Metro Area 	 41.2230048,-111.9738429	2.868
 Olympia-Tumwater, WA Metro Area 	 47.0451022,-122.8950075	2.009
@@ -318,7 +318,7 @@ Peoria, IL Metro Area 	 40.6938609,-89.5891008	1.411
 Pueblo, CO Metro Area 	 38.187635,-104.5350145	1.0230000000000001
 Racine, WI Metro Area 	 42.7260523,-87.7825242	0.9309999999999999
 Santa Fe, NM Metro Area 	 35.6869996,-105.9377997	1.0250000000000001
-Santa Rosa, CA Metro Area 	 38.4404,122.7141	1.936
+Santa Rosa, CA Metro Area 	 38.4404,-122.7141	1.936
 Vallejo-Fairfield, CA Metro Area 	 38.1040864,-122.2566367	2.421
 Visalia-Porterville, CA Metro Area 	 36.3302284,-119.2920585	1.629
 Yuma, AZ Metro Area 	 32.6926588,-114.6276157	1.387
@@ -326,7 +326,7 @@ Hammond, LA Metro Area 	 41.5833658,-87.500043	1.2049999999999998
 Johnson City, TN Metro Area 	 36.3134398,-82.3534728	1.2489999999999999
 Merced, CA Metro Area 	 37.3029568,-120.4843269	1.405
 Pocatello, ID Metro Area 	 42.8688613,-112.4401098	0.847
-Winston-Salem, NC Metro Area 	 36.0999,80.2442	2.6670000000000003
+Winston-Salem, NC Metro Area 	 36.0999,-80.2442	2.6670000000000003
 Aguadilla-Isabela, PR Metro Area 	 18.44215415,-67.1473105463995	0.696
 Casper, WY Metro Area 	 38.3067052,-122.3465718	0.695
 Chambersburg-Waynesboro, PA Metro Area 	 39.9405903,-77.6598624	1.001
@@ -337,7 +337,7 @@ Gettysburg, PA Metro Area 	 39.8309399,-77.2310908	0.789
 Hanford-Corcoran, CA Metro Area 	 36.3274502,-119.6456844	1.4909999999999999
 Morristown, TN Metro Area 	 36.2139814,-83.2948923	0.972
 Ocean City, NJ Metro Area 	 39.2776156,-74.5746001	0.6849999999999999
-Staunton-Waynesboro, VA Metro Area 	 38.1496,79.0717	0.856
+Staunton-Waynesboro, VA Metro Area 	 38.1496,-79.0717	0.856
 Stockton-Lodi, CA Metro Area 	 38.1341, 121.2722	3.0170000000000003
 Topeka, KS Metro Area 	 39.049011,-95.677556	1.103
 Williamsport, PA Metro Area 	 41.2493292,-77.0027671	0.733
@@ -356,9 +356,9 @@ Rochester, MN Metro Area 	 44.0234387,-92.4630182	0.962
 Sioux City, IA-NE-SD Metro Area 	 42.4966815,-96.4058782	0.815
 Waterloo-Cedar Falls, IA Metro Area 	 42.4979693,-92.3329637	1.0219999999999998
 Wausau, WI Metro Area 	 44.9596017,-89.6298239	0.6759999999999999
-Albany, GA Metro Area 	 31.5785,84.1557	0.976
-Bangor, ME Metro Area 	 44.8016,68.7712	0.859
-El Centro, CA Metro Area 	 32.7920,115.5631	0.8540000000000001
+Albany, GA Metro Area 	 31.5785,-84.1557	0.976
+Bangor, ME Metro Area 	 44.8016,-68.7712	0.859
+El Centro, CA Metro Area 	 32.7920,-115.5631	0.8540000000000001
 Greenville, NC Metro Area 	 35.612661,-77.3663538	1.666
 Idaho Falls, ID Metro Area 	 43.4935245,-112.0400919	0.871
 Janesville-Beloit, WI Metro Area 	 42.6829765,-89.0226793	0.92
@@ -379,7 +379,7 @@ Mobile, AL Metro Area 	 39.092585,-84.853229	1.521
 Kingsport-Bristol-Bristol, TN-VA Metro Area 	 36.550238,-82.5594293	1.4120000000000001
 Rocky Mount, NC Metro Area 	 35.9423833,-77.7956949	0.837
 Columbus, IN Metro Area 	 39.730727,-82.604837	0.732
-Hot Springs, AR Metro Area 	 34.5037,93.0552	0.875
+Hot Springs, AR Metro Area 	 34.5037,-93.0552	0.875
 Jackson, TN Metro Area 	 35.6144446,-88.8177418	0.821
 Kahului-Wailuku-Lahaina, HI Metro Area 	 20.8894101,-156.4727118	0.86
 Laredo, TX Metro Area 	 27.5199841,-99.4953764	0.8099999999999999
