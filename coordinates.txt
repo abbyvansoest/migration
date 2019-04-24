@@ -16,7 +16,7 @@ Brownsville-Harlingen, TX Metro Area 	 25.9140256,-97.4890856
 Buffalo-Cheektowaga-Niagara Falls, NY Metro Area 	 42.8867166,-78.8783922
 Charleston-North Charleston, SC Metro Area 	 32.7876012,-79.9402728
 Charlotte-Concord-Gastonia, NC-SC Metro Area 	 35.2270869,-80.8431268
-Cheyenne, WY Metro Area 	 34.1712252,-118.8433527
+Cheyenne, WY Metro Area 	 41.1400,-104.8202
 Chicago-Naperville-Elgin, IL-IN-WI Metro Area 	 41.8755616,-87.6244212
 Cleveland-Elyria, OH Metro Area 	 41.5051613,-81.6934446
 College Station-Bryan, TX Metro Area 	 30.6253463,-96.3271538
@@ -156,7 +156,7 @@ Deltona-Daytona Beach-Ormond Beach, FL Metro Area 	 28.9005446,-81.2636738
 Des Moines-West Des Moines, IA Metro Area 	 41.5910641,-93.6037149
 Erie, PA Metro Area 	 42.1294712,-80.0852695
 Flint, MI Metro Area 	 43.0171773,-83.7236024
-Florence-Muscle Shoals, AL Metro Area 	 29.425683,-98.467486
+Florence-Muscle Shoals, AL Metro Area 	 34.74481 -87.66753 
 Fort Collins, CO Metro Area 	 40.5508527,-105.0668085
 Grand Island, NE Metro Area 	 40.924271,-98.338685
 Green Bay, WI Metro Area 	 44.5126379,-88.0125794
