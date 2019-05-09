@@ -1,0 +1,1209 @@
+Metros,Edge Betweenness
+"('Los Angeles-Long Beach-Anaheim, CA Metro Area', 'New York-Newark-Jersey City, NY-NJ-PA Metro Area')",0.10756146940515197
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'Chicago-Naperville-Elgin, IL-IN-WI Metro Area')",0.09191107914435655
+"('Chicago-Naperville-Elgin, IL-IN-WI Metro Area', 'New York-Newark-Jersey City, NY-NJ-PA Metro Area')",0.0844521697434668
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'Los Angeles-Long Beach-Anaheim, CA Metro Area')",0.06297450651322625
+"('Seattle-Tacoma-Bellevue, WA Metro Area', 'Los Angeles-Long Beach-Anaheim, CA Metro Area')",0.05984442846106716
+"('Atlanta-Sandy Springs-Roswell, GA Metro Area', 'New York-Newark-Jersey City, NY-NJ-PA Metro Area')",0.05835930632142572
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area')",0.05429686459415541
+"('Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area', 'New York-Newark-Jersey City, NY-NJ-PA Metro Area')",0.053597591837822
+"('Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area', 'New York-Newark-Jersey City, NY-NJ-PA Metro Area')",0.053104771038120356
+"('Miami-Fort Lauderdale-West Palm Beach, FL Metro Area', 'New York-Newark-Jersey City, NY-NJ-PA Metro Area')",0.04567916033991316
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area')",0.042489144622925495
+"('Chicago-Naperville-Elgin, IL-IN-WI Metro Area', 'Los Angeles-Long Beach-Anaheim, CA Metro Area')",0.0412704121047444
+"('Minneapolis-St. Paul-Bloomington, MN-WI Metro Area', 'Chicago-Naperville-Elgin, IL-IN-WI Metro Area')",0.03662191321026133
+"('Los Angeles-Long Beach-Anaheim, CA Metro Area', 'Seattle-Tacoma-Bellevue, WA Metro Area')",0.03243959615333387
+"('Phoenix-Mesa-Scottsdale, AZ Metro Area', 'Los Angeles-Long Beach-Anaheim, CA Metro Area')",0.03136071818641946
+"('Dallas-Fort Worth-Arlington, TX Metro Area', 'Houston-The Woodlands-Sugar Land, TX Metro Area')",0.029962172673752632
+"('Indianapolis-Carmel-Anderson, IN Metro Area', 'Chicago-Naperville-Elgin, IL-IN-WI Metro Area')",0.029376115506539867
+"('Detroit-Warren-Dearborn, MI Metro Area', 'Chicago-Naperville-Elgin, IL-IN-WI Metro Area')",0.029249580436346203
+"('Chicago-Naperville-Elgin, IL-IN-WI Metro Area', 'Minneapolis-St. Paul-Bloomington, MN-WI Metro Area')",0.028570286901622315
+"('Boston-Cambridge-Newton, MA-NH Metro Area', 'New York-Newark-Jersey City, NY-NJ-PA Metro Area')",0.02761794400490157
+"('Dallas-Fort Worth-Arlington, TX Metro Area', 'New York-Newark-Jersey City, NY-NJ-PA Metro Area')",0.02742481152934282
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'Atlanta-Sandy Springs-Roswell, GA Metro Area')",0.0274114920482698
+"('San Francisco-Oakland-Hayward, CA Metro Area', 'New York-Newark-Jersey City, NY-NJ-PA Metro Area')",0.027278297237539627
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'Boston-Cambridge-Newton, MA-NH Metro Area')",0.026885372545885612
+"('Chicago-Naperville-Elgin, IL-IN-WI Metro Area', 'Detroit-Warren-Dearborn, MI Metro Area')",0.026718879032472897
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'Miami-Fort Lauderdale-West Palm Beach, FL Metro Area')",0.02660566344335225
+"('Atlanta-Sandy Springs-Roswell, GA Metro Area', 'Chicago-Naperville-Elgin, IL-IN-WI Metro Area')",0.026252697194917286
+"('Chicago-Naperville-Elgin, IL-IN-WI Metro Area', 'St. Louis, MO-IL Metro Area')",0.026212738751698234
+"('Houston-The Woodlands-Sugar Land, TX Metro Area', 'Chicago-Naperville-Elgin, IL-IN-WI Metro Area')",0.026099523162577586
+"('St. Louis, MO-IL Metro Area', 'Chicago-Naperville-Elgin, IL-IN-WI Metro Area')",0.025433549108926718
+"('Birmingham-Hoover, AL Metro Area', 'Atlanta-Sandy Springs-Roswell, GA Metro Area')",0.025173819228002877
+"('Los Angeles-Long Beach-Anaheim, CA Metro Area', 'Dallas-Fort Worth-Arlington, TX Metro Area')",0.024880790644396494
+"('Chicago-Naperville-Elgin, IL-IN-WI Metro Area', 'Indianapolis-Carmel-Anderson, IN Metro Area')",0.024021684115186872
+"('Los Angeles-Long Beach-Anaheim, CA Metro Area', 'San Francisco-Oakland-Hayward, CA Metro Area')",0.023149258104904234
+"('Portland-Vancouver-Hillsboro, OR-WA Metro Area', 'Seattle-Tacoma-Bellevue, WA Metro Area')",0.022716374970031167
+"('Columbus, OH Metro Area', 'Chicago-Naperville-Elgin, IL-IN-WI Metro Area')",0.022030421694770774
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'Charlotte-Concord-Gastonia, NC-SC Metro Area')",0.021018141133221452
+"('Atlanta-Sandy Springs-Roswell, GA Metro Area', 'Birmingham-Hoover, AL Metro Area')",0.019965902128453075
+"('Charlotte-Concord-Gastonia, NC-SC Metro Area', 'Atlanta-Sandy Springs-Roswell, GA Metro Area')",0.019812728096113376
+"('Houston-The Woodlands-Sugar Land, TX Metro Area', 'New Orleans-Metairie, LA Metro Area')",0.019812728096113376
+"('Orlando-Kissimmee-Sanford, FL Metro Area', 'Miami-Fort Lauderdale-West Palm Beach, FL Metro Area')",0.018893683902075176
+"('Pittsburgh, PA Metro Area', 'Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area')",0.0176882708649671
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'Houston-The Woodlands-Sugar Land, TX Metro Area')",0.017368603319214686
+"('Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area', 'Atlanta-Sandy Springs-Roswell, GA Metro Area')",0.01713551240043688
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'Raleigh, NC Metro Area')",0.01677588641146541
+"('Houston-The Woodlands-Sugar Land, TX Metro Area', 'New York-Newark-Jersey City, NY-NJ-PA Metro Area')",0.01591012014171928
+"('Los Angeles-Long Beach-Anaheim, CA Metro Area', 'Portland-Vancouver-Hillsboro, OR-WA Metro Area')",0.01564373052025893
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'San Francisco-Oakland-Hayward, CA Metro Area')",0.015450598044700179
+"('Denver-Aurora-Lakewood, CO Metro Area', 'Los Angeles-Long Beach-Anaheim, CA Metro Area')",0.01534404219611604
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'Dallas-Fort Worth-Arlington, TX Metro Area')",0.015170888942166814
+"('St. Louis, MO-IL Metro Area', 'Kansas City, MO-KS Metro Area')",0.01426516422920163
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'Cleveland-Elyria, OH Metro Area')",0.014165268121154
+"('Chicago-Naperville-Elgin, IL-IN-WI Metro Area', 'Houston-The Woodlands-Sugar Land, TX Metro Area')",0.014165268121154
+"('Chicago-Naperville-Elgin, IL-IN-WI Metro Area', 'Dallas-Fort Worth-Arlington, TX Metro Area')",0.013845600575401584
+"('Chicago-Naperville-Elgin, IL-IN-WI Metro Area', 'Atlanta-Sandy Springs-Roswell, GA Metro Area')",0.01314632781906817
+"('Los Angeles-Long Beach-Anaheim, CA Metro Area', 'Denver-Aurora-Lakewood, CO Metro Area')",0.012700125203122086
+"('Salt Lake City, UT Metro Area', 'Phoenix-Mesa-Scottsdale, AZ Metro Area')",0.012693465462585578
+"('Spokane-Spokane Valley, WA Metro Area', 'Seattle-Tacoma-Bellevue, WA Metro Area')",0.012660166759903035
+"('Tampa-St. Petersburg-Clearwater, FL Metro Area', 'Miami-Fort Lauderdale-West Palm Beach, FL Metro Area')",0.012487013505953808
+"('Chicago-Naperville-Elgin, IL-IN-WI Metro Area', 'Milwaukee-Waukesha-West Allis, WI Metro Area')",0.012353818695223635
+"('Cincinnati, OH-KY-IN Metro Area', 'Chicago-Naperville-Elgin, IL-IN-WI Metro Area')",0.012233943365566479
+"('Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area', 'Pittsburgh, PA Metro Area')",0.0121740057007379
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'Orlando-Kissimmee-Sanford, FL Metro Area')",0.011954234263033112
+"('Raleigh, NC Metro Area', 'Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area')",0.011035190068994912
+"('Kansas City, MO-KS Metro Area', 'St. Louis, MO-IL Metro Area')",0.010988571885239351
+"('Baltimore-Columbia-Towson, MD Metro Area', 'Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area')",0.010429153680172621
+"(""Coeur d'Alene, ID Metro Area"", 'Spokane-Spokane Valley, WA Metro Area')",0.010142784837102747
+"('San Diego-Carlsbad, CA Metro Area', 'Los Angeles-Long Beach-Anaheim, CA Metro Area')",0.010136125096566239
+"('Columbia, SC Metro Area', 'Charlotte-Concord-Gastonia, NC-SC Metro Area')",0.010096166653347186
+"('Milwaukee-Waukesha-West Allis, WI Metro Area', 'Chicago-Naperville-Elgin, IL-IN-WI Metro Area')",0.010089506912810678
+"('Dallas-Fort Worth-Arlington, TX Metro Area', 'Atlanta-Sandy Springs-Roswell, GA Metro Area')",0.01007618743173766
+"('San Francisco-Oakland-Hayward, CA Metro Area', 'San Jose-Sunnyvale-Santa Clara, CA Metro Area')",0.010029569247982099
+"('Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area', 'Baltimore-Columbia-Towson, MD Metro Area')",0.009949652361543994
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'Cincinnati, OH-KY-IN Metro Area')",0.00992301339939796
+"('Little Rock-North Little Rock-Conway, AR Metro Area', 'Dallas-Fort Worth-Arlington, TX Metro Area')",0.009909693918324943
+"('Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area', 'Knoxville, TN Metro Area')",0.009789818588667785
+"('Phoenix-Mesa-Scottsdale, AZ Metro Area', 'Chicago-Naperville-Elgin, IL-IN-WI Metro Area')",0.00966994325901063
+"('Los Angeles-Long Beach-Anaheim, CA Metro Area', 'Phoenix-Mesa-Scottsdale, AZ Metro Area')",0.009649964037401104
+"('San Francisco-Oakland-Hayward, CA Metro Area', 'Los Angeles-Long Beach-Anaheim, CA Metro Area')",0.009396893897013772
+"('Dallas-Fort Worth-Arlington, TX Metro Area', 'Fayetteville-Springdale-Rogers, AR-MO Metro Area')",0.009370254934867739
+"('Atlanta-Sandy Springs-Roswell, GA Metro Area', 'Dallas-Fort Worth-Arlington, TX Metro Area')",0.008571086070486695
+"('Houston-The Woodlands-Sugar Land, TX Metro Area', 'Los Angeles-Long Beach-Anaheim, CA Metro Area')",0.008451210740829537
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area')",0.008411252297610486
+"('Dallas-Fort Worth-Arlington, TX Metro Area', 'Los Angeles-Long Beach-Anaheim, CA Metro Area')",0.008224779562588241
+"('Champaign-Urbana, IL Metro Area', 'Chicago-Naperville-Elgin, IL-IN-WI Metro Area')",0.0077186392818135805
+"('Sacramento--Roseville--Arden-Arcade, CA Metro Area', 'San Francisco-Oakland-Hayward, CA Metro Area')",0.007705319800740564
+"('Riverside-San Bernardino-Ontario, CA Metro Area', 'Los Angeles-Long Beach-Anaheim, CA Metro Area')",0.007692000319667546
+"('Portland-South Portland, ME Metro Area', 'Boston-Cambridge-Newton, MA-NH Metro Area')",0.007692000319667546
+"('Huntsville, AL Metro Area', 'Birmingham-Hoover, AL Metro Area')",0.007678680838594529
+"('Las Vegas-Henderson-Paradise, NV Metro Area', 'Los Angeles-Long Beach-Anaheim, CA Metro Area')",0.00767202109805802
+"('Harrisburg-Carlisle, PA Metro Area', 'Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area')",0.007638722395375477
+"('Stockton-Lodi, CA Metro Area', 'San Francisco-Oakland-Hayward, CA Metro Area')",0.007638722395375477
+"('South Bend-Mishawaka, IN-MI Metro Area', 'Chicago-Naperville-Elgin, IL-IN-WI Metro Area')",0.0076054236926929334
+"('Albuquerque, NM Metro Area', 'Phoenix-Mesa-Scottsdale, AZ Metro Area')",0.007598763952156425
+"('Huntington-Ashland, WV-KY-OH Metro Area', 'Columbus, OH Metro Area')",0.007545486027864355
+"('Boston-Cambridge-Newton, MA-NH Metro Area', 'Portland-South Portland, ME Metro Area')",0.007532166546791338
+"('Seattle-Tacoma-Bellevue, WA Metro Area', 'Missoula, MT Metro Area')",0.00751884706571832
+"('Chicago-Naperville-Elgin, IL-IN-WI Metro Area', 'South Bend-Mishawaka, IN-MI Metro Area')",0.00751884706571832
+"('Los Angeles-Long Beach-Anaheim, CA Metro Area', 'Salt Lake City, UT Metro Area')",0.0074922081035722855
+"('Boise City, ID Metro Area', 'Seattle-Tacoma-Bellevue, WA Metro Area')",0.00746556914142625
+"('Chicago-Naperville-Elgin, IL-IN-WI Metro Area', 'Iowa City, IA Metro Area')",0.0074389301792802155
+"('Chicago-Naperville-Elgin, IL-IN-WI Metro Area', 'Omaha-Council Bluffs, NE-IA Metro Area')",0.007392311995524654
+"('Louisville/Jefferson County, KY-IN Metro Area', 'Indianapolis-Carmel-Anderson, IN Metro Area')",0.0073789925144516376
+"('Cleveland-Elyria, OH Metro Area', 'Chicago-Naperville-Elgin, IL-IN-WI Metro Area')",0.007312395109086551
+"('Madison, WI Metro Area', 'Chicago-Naperville-Elgin, IL-IN-WI Metro Area')",0.007259117184794481
+"('Chicago-Naperville-Elgin, IL-IN-WI Metro Area', 'Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area')",0.0071059431524547806
+"('Los Angeles-Long Beach-Anaheim, CA Metro Area', 'Boise City, ID Metro Area')",0.007039345747089694
+"('Denver-Aurora-Lakewood, CO Metro Area', 'Albuquerque, NM Metro Area')",0.006326753509683263
+"('Dallas-Fort Worth-Arlington, TX Metro Area', 'Seattle-Tacoma-Bellevue, WA Metro Area')",0.006286795066464211
+"('Atlanta-Sandy Springs-Roswell, GA Metro Area', 'Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area')",0.006126961293588002
+"('Chicago-Naperville-Elgin, IL-IN-WI Metro Area', 'Denver-Aurora-Lakewood, CO Metro Area')",0.006126961293588002
+"('Houston-The Woodlands-Sugar Land, TX Metro Area', 'Dallas-Fort Worth-Arlington, TX Metro Area')",0.005687418418178428
+"('El Paso, TX Metro Area', 'Dallas-Fort Worth-Arlington, TX Metro Area')",0.005274514504914889
+"('Omaha-Council Bluffs, NE-IA Metro Area', 'Chicago-Naperville-Elgin, IL-IN-WI Metro Area')",0.005254535283305363
+"('Pensacola-Ferry Pass-Brent, FL Metro Area', 'San Diego-Carlsbad, CA Metro Area')",0.00516795865633075
+"('Fargo, ND-MN Metro Area', 'Minneapolis-St. Paul-Bloomington, MN-WI Metro Area')",0.005147979434721224
+"('Montgomery, AL Metro Area', 'Birmingham-Hoover, AL Metro Area')",0.005147979434721224
+"('Lincoln, NE Metro Area', 'Omaha-Council Bluffs, NE-IA Metro Area')",0.005147979434721224
+"('Vallejo-Fairfield, CA Metro Area', 'San Francisco-Oakland-Hayward, CA Metro Area')",0.005147979434721224
+"('Albany-Schenectady-Troy, NY Metro Area', 'New York-Newark-Jersey City, NY-NJ-PA Metro Area')",0.005141319694184715
+"('Cleveland-Elyria, OH Metro Area', 'Akron, OH Metro Area')",0.005141319694184715
+"('Reno, NV Metro Area', 'Las Vegas-Henderson-Paradise, NV Metro Area')",0.005141319694184715
+"('Kalamazoo-Portage, MI Metro Area', 'Detroit-Warren-Dearborn, MI Metro Area')",0.005141319694184715
+"('Shreveport-Bossier City, LA Metro Area', 'Dallas-Fort Worth-Arlington, TX Metro Area')",0.005141319694184715
+"('Savannah, GA Metro Area', 'Atlanta-Sandy Springs-Roswell, GA Metro Area')",0.005141319694184715
+"('Ogden-Clearfield, UT Metro Area', 'Salt Lake City, UT Metro Area')",0.005141319694184715
+"('Salem, OR Metro Area', 'Portland-Vancouver-Hillsboro, OR-WA Metro Area')",0.005141319694184715
+"('Medford, OR Metro Area', 'Portland-Vancouver-Hillsboro, OR-WA Metro Area')",0.005141319694184715
+"('Tucson, AZ Metro Area', 'Phoenix-Mesa-Scottsdale, AZ Metro Area')",0.005134659953648206
+"('Rochester, NY Metro Area', 'New York-Newark-Jersey City, NY-NJ-PA Metro Area')",0.005128000213111697
+"('Anchorage, AK Metro Area', 'New York-Newark-Jersey City, NY-NJ-PA Metro Area')",0.005128000213111697
+"('Modesto, CA Metro Area', 'Stockton-Lodi, CA Metro Area')",0.0051213404725751885
+"('Bridgeport-Stamford-Norwalk, CT Metro Area', 'New York-Newark-Jersey City, NY-NJ-PA Metro Area')",0.00511468073203868
+"('Knoxville, TN Metro Area', 'Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area')",0.00511468073203868
+"('Richmond, VA Metro Area', 'Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area')",0.00511468073203868
+"('Johnson City, TN Metro Area', 'Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area')",0.00511468073203868
+"('San Jose-Sunnyvale-Santa Clara, CA Metro Area', 'San Francisco-Oakland-Hayward, CA Metro Area')",0.00511468073203868
+"('Lakeland-Winter Haven, FL Metro Area', 'Orlando-Kissimmee-Sanford, FL Metro Area')",0.005108020991502172
+"('Fresno, CA Metro Area', 'San Francisco-Oakland-Hayward, CA Metro Area')",0.005101361250965663
+"('Grand Rapids-Wyoming, MI Metro Area', 'Detroit-Warren-Dearborn, MI Metro Area')",0.005101361250965663
+"('York-Hanover, PA Metro Area', 'Baltimore-Columbia-Towson, MD Metro Area')",0.005088041769892645
+"('Oklahoma City, OK Metro Area', 'Dallas-Fort Worth-Arlington, TX Metro Area')",0.005074722288819628
+"('North Port-Sarasota-Bradenton, FL Metro Area', 'Tampa-St. Petersburg-Clearwater, FL Metro Area')",0.005074722288819628
+"('Akron, OH Metro Area', 'Cleveland-Elyria, OH Metro Area')",0.005074722288819628
+"('Fayetteville-Springdale-Rogers, AR-MO Metro Area', 'Dallas-Fort Worth-Arlington, TX Metro Area')",0.0050614028077466105
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'Albany-Schenectady-Troy, NY Metro Area')",0.005034763845600576
+"('Miami-Fort Lauderdale-West Palm Beach, FL Metro Area', 'Port St. Lucie, FL Metro Area')",0.005034763845600576
+"('Portland-Vancouver-Hillsboro, OR-WA Metro Area', 'Medford, OR Metro Area')",0.005034763845600576
+"('Columbia, MO Metro Area', 'St. Louis, MO-IL Metro Area')",0.005034763845600576
+"('Salt Lake City, UT Metro Area', 'Ogden-Clearfield, UT Metro Area')",0.005034763845600576
+"('Portland-Vancouver-Hillsboro, OR-WA Metro Area', 'Salem, OR Metro Area')",0.005028104105064067
+"('Seattle-Tacoma-Bellevue, WA Metro Area', 'Anchorage, AK Metro Area')",0.005028104105064067
+"('Detroit-Warren-Dearborn, MI Metro Area', 'Saginaw, MI Metro Area')",0.005021444364527558
+"('Dayton, OH Metro Area', 'Cincinnati, OH-KY-IN Metro Area')",0.005021444364527558
+"('Missoula, MT Metro Area', ""Coeur d'Alene, ID Metro Area"")",0.005014784623991049
+"('Dallas-Fort Worth-Arlington, TX Metro Area', 'Midland, TX Metro Area')",0.005014784623991049
+"('Milwaukee-Waukesha-West Allis, WI Metro Area', 'Oshkosh-Neenah, WI Metro Area')",0.0050081248834545405
+"('Des Moines-West Des Moines, IA Metro Area', 'Phoenix-Mesa-Scottsdale, AZ Metro Area')",0.0050081248834545405
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'Bridgeport-Stamford-Norwalk, CT Metro Area')",0.0050081248834545405
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'Hartford-West Hartford-East Hartford, CT Metro Area')",0.0050081248834545405
+"('Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area', 'Charleston, WV Metro Area')",0.0050081248834545405
+"('Los Angeles-Long Beach-Anaheim, CA Metro Area', 'Bakersfield, CA Metro Area')",0.0050014651429180325
+"('Dallas-Fort Worth-Arlington, TX Metro Area', 'Oklahoma City, OK Metro Area')",0.004994805402381524
+"('Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area', 'Lancaster, PA Metro Area')",0.004994805402381524
+"('Baltimore-Columbia-Towson, MD Metro Area', 'York-Hanover, PA Metro Area')",0.004994805402381524
+"('Iowa City, IA Metro Area', 'Cedar Rapids, IA Metro Area')",0.004994805402381524
+"('Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area', 'Harrisburg-Carlisle, PA Metro Area')",0.004988145661845015
+"('Los Angeles-Long Beach-Anaheim, CA Metro Area', 'Fresno, CA Metro Area')",0.004988145661845015
+"('Detroit-Warren-Dearborn, MI Metro Area', 'Kalamazoo-Portage, MI Metro Area')",0.004988145661845015
+"('Charlotte-Concord-Gastonia, NC-SC Metro Area', 'Columbia, SC Metro Area')",0.004988145661845015
+"('San Francisco-Oakland-Hayward, CA Metro Area', 'Reno, NV Metro Area')",0.004981485921308506
+"('San Francisco-Oakland-Hayward, CA Metro Area', 'Sacramento--Roseville--Arden-Arcade, CA Metro Area')",0.004974826180771997
+"('Seattle-Tacoma-Bellevue, WA Metro Area', 'Spokane-Spokane Valley, WA Metro Area')",0.004974826180771997
+"('Hartford-West Hartford-East Hartford, CT Metro Area', 'New York-Newark-Jersey City, NY-NJ-PA Metro Area')",0.004968166440235488
+"('Los Angeles-Long Beach-Anaheim, CA Metro Area', 'Las Vegas-Henderson-Paradise, NV Metro Area')",0.004954846959162471
+"('Durham-Chapel Hill, NC Metro Area', 'Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area')",0.004954846959162471
+"('Los Angeles-Long Beach-Anaheim, CA Metro Area', 'San Diego-Carlsbad, CA Metro Area')",0.004954846959162471
+"('Dallas-Fort Worth-Arlington, TX Metro Area', 'Tulsa, OK Metro Area')",0.0049481872186259625
+"('Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area', 'Virginia Beach-Norfolk-Newport News, VA-NC Metro Area')",0.004941527478089454
+"('Miami-Fort Lauderdale-West Palm Beach, FL Metro Area', 'Gainesville, FL Metro Area')",0.004941527478089454
+"('Chattanooga, TN-GA Metro Area', 'Atlanta-Sandy Springs-Roswell, GA Metro Area')",0.004941527478089454
+"('New Orleans-Metairie, LA Metro Area', 'Gulfport-Biloxi-Pascagoula, MS Metro Area')",0.004921548256479928
+"('Atlanta-Sandy Springs-Roswell, GA Metro Area', 'Chattanooga, TN-GA Metro Area')",0.004901569034870401
+"('Iowa City, IA Metro Area', 'Chicago-Naperville-Elgin, IL-IN-WI Metro Area')",0.004901569034870401
+"('Greenville-Anderson-Mauldin, SC Metro Area', 'Atlanta-Sandy Springs-Roswell, GA Metro Area')",0.004888249553797385
+"('Raleigh, NC Metro Area', 'Durham-Chapel Hill, NC Metro Area')",0.004881589813260876
+"('Chicago-Naperville-Elgin, IL-IN-WI Metro Area', 'Grand Rapids-Wyoming, MI Metro Area')",0.004874930072724367
+"('Gulfport-Biloxi-Pascagoula, MS Metro Area', 'Houston-The Woodlands-Sugar Land, TX Metro Area')",0.004874930072724367
+"('Knoxville, TN Metro Area', 'Johnson City, TN Metro Area')",0.004868270332187858
+"('Cincinnati, OH-KY-IN Metro Area', 'Dayton, OH Metro Area')",0.004861610591651349
+"('Baton Rouge, LA Metro Area', 'Houston-The Woodlands-Sugar Land, TX Metro Area')",0.004854950851114841
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'North Port-Sarasota-Bradenton, FL Metro Area')",0.004821652148432297
+"('Chicago-Naperville-Elgin, IL-IN-WI Metro Area', 'Memphis, TN-MS-AR Metro Area')",0.004795013186286262
+"('Syracuse, NY Metro Area', 'New York-Newark-Jersey City, NY-NJ-PA Metro Area')",0.004795013186286262
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'Tampa-St. Petersburg-Clearwater, FL Metro Area')",0.0047816937052132455
+"('Indianapolis-Carmel-Anderson, IN Metro Area', 'Louisville/Jefferson County, KY-IN Metro Area')",0.00475505474306721
+"('Cincinnati, OH-KY-IN Metro Area', 'Lexington-Fayette, KY Metro Area')",0.004741735261994193
+"('Birmingham-Hoover, AL Metro Area', 'Huntsville, AL Metro Area')",0.0047284157809211755
+"('Sioux Falls, SD Metro Area', 'Minneapolis-St. Paul-Bloomington, MN-WI Metro Area')",0.004701776818775141
+"('Houston-The Woodlands-Sugar Land, TX Metro Area', 'El Paso, TX Metro Area')",0.004701776818775141
+"('New Orleans-Metairie, LA Metro Area', 'Houston-The Woodlands-Sugar Land, TX Metro Area')",0.004688457337702123
+"('Los Angeles-Long Beach-Anaheim, CA Metro Area', 'Urban Honolulu, HI Metro Area')",0.004608540451264019
+"('Fayetteville-Springdale-Rogers, AR-MO Metro Area', 'Little Rock-North Little Rock-Conway, AR Metro Area')",0.004581901489117984
+"('San Antonio-New Braunfels, TX Metro Area', 'Dallas-Fort Worth-Arlington, TX Metro Area')",0.00455526252697195
+"('Kansas City, MO-KS Metro Area', 'Dallas-Fort Worth-Arlington, TX Metro Area')",0.004468685899997336
+"('Charlotte-Concord-Gastonia, NC-SC Metro Area', 'Greenville-Anderson-Mauldin, SC Metro Area')",0.004422067716241775
+"('Urban Honolulu, HI Metro Area', 'Los Angeles-Long Beach-Anaheim, CA Metro Area')",0.004275553424438584
+"('Tallahassee, FL Metro Area', 'Miami-Fort Lauderdale-West Palm Beach, FL Metro Area')",0.004248914462292549
+"('Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area', 'Pensacola-Ferry Pass-Brent, FL Metro Area')",0.004202296278536988
+"('Houston-The Woodlands-Sugar Land, TX Metro Area', 'Austin-Round Rock, TX Metro Area')",0.0040091638029782365
+"('Austin-Round Rock, TX Metro Area', 'Houston-The Woodlands-Sugar Land, TX Metro Area')",0.0039558858786861665
+"('Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area', 'Houston-The Woodlands-Sugar Land, TX Metro Area')",0.003796052105809958
+"('Chicago-Naperville-Elgin, IL-IN-WI Metro Area', 'Cincinnati, OH-KY-IN Metro Area')",0.0037161352193718533
+"('Atlanta-Sandy Springs-Roswell, GA Metro Area', 'Miami-Fort Lauderdale-West Palm Beach, FL Metro Area')",0.003676176776152801
+"('Atlanta-Sandy Springs-Roswell, GA Metro Area', 'Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area')",0.003463065078984523
+"('Dallas-Fort Worth-Arlington, TX Metro Area', 'Austin-Round Rock, TX Metro Area')",0.0034231066357654706
+"('Miami-Fort Lauderdale-West Palm Beach, FL Metro Area', 'Atlanta-Sandy Springs-Roswell, GA Metro Area')",0.003289911825035297
+"('Seattle-Tacoma-Bellevue, WA Metro Area', 'Portland-Vancouver-Hillsboro, OR-WA Metro Area')",0.003176696235914649
+"('San Antonio-New Braunfels, TX Metro Area', 'Houston-The Woodlands-Sugar Land, TX Metro Area')",0.0030834598684035272
+"('Chicago-Naperville-Elgin, IL-IN-WI Metro Area', 'Phoenix-Mesa-Scottsdale, AZ Metro Area')",0.0030301819441114577
+"('Dallas-Fort Worth-Arlington, TX Metro Area', 'Denver-Aurora-Lakewood, CO Metro Area')",0.002976904019819388
+"('Killeen-Temple, TX Metro Area', 'Dallas-Fort Worth-Arlington, TX Metro Area')",0.002850368949625723
+"('Green Bay, WI Metro Area', 'Minneapolis-St. Paul-Bloomington, MN-WI Metro Area')",0.0026772156956764966
+"('Billings, MT Metro Area', 'Denver-Aurora-Lakewood, CO Metro Area')",0.0026372572524574443
+"('Evansville, IN-KY Metro Area', 'Indianapolis-Carmel-Anderson, IN Metro Area')",0.002623937771384427
+"('Minneapolis-St. Paul-Bloomington, MN-WI Metro Area', 'Sioux Falls, SD Metro Area')",0.002617278030847918
+"('Colorado Springs, CO Metro Area', 'Denver-Aurora-Lakewood, CO Metro Area')",0.0026106182903114098
+"('Morgantown, WV Metro Area', 'Pittsburgh, PA Metro Area')",0.002603958549774901
+"('Fort Wayne, IN Metro Area', 'Indianapolis-Carmel-Anderson, IN Metro Area')",0.002577319587628866
+"('Oxnard-Thousand Oaks-Ventura, CA Metro Area', 'Los Angeles-Long Beach-Anaheim, CA Metro Area')",0.002577319587628866
+"('Kokomo, IN Metro Area', 'Indianapolis-Carmel-Anderson, IN Metro Area')",0.002577319587628866
+"('Ocala, FL Metro Area', 'Orlando-Kissimmee-Sanford, FL Metro Area')",0.002577319587628866
+"('Farmington, NM Metro Area', 'Albuquerque, NM Metro Area')",0.002577319587628866
+"('Punta Gorda, FL Metro Area', 'North Port-Sarasota-Bradenton, FL Metro Area')",0.002577319587628866
+"('Mount Vernon-Anacortes, WA Metro Area', 'Seattle-Tacoma-Bellevue, WA Metro Area')",0.002577319587628866
+"('Mankato-North Mankato, MN Metro Area', 'Minneapolis-St. Paul-Bloomington, MN-WI Metro Area')",0.002577319587628866
+"('Albany, GA Metro Area', 'Atlanta-Sandy Springs-Roswell, GA Metro Area')",0.002577319587628866
+"('Palm Bay-Melbourne-Titusville, FL Metro Area', 'Orlando-Kissimmee-Sanford, FL Metro Area')",0.002577319587628866
+"('Carson City, NV Metro Area', 'Reno, NV Metro Area')",0.002577319587628866
+"('Longview, WA Metro Area', 'Portland-Vancouver-Hillsboro, OR-WA Metro Area')",0.002577319587628866
+"('Olympia-Tumwater, WA Metro Area', 'Seattle-Tacoma-Bellevue, WA Metro Area')",0.002577319587628866
+"('Bellingham, WA Metro Area', 'Seattle-Tacoma-Bellevue, WA Metro Area')",0.002577319587628866
+"('Yuba City, CA Metro Area', 'Sacramento--Roseville--Arden-Arcade, CA Metro Area')",0.002577319587628866
+"('Sumter, SC Metro Area', 'Columbia, SC Metro Area')",0.002577319587628866
+"('Spartanburg, SC Metro Area', 'Greenville-Anderson-Mauldin, SC Metro Area')",0.002577319587628866
+"('Prescott, AZ Metro Area', 'Phoenix-Mesa-Scottsdale, AZ Metro Area')",0.002577319587628866
+"('Lima, OH Metro Area', 'Columbus, OH Metro Area')",0.002577319587628866
+"('Providence-Warwick, RI-MA Metro Area', 'Boston-Cambridge-Newton, MA-NH Metro Area')",0.002577319587628866
+"('Rockford, IL Metro Area', 'Chicago-Naperville-Elgin, IL-IN-WI Metro Area')",0.002577319587628866
+"('Scranton--Wilkes-Barre--Hazleton, PA Metro Area', 'Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area')",0.002577319587628866
+"('Redding, CA Metro Area', 'Sacramento--Roseville--Arden-Arcade, CA Metro Area')",0.002577319587628866
+"('Pittsfield, MA Metro Area', 'Boston-Cambridge-Newton, MA-NH Metro Area')",0.002577319587628866
+"('Napa, CA Metro Area', 'Vallejo-Fairfield, CA Metro Area')",0.002577319587628866
+"('Mansfield, OH Metro Area', 'Columbus, OH Metro Area')",0.002577319587628866
+"('Peoria, IL Metro Area', 'Chicago-Naperville-Elgin, IL-IN-WI Metro Area')",0.002577319587628866
+"('Hot Springs, AR Metro Area', 'Little Rock-North Little Rock-Conway, AR Metro Area')",0.002577319587628866
+"('Battle Creek, MI Metro Area', 'Kalamazoo-Portage, MI Metro Area')",0.002577319587628866
+"('Hickory-Lenoir-Morganton, NC Metro Area', 'Charlotte-Concord-Gastonia, NC-SC Metro Area')",0.002577319587628866
+"('Kankakee, IL Metro Area', 'Chicago-Naperville-Elgin, IL-IN-WI Metro Area')",0.002577319587628866
+"('Muskegon, MI Metro Area', 'Grand Rapids-Wyoming, MI Metro Area')",0.002577319587628866
+"('Tuscaloosa, AL Metro Area', 'Birmingham-Hoover, AL Metro Area')",0.002577319587628866
+"('Columbus, IN Metro Area', 'Indianapolis-Carmel-Anderson, IN Metro Area')",0.002577319587628866
+"('Jackson, TN Metro Area', 'Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area')",0.002577319587628866
+"('Pueblo, CO Metro Area', 'Denver-Aurora-Lakewood, CO Metro Area')",0.002577319587628866
+"('Kahului-Wailuku-Lahaina, HI Metro Area', 'Urban Honolulu, HI Metro Area')",0.002577319587628866
+"('Muncie, IN Metro Area', 'Indianapolis-Carmel-Anderson, IN Metro Area')",0.002577319587628866
+"('Monroe, LA Metro Area', 'Shreveport-Bossier City, LA Metro Area')",0.002577319587628866
+"('Laredo, TX Metro Area', 'San Antonio-New Braunfels, TX Metro Area')",0.002577319587628866
+"('Wenatchee, WA Metro Area', 'Seattle-Tacoma-Bellevue, WA Metro Area')",0.002577319587628866
+"('Cumberland, MD-WV Metro Area', 'Baltimore-Columbia-Towson, MD Metro Area')",0.002577319587628866
+"('Rome, GA Metro Area', 'Atlanta-Sandy Springs-Roswell, GA Metro Area')",0.002577319587628866
+"('Janesville-Beloit, WI Metro Area', 'Madison, WI Metro Area')",0.002577319587628866
+"('Bangor, ME Metro Area', 'Portland-South Portland, ME Metro Area')",0.002577319587628866
+"('Rochester, MN Metro Area', 'Minneapolis-St. Paul-Bloomington, MN-WI Metro Area')",0.002577319587628866
+"('Eau Claire, WI Metro Area', 'Minneapolis-St. Paul-Bloomington, MN-WI Metro Area')",0.002577319587628866
+"('Danville, IL Metro Area', 'Champaign-Urbana, IL Metro Area')",0.002577319587628866
+"('Ames, IA Metro Area', 'Des Moines-West Des Moines, IA Metro Area')",0.002577319587628866
+"('St. Cloud, MN Metro Area', 'Minneapolis-St. Paul-Bloomington, MN-WI Metro Area')",0.002577319587628866
+"('Grand Junction, CO Metro Area', 'Denver-Aurora-Lakewood, CO Metro Area')",0.002577319587628866
+"('Williamsport, PA Metro Area', 'Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area')",0.002577319587628866
+"('Topeka, KS Metro Area', 'Kansas City, MO-KS Metro Area')",0.002577319587628866
+"('Pocatello, ID Metro Area', 'Boise City, ID Metro Area')",0.002577319587628866
+"('Yuma, AZ Metro Area', 'Phoenix-Mesa-Scottsdale, AZ Metro Area')",0.002577319587628866
+"('Provo-Orem, UT Metro Area', 'Salt Lake City, UT Metro Area')",0.002577319587628866
+"('Santa Rosa, CA Metro Area', 'San Francisco-Oakland-Hayward, CA Metro Area')",0.002577319587628866
+"('Santa Fe, NM Metro Area', 'Albuquerque, NM Metro Area')",0.002577319587628866
+"('Logan, UT-ID Metro Area', 'Ogden-Clearfield, UT Metro Area')",0.002577319587628866
+"('Michigan City-La Porte, IN Metro Area', 'Chicago-Naperville-Elgin, IL-IN-WI Metro Area')",0.002577319587628866
+"('Kingston, NY Metro Area', 'New York-Newark-Jersey City, NY-NJ-PA Metro Area')",0.002577319587628866
+"('Lewiston-Auburn, ME Metro Area', 'Portland-South Portland, ME Metro Area')",0.002577319587628866
+"('Deltona-Daytona Beach-Ormond Beach, FL Metro Area', 'Orlando-Kissimmee-Sanford, FL Metro Area')",0.002577319587628866
+"('Flint, MI Metro Area', 'Detroit-Warren-Dearborn, MI Metro Area')",0.002577319587628866
+"('Bremerton-Silverdale, WA Metro Area', 'Seattle-Tacoma-Bellevue, WA Metro Area')",0.002577319587628866
+"('Bend-Redmond, OR Metro Area', 'Portland-Vancouver-Hillsboro, OR-WA Metro Area')",0.002577319587628866
+"('New Haven-Milford, CT Metro Area', 'Bridgeport-Stamford-Norwalk, CT Metro Area')",0.002577319587628866
+"('Valdosta, GA Metro Area', 'Atlanta-Sandy Springs-Roswell, GA Metro Area')",0.002577319587628866
+"('Sebring, FL Metro Area', 'Lakeland-Winter Haven, FL Metro Area')",0.002577319587628866
+"('Erie, PA Metro Area', 'Pittsburgh, PA Metro Area')",0.002577319587628866
+"('Houma-Thibodaux, LA Metro Area', 'New Orleans-Metairie, LA Metro Area')",0.002577319587628866
+"('Hinesville, GA Metro Area', 'Savannah, GA Metro Area')",0.002577319587628866
+"('Texarkana, TX-AR Metro Area', 'Houston-The Woodlands-Sugar Land, TX Metro Area')",0.002577319587628866
+"('Reading, PA Metro Area', 'Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area')",0.002577319587628866
+"('Goldsboro, NC Metro Area', 'Raleigh, NC Metro Area')",0.002577319587628866
+"('Salinas, CA Metro Area', 'San Jose-Sunnyvale-Santa Clara, CA Metro Area')",0.002577319587628866
+"('Sheboygan, WI Metro Area', 'Milwaukee-Waukesha-West Allis, WI Metro Area')",0.002577319587628866
+"('Vineland-Bridgeton, NJ Metro Area', 'Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area')",0.002577319587628866
+"('Barnstable Town, MA Metro Area', 'Boston-Cambridge-Newton, MA-NH Metro Area')",0.002577319587628866
+"('Worcester, MA-CT Metro Area', 'Boston-Cambridge-Newton, MA-NH Metro Area')",0.002577319587628866
+"('Albany, OR Metro Area', 'Salem, OR Metro Area')",0.002577319587628866
+"('Decatur, IL Metro Area', 'Champaign-Urbana, IL Metro Area')",0.002577319587628866
+"('Ann Arbor, MI Metro Area', 'Detroit-Warren-Dearborn, MI Metro Area')",0.002577319587628866
+"('Athens-Clarke County, GA Metro Area', 'Atlanta-Sandy Springs-Roswell, GA Metro Area')",0.002577319587628866
+"('Bismarck, ND Metro Area', 'Fargo, ND-MN Metro Area')",0.002577319587628866
+"('Boulder, CO Metro Area', 'Denver-Aurora-Lakewood, CO Metro Area')",0.002577319587628866
+"('Dothan, AL Metro Area', 'Montgomery, AL Metro Area')",0.002577319587628866
+"('Winchester, VA-WV Metro Area', 'Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area')",0.002577319587628866
+"('Burlington-South Burlington, VT Metro Area', 'Boston-Cambridge-Newton, MA-NH Metro Area')",0.002577319587628866
+"('California-Lexington Park, MD Metro Area', 'Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area')",0.002577319587628866
+"('Canton-Massillon, OH Metro Area', 'Akron, OH Metro Area')",0.002577319587628866
+"('Carbondale-Marion, IL Metro Area', 'Chicago-Naperville-Elgin, IL-IN-WI Metro Area')",0.002577319587628866
+"('Cape Girardeau, MO-IL Metro Area', 'St. Louis, MO-IL Metro Area')",0.002577319587628866
+"('Manchester-Nashua, NH Metro Area', 'Boston-Cambridge-Newton, MA-NH Metro Area')",0.002577319587628866
+"('Elkhart-Goshen, IN Metro Area', 'South Bend-Mishawaka, IN-MI Metro Area')",0.002577319587628866
+"('Lafayette-West Lafayette, IN Metro Area', 'Indianapolis-Carmel-Anderson, IN Metro Area')",0.002577319587628866
+"('Dover, DE Metro Area', 'Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area')",0.002577319587628866
+"('La Crosse-Onalaska, WI-MN Metro Area', 'Minneapolis-St. Paul-Bloomington, MN-WI Metro Area')",0.002577319587628866
+"('Brunswick, GA Metro Area', 'Atlanta-Sandy Springs-Roswell, GA Metro Area')",0.002577319587628866
+"('San Angelo, TX Metro Area', 'Austin-Round Rock, TX Metro Area')",0.002577319587628866
+"('Lansing-East Lansing, MI Metro Area', 'Detroit-Warren-Dearborn, MI Metro Area')",0.002577319587628866
+"('Jonesboro, AR Metro Area', 'Little Rock-North Little Rock-Conway, AR Metro Area')",0.002577319587628866
+"('Jefferson City, MO Metro Area', 'Columbia, MO Metro Area')",0.002577319587628866
+"('Sierra Vista-Douglas, AZ Metro Area', 'Tucson, AZ Metro Area')",0.002577319587628866
+"('Ithaca, NY Metro Area', 'New York-Newark-Jersey City, NY-NJ-PA Metro Area')",0.002577319587628866
+"('Glens Falls, NY Metro Area', 'Albany-Schenectady-Troy, NY Metro Area')",0.002577319587628866
+"('Sherman-Denison, TX Metro Area', 'Dallas-Fort Worth-Arlington, TX Metro Area')",0.002577319587628866
+"('Duluth, MN-WI Metro Area', 'Minneapolis-St. Paul-Bloomington, MN-WI Metro Area')",0.002577319587628866
+"('Johnstown, PA Metro Area', 'Pittsburgh, PA Metro Area')",0.002577319587628866
+"('Springfield, MA Metro Area', 'Boston-Cambridge-Newton, MA-NH Metro Area')",0.002577319587628866
+"('Springfield, OH Metro Area', 'Dayton, OH Metro Area')",0.002577319587628866
+"('Bloomington, IN Metro Area', 'Indianapolis-Carmel-Anderson, IN Metro Area')",0.002577319587628866
+"('Wichita Falls, TX Metro Area', 'Dallas-Fort Worth-Arlington, TX Metro Area')",0.002577319587628866
+"('Binghamton, NY Metro Area', 'New York-Newark-Jersey City, NY-NJ-PA Metro Area')",0.002577319587628866
+"('Trenton, NJ Metro Area', 'New York-Newark-Jersey City, NY-NJ-PA Metro Area')",0.002577319587628866
+"('Atlantic City-Hammonton, NJ Metro Area', 'Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area')",0.002577319587628866
+"('Victoria, TX Metro Area', 'Houston-The Woodlands-Sugar Land, TX Metro Area')",0.002577319587628866
+"('Grand Island, NE Metro Area', 'Lincoln, NE Metro Area')",0.002577319587628866
+"('Waco, TX Metro Area', 'Dallas-Fort Worth-Arlington, TX Metro Area')",0.002577319587628866
+"('Yakima, WA Metro Area', 'Seattle-Tacoma-Bellevue, WA Metro Area')",0.002577319587628866
+"('Pine Bluff, AR Metro Area', 'Little Rock-North Little Rock-Conway, AR Metro Area')",0.002577319587628866
+"('Manhattan, KS Metro Area', 'Kansas City, MO-KS Metro Area')",0.002577319587628866
+"('Lake Havasu City-Kingman, AZ Metro Area', 'Phoenix-Mesa-Scottsdale, AZ Metro Area')",0.002577319587628866
+"('Grants Pass, OR Metro Area', 'Medford, OR Metro Area')",0.002577319587628866
+"('Florence-Muscle Shoals, AL Metro Area', 'Huntsville, AL Metro Area')",0.002577319587628866
+"('Terre Haute, IN Metro Area', 'Indianapolis-Carmel-Anderson, IN Metro Area')",0.002577319587628866
+"('Eugene, OR Metro Area', 'Portland-Vancouver-Hillsboro, OR-WA Metro Area')",0.002577319587628866
+"('State College, PA Metro Area', 'Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area')",0.002577319587628866
+"('St. Joseph, MO-KS Metro Area', 'Kansas City, MO-KS Metro Area')",0.002577319587628866
+"('Fairbanks, AK Metro Area', 'Anchorage, AK Metro Area')",0.002577319587628866
+"('Abilene, TX Metro Area', 'Dallas-Fort Worth-Arlington, TX Metro Area')",0.002577319587628866
+"('Amarillo, TX Metro Area', 'Dallas-Fort Worth-Arlington, TX Metro Area')",0.002577319587628866
+"('Flagstaff, AZ Metro Area', 'Phoenix-Mesa-Scottsdale, AZ Metro Area')",0.002577319587628866
+"('Gainesville, GA Metro Area', 'Atlanta-Sandy Springs-Roswell, GA Metro Area')",0.002577319587628866
+"('Beaumont-Port Arthur, TX Metro Area', 'Houston-The Woodlands-Sugar Land, TX Metro Area')",0.002577319587628866
+"('College Station-Bryan, TX Metro Area', 'Houston-The Woodlands-Sugar Land, TX Metro Area')",0.002577319587628866
+"('Lubbock, TX Metro Area', 'Dallas-Fort Worth-Arlington, TX Metro Area')",0.002577319587628866
+"('Lawrence, KS Metro Area', 'Kansas City, MO-KS Metro Area')",0.002577319587628866
+"('Jackson, MI Metro Area', 'Detroit-Warren-Dearborn, MI Metro Area')",0.0025706598470923575
+"('Corvallis, OR Metro Area', 'Portland-Vancouver-Hillsboro, OR-WA Metro Area')",0.0025706598470923575
+"('Buffalo-Cheektowaga-Niagara Falls, NY Metro Area', 'New York-Newark-Jersey City, NY-NJ-PA Metro Area')",0.0025706598470923575
+"('East Stroudsburg, PA Metro Area', 'New York-Newark-Jersey City, NY-NJ-PA Metro Area')",0.0025706598470923575
+"('Brownsville-Harlingen, TX Metro Area', 'San Antonio-New Braunfels, TX Metro Area')",0.0025706598470923575
+"('Gettysburg, PA Metro Area', 'York-Hanover, PA Metro Area')",0.0025706598470923575
+"('Greeley, CO Metro Area', 'Denver-Aurora-Lakewood, CO Metro Area')",0.0025706598470923575
+"('Bloomsburg-Berwick, PA Metro Area', 'Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area')",0.0025706598470923575
+"('Bloomington, IL Metro Area', 'Chicago-Naperville-Elgin, IL-IN-WI Metro Area')",0.0025706598470923575
+"('Blacksburg-Christiansburg-Radford, VA Metro Area', 'Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area')",0.0025706598470923575
+"('Elizabethtown-Fort Knox, KY Metro Area', 'Louisville/Jefferson County, KY-IN Metro Area')",0.0025706598470923575
+"('Greenville, NC Metro Area', 'Raleigh, NC Metro Area')",0.0025706598470923575
+"('Casper, WY Metro Area', 'Dallas-Fort Worth-Arlington, TX Metro Area')",0.0025706598470923575
+"('Chambersburg-Waynesboro, PA Metro Area', 'Harrisburg-Carlisle, PA Metro Area')",0.0025706598470923575
+"('Decatur, AL Metro Area', 'Huntsville, AL Metro Area')",0.0025706598470923575
+"('Longview, TX Metro Area', 'Dallas-Fort Worth-Arlington, TX Metro Area')",0.0025706598470923575
+"('Grand Forks, ND-MN Metro Area', 'Minneapolis-St. Paul-Bloomington, MN-WI Metro Area')",0.0025706598470923575
+"('Wilmington, NC Metro Area', 'Raleigh, NC Metro Area')",0.0025706598470923575
+"('The Villages, FL Metro Area', 'Tampa-St. Petersburg-Clearwater, FL Metro Area')",0.0025706598470923575
+"('Clarksville, TN-KY Metro Area', 'Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area')",0.0025706598470923575
+"('Lebanon, PA Metro Area', 'Harrisburg-Carlisle, PA Metro Area')",0.0025706598470923575
+"('Kennewick-Richland, WA Metro Area', 'Seattle-Tacoma-Bellevue, WA Metro Area')",0.0025706598470923575
+"('Visalia-Porterville, CA Metro Area', 'Fresno, CA Metro Area')",0.0025706598470923575
+"('Tyler, TX Metro Area', 'Dallas-Fort Worth-Arlington, TX Metro Area')",0.0025706598470923575
+"('Walla Walla, WA Metro Area', 'Seattle-Tacoma-Bellevue, WA Metro Area')",0.0025706598470923575
+"('New Bern, NC Metro Area', 'Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area')",0.0025706598470923575
+"('Lynchburg, VA Metro Area', 'Richmond, VA Metro Area')",0.0025706598470923575
+"('Morristown, TN Metro Area', 'Knoxville, TN Metro Area')",0.0025706598470923575
+"('Rocky Mount, NC Metro Area', 'Raleigh, NC Metro Area')",0.0025706598470923575
+"('Elmira, NY Metro Area', 'Rochester, NY Metro Area')",0.0025706598470923575
+"('Anniston-Oxford-Jacksonville, AL Metro Area', 'Birmingham-Hoover, AL Metro Area')",0.0025706598470923575
+"('El Centro, CA Metro Area', 'Riverside-San Bernardino-Ontario, CA Metro Area')",0.0025706598470923575
+"('Wheeling, WV-OH Metro Area', 'Columbus, OH Metro Area')",0.0025706598470923575
+"('Weirton-Steubenville, WV-OH Metro Area', 'Pittsburgh, PA Metro Area')",0.0025706598470923575
+"('Florence, SC Metro Area', 'Columbia, SC Metro Area')",0.0025706598470923575
+"('Toledo, OH Metro Area', 'Columbus, OH Metro Area')",0.0025706598470923575
+"('Santa Maria-Santa Barbara, CA Metro Area', 'Los Angeles-Long Beach-Anaheim, CA Metro Area')",0.0025706598470923575
+"('Corpus Christi, TX Metro Area', 'Houston-The Woodlands-Sugar Land, TX Metro Area')",0.0025706598470923575
+"('Port St. Lucie, FL Metro Area', 'Miami-Fort Lauderdale-West Palm Beach, FL Metro Area')",0.0025706598470923575
+"('Oshkosh-Neenah, WI Metro Area', 'Milwaukee-Waukesha-West Allis, WI Metro Area')",0.0025706598470923575
+"('McAllen-Edinburg-Mission, TX Metro Area', 'Houston-The Woodlands-Sugar Land, TX Metro Area')",0.0025706598470923575
+"('Lewiston, ID-WA Metro Area', ""Coeur d'Alene, ID Metro Area"")",0.0025706598470923575
+"('Norwich-New London, CT Metro Area', 'Hartford-West Hartford-East Hartford, CT Metro Area')",0.0025706598470923575
+"('Utica-Rome, NY Metro Area', 'New York-Newark-Jersey City, NY-NJ-PA Metro Area')",0.0025706598470923575
+"('Jacksonville, NC Metro Area', 'Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area')",0.0025706598470923575
+"('Warner Robins, GA Metro Area', 'Atlanta-Sandy Springs-Roswell, GA Metro Area')",0.0025706598470923575
+"('Hagerstown-Martinsburg, MD-WV Metro Area', 'Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area')",0.0025706598470923575
+"('Gadsden, AL Metro Area', 'Birmingham-Hoover, AL Metro Area')",0.0025706598470923575
+"('Davenport-Moline-Rock Island, IA-IL Metro Area', 'Chicago-Naperville-Elgin, IL-IN-WI Metro Area')",0.0025706598470923575
+"('Homosassa Springs, FL Metro Area', 'Tampa-St. Petersburg-Clearwater, FL Metro Area')",0.0025706598470923575
+"('Lancaster, PA Metro Area', 'Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area')",0.0025706598470923575
+"('Harrisonburg, VA Metro Area', 'Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area')",0.0025706598470923575
+"('Ocean City, NJ Metro Area', 'Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area')",0.0025706598470923575
+"('Monroe, MI Metro Area', 'Detroit-Warren-Dearborn, MI Metro Area')",0.0025706598470923575
+"('Chico, CA Metro Area', 'San Francisco-Oakland-Hayward, CA Metro Area')",0.0025706598470923575
+"('Winston-Salem, NC Metro Area', 'Charlotte-Concord-Gastonia, NC-SC Metro Area')",0.0025640001065558487
+"('Burlington, NC Metro Area', 'Durham-Chapel Hill, NC Metro Area')",0.0025640001065558487
+"('Wausau, WI Metro Area', 'Minneapolis-St. Paul-Bloomington, MN-WI Metro Area')",0.0025640001065558487
+"('Fond du Lac, WI Metro Area', 'Milwaukee-Waukesha-West Allis, WI Metro Area')",0.0025640001065558487
+"('Lake Charles, LA Metro Area', 'Houston-The Woodlands-Sugar Land, TX Metro Area')",0.0025640001065558487
+"('Bakersfield, CA Metro Area', 'Los Angeles-Long Beach-Anaheim, CA Metro Area')",0.0025640001065558487
+"('Bay City, MI Metro Area', 'Detroit-Warren-Dearborn, MI Metro Area')",0.0025640001065558487
+"('Lawton, OK Metro Area', 'Oklahoma City, OK Metro Area')",0.0025640001065558487
+"('Rapid City, SD Metro Area', 'Minneapolis-St. Paul-Bloomington, MN-WI Metro Area')",0.0025640001065558487
+"('Alexandria, LA Metro Area', 'Houston-The Woodlands-Sugar Land, TX Metro Area')",0.0025640001065558487
+"('Columbus, GA-AL Metro Area', 'Atlanta-Sandy Springs-Roswell, GA Metro Area')",0.0025640001065558487
+"('Saginaw, MI Metro Area', 'Detroit-Warren-Dearborn, MI Metro Area')",0.0025640001065558487
+"('Beckley, WV Metro Area', 'Huntington-Ashland, WV-KY-OH Metro Area')",0.0025640001065558487
+"('Naples-Immokalee-Marco Island, FL Metro Area', 'Miami-Fort Lauderdale-West Palm Beach, FL Metro Area')",0.0025640001065558487
+"('Midland, MI Metro Area', 'Detroit-Warren-Dearborn, MI Metro Area')",0.0025640001065558487
+"('Fort Collins, CO Metro Area', 'Denver-Aurora-Lakewood, CO Metro Area')",0.0025640001065558487
+"('Virginia Beach-Norfolk-Newport News, VA-NC Metro Area', 'Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area')",0.0025640001065558487
+"('Idaho Falls, ID Metro Area', 'Boise City, ID Metro Area')",0.0025640001065558487
+"('Asheville, NC Metro Area', 'Charlotte-Concord-Gastonia, NC-SC Metro Area')",0.0025640001065558487
+"('Altoona, PA Metro Area', 'Pittsburgh, PA Metro Area')",0.0025640001065558487
+"('Sebastian-Vero Beach, FL Metro Area', 'Miami-Fort Lauderdale-West Palm Beach, FL Metro Area')",0.0025640001065558487
+"('Augusta-Richmond County, GA-SC Metro Area', 'Atlanta-Sandy Springs-Roswell, GA Metro Area')",0.0025640001065558487
+"('Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area', 'Denver-Aurora-Lakewood, CO Metro Area')",0.0025640001065558487
+"('Cape Coral-Fort Myers, FL Metro Area', 'Miami-Fort Lauderdale-West Palm Beach, FL Metro Area')",0.00255734036601934
+"('Santa Cruz-Watsonville, CA Metro Area', 'San Francisco-Oakland-Hayward, CA Metro Area')",0.00255734036601934
+"('Charlottesville, VA Metro Area', 'Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area')",0.00255734036601934
+"('Odessa, TX Metro Area', 'Dallas-Fort Worth-Arlington, TX Metro Area')",0.00255734036601934
+"('Madera, CA Metro Area', 'Riverside-San Bernardino-Ontario, CA Metro Area')",0.00255734036601934
+"('Midland, TX Metro Area', 'Dallas-Fort Worth-Arlington, TX Metro Area')",0.00255734036601934
+"('Merced, CA Metro Area', 'Modesto, CA Metro Area')",0.00255734036601934
+"('Hanford-Corcoran, CA Metro Area', 'Los Angeles-Long Beach-Anaheim, CA Metro Area')",0.00255734036601934
+"('Myrtle Beach-Conway-North Myrtle Beach, SC-NC Metro Area', 'Columbia, SC Metro Area')",0.0025506806254828314
+"('Birmingham-Hoover, AL Metro Area', 'Daphne-Fairhope-Foley, AL Metro Area')",0.0025506806254828314
+"('Parkersburg-Vienna, WV Metro Area', 'Columbus, OH Metro Area')",0.0025506806254828314
+"('Hilton Head Island-Bluffton-Beaufort, SC Metro Area', 'San Diego-Carlsbad, CA Metro Area')",0.0025506806254828314
+"('Kingsport-Bristol-Bristol, TN-VA Metro Area', 'Johnson City, TN Metro Area')",0.0025506806254828314
+"('St. George, UT Metro Area', 'Salt Lake City, UT Metro Area')",0.0025506806254828314
+"('Staunton-Waynesboro, VA Metro Area', 'Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area')",0.0025440208849463225
+"('Charleston, WV Metro Area', 'Huntington-Ashland, WV-KY-OH Metro Area')",0.0025440208849463225
+"('Roanoke, VA Metro Area', 'Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area')",0.0025440208849463225
+"('Wichita, KS Metro Area', 'Kansas City, MO-KS Metro Area')",0.002537361144409814
+"('Fort Smith, AR-OK Metro Area', 'Fayetteville-Springdale-Rogers, AR-MO Metro Area')",0.002537361144409814
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'Arecibo, PR Metro Area')",0.0025307014038733052
+"('Youngstown-Warren-Boardman, OH-PA Metro Area', 'Pittsburgh, PA Metro Area')",0.0025307014038733052
+"('Charlotte-Concord-Gastonia, NC-SC Metro Area', 'Greensboro-High Point, NC Metro Area')",0.0025307014038733052
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'San Germán, PR Metro Area')",0.0025307014038733052
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'Mayagüez, PR Metro Area')",0.0025307014038733052
+"('Gainesville, FL Metro Area', 'Miami-Fort Lauderdale-West Palm Beach, FL Metro Area')",0.0025307014038733052
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'San Juan-Carolina-Caguas, PR Metro Area')",0.0025307014038733052
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'Aguadilla-Isabela, PR Metro Area')",0.0025307014038733052
+"('Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area', 'Ponce, PR Metro Area')",0.0025307014038733052
+"('Virginia Beach-Norfolk-Newport News, VA-NC Metro Area', 'Guayama, PR Metro Area')",0.0025307014038733052
+"('Houston-The Woodlands-Sugar Land, TX Metro Area', 'Beaumont-Port Arthur, TX Metro Area')",0.0025240416633367964
+"('Chicago-Naperville-Elgin, IL-IN-WI Metro Area', 'Carbondale-Marion, IL Metro Area')",0.0025240416633367964
+"('Minneapolis-St. Paul-Bloomington, MN-WI Metro Area', 'Duluth, MN-WI Metro Area')",0.0025240416633367964
+"('Urban Honolulu, HI Metro Area', 'Kahului-Wailuku-Lahaina, HI Metro Area')",0.0025240416633367964
+"('Houston-The Woodlands-Sugar Land, TX Metro Area', 'Brownsville-Harlingen, TX Metro Area')",0.0025240416633367964
+"('Albany-Schenectady-Troy, NY Metro Area', 'Glens Falls, NY Metro Area')",0.0025240416633367964
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'Kingston, NY Metro Area')",0.0025240416633367964
+"('Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area', 'Winchester, VA-WV Metro Area')",0.0025240416633367964
+"('Chicago-Naperville-Elgin, IL-IN-WI Metro Area', 'Bloomington, IL Metro Area')",0.0025240416633367964
+"('Dallas-Fort Worth-Arlington, TX Metro Area', 'Texarkana, TX-AR Metro Area')",0.0025240416633367964
+"('Missoula, MT Metro Area', 'Great Falls, MT Metro Area')",0.0025240416633367964
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'Ithaca, NY Metro Area')",0.0025240416633367964
+"('Dallas-Fort Worth-Arlington, TX Metro Area', 'Waco, TX Metro Area')",0.0025240416633367964
+"('Chicago-Naperville-Elgin, IL-IN-WI Metro Area', 'Michigan City-La Porte, IN Metro Area')",0.0025240416633367964
+"('Hartford-West Hartford-East Hartford, CT Metro Area', 'Norwich-New London, CT Metro Area')",0.0025240416633367964
+"('Milwaukee-Waukesha-West Allis, WI Metro Area', 'Fond du Lac, WI Metro Area')",0.0025240416633367964
+"('Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area', 'Cumberland, MD-WV Metro Area')",0.0025240416633367964
+"('Denver-Aurora-Lakewood, CO Metro Area', 'Grand Junction, CO Metro Area')",0.0025240416633367964
+"('Indianapolis-Carmel-Anderson, IN Metro Area', 'Columbus, IN Metro Area')",0.0025240416633367964
+"('Indianapolis-Carmel-Anderson, IN Metro Area', 'Bloomington, IN Metro Area')",0.0025240416633367964
+"('Atlanta-Sandy Springs-Roswell, GA Metro Area', 'Valdosta, GA Metro Area')",0.0025240416633367964
+"('Houston-The Woodlands-Sugar Land, TX Metro Area', 'Victoria, TX Metro Area')",0.0025240416633367964
+"('Atlanta-Sandy Springs-Roswell, GA Metro Area', 'Warner Robins, GA Metro Area')",0.0025240416633367964
+"('Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area', 'Jackson, TN Metro Area')",0.0025240416633367964
+"('Tampa-St. Petersburg-Clearwater, FL Metro Area', 'Homosassa Springs, FL Metro Area')",0.0025240416633367964
+"('Chicago-Naperville-Elgin, IL-IN-WI Metro Area', 'Danville, IL Metro Area')",0.0025240416633367964
+"('Dallas-Fort Worth-Arlington, TX Metro Area', 'Sherman-Denison, TX Metro Area')",0.0025240416633367964
+"('Austin-Round Rock, TX Metro Area', 'Laredo, TX Metro Area')",0.0025240416633367964
+"('Racine, WI Metro Area', 'Chicago-Naperville-Elgin, IL-IN-WI Metro Area')",0.0025240416633367964
+"('Atlanta-Sandy Springs-Roswell, GA Metro Area', 'Albany, GA Metro Area')",0.0025240416633367964
+"('Anchorage, AK Metro Area', 'Parkersburg-Vienna, WV Metro Area')",0.0025240416633367964
+"('Baltimore-Columbia-Towson, MD Metro Area', 'Salisbury, MD-DE Metro Area')",0.0025240416633367964
+"('Ogden-Clearfield, UT Metro Area', 'Logan, UT-ID Metro Area')",0.0025240416633367964
+"('Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area', 'California-Lexington Park, MD Metro Area')",0.0025240416633367964
+"('Houston-The Woodlands-Sugar Land, TX Metro Area', 'College Station-Bryan, TX Metro Area')",0.0025240416633367964
+"('Minneapolis-St. Paul-Bloomington, MN-WI Metro Area', 'Bismarck, ND Metro Area')",0.0025240416633367964
+"('Dallas-Fort Worth-Arlington, TX Metro Area', 'Wichita Falls, TX Metro Area')",0.0025240416633367964
+"('Dallas-Fort Worth-Arlington, TX Metro Area', 'Abilene, TX Metro Area')",0.0025240416633367964
+"('Boston-Cambridge-Newton, MA-NH Metro Area', 'Barnstable Town, MA Metro Area')",0.0025240416633367964
+"('Boston-Cambridge-Newton, MA-NH Metro Area', 'Manchester-Nashua, NH Metro Area')",0.0025240416633367964
+"('San Francisco-Oakland-Hayward, CA Metro Area', 'Napa, CA Metro Area')",0.0025240416633367964
+"('Boston-Cambridge-Newton, MA-NH Metro Area', 'Pittsfield, MA Metro Area')",0.0025240416633367964
+"('Charlotte-Concord-Gastonia, NC-SC Metro Area', 'Hickory-Lenoir-Morganton, NC Metro Area')",0.0025240416633367964
+"('Boston-Cambridge-Newton, MA-NH Metro Area', 'Providence-Warwick, RI-MA Metro Area')",0.0025240416633367964
+"('Boston-Cambridge-Newton, MA-NH Metro Area', 'Springfield, MA Metro Area')",0.0025240416633367964
+"('Charleston, WV Metro Area', 'Beckley, WV Metro Area')",0.0025240416633367964
+"('Detroit-Warren-Dearborn, MI Metro Area', 'Jackson, MI Metro Area')",0.0025240416633367964
+"('Detroit-Warren-Dearborn, MI Metro Area', 'Flint, MI Metro Area')",0.0025240416633367964
+"('San Francisco-Oakland-Hayward, CA Metro Area', 'Santa Rosa, CA Metro Area')",0.0025240416633367964
+"('Chicago-Naperville-Elgin, IL-IN-WI Metro Area', 'Kankakee, IL Metro Area')",0.0025240416633367964
+"('Detroit-Warren-Dearborn, MI Metro Area', 'Ann Arbor, MI Metro Area')",0.0025240416633367964
+"('Greensboro-High Point, NC Metro Area', 'Charlotte-Concord-Gastonia, NC-SC Metro Area')",0.0025240416633367964
+"('Minneapolis-St. Paul-Bloomington, MN-WI Metro Area', 'Grand Forks, ND-MN Metro Area')",0.0025240416633367964
+"('San Francisco-Oakland-Hayward, CA Metro Area', 'Redding, CA Metro Area')",0.0025240416633367964
+"('Minneapolis-St. Paul-Bloomington, MN-WI Metro Area', 'Mankato-North Mankato, MN Metro Area')",0.0025240416633367964
+"('Minneapolis-St. Paul-Bloomington, MN-WI Metro Area', 'St. Cloud, MN Metro Area')",0.0025240416633367964
+"('Minneapolis-St. Paul-Bloomington, MN-WI Metro Area', 'Rochester, MN Metro Area')",0.0025240416633367964
+"('Charlotte-Concord-Gastonia, NC-SC Metro Area', 'Asheville, NC Metro Area')",0.0025240416633367964
+"('Boston-Cambridge-Newton, MA-NH Metro Area', 'Burlington-South Burlington, VT Metro Area')",0.0025240416633367964
+"('Denver-Aurora-Lakewood, CO Metro Area', 'Boulder, CO Metro Area')",0.0025240416633367964
+"('Minneapolis-St. Paul-Bloomington, MN-WI Metro Area', 'Eau Claire, WI Metro Area')",0.0025240416633367964
+"('Greenville-Anderson-Mauldin, SC Metro Area', 'Spartanburg, SC Metro Area')",0.0025240416633367964
+"('Seattle-Tacoma-Bellevue, WA Metro Area', 'Walla Walla, WA Metro Area')",0.0025240416633367964
+"('Grand Rapids-Wyoming, MI Metro Area', 'Muskegon, MI Metro Area')",0.0025240416633367964
+"('San Francisco-Oakland-Hayward, CA Metro Area', 'Chico, CA Metro Area')",0.0025240416633367964
+"('Milwaukee-Waukesha-West Allis, WI Metro Area', 'Sheboygan, WI Metro Area')",0.0025240416633367964
+"('Medford, OR Metro Area', 'Grants Pass, OR Metro Area')",0.0025240416633367964
+"('Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area', 'Altoona, PA Metro Area')",0.0025240416633367964
+"('Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area', 'Bloomsburg-Berwick, PA Metro Area')",0.0025240416633367964
+"('Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area', 'Ocean City, NJ Metro Area')",0.0025240416633367964
+"('Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area', 'Reading, PA Metro Area')",0.0025240416633367964
+"('Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area', 'Williamsport, PA Metro Area')",0.0025240416633367964
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'Elmira, NY Metro Area')",0.0025240416633367964
+"('Dayton, OH Metro Area', 'Springfield, OH Metro Area')",0.0025240416633367964
+"('Birmingham-Hoover, AL Metro Area', 'Tuscaloosa, AL Metro Area')",0.0025240416633367964
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'East Stroudsburg, PA Metro Area')",0.0025240416633367964
+"('Little Rock-North Little Rock-Conway, AR Metro Area', 'Pine Bluff, AR Metro Area')",0.0025240416633367964
+"('South Bend-Mishawaka, IN-MI Metro Area', 'Elkhart-Goshen, IN Metro Area')",0.0025240416633367964
+"('Akron, OH Metro Area', 'Canton-Massillon, OH Metro Area')",0.0025240416633367964
+"('San Jose-Sunnyvale-Santa Clara, CA Metro Area', 'Santa Cruz-Watsonville, CA Metro Area')",0.0025240416633367964
+"('Los Angeles-Long Beach-Anaheim, CA Metro Area', 'Oxnard-Thousand Oaks-Ventura, CA Metro Area')",0.0025240416633367964
+"('Seattle-Tacoma-Bellevue, WA Metro Area', 'Wenatchee, WA Metro Area')",0.0025240416633367964
+"('Columbia, SC Metro Area', 'Sumter, SC Metro Area')",0.0025240416633367964
+"('Chicago-Naperville-Elgin, IL-IN-WI Metro Area', 'Wausau, WI Metro Area')",0.0025240416633367964
+"('Phoenix-Mesa-Scottsdale, AZ Metro Area', 'Flagstaff, AZ Metro Area')",0.0025240416633367964
+"('New Orleans-Metairie, LA Metro Area', 'Houma-Thibodaux, LA Metro Area')",0.0025240416633367964
+"('Pittsburgh, PA Metro Area', 'Erie, PA Metro Area')",0.0025240416633367964
+"('Phoenix-Mesa-Scottsdale, AZ Metro Area', 'Prescott, AZ Metro Area')",0.0025240416633367964
+"('Atlanta-Sandy Springs-Roswell, GA Metro Area', 'Athens-Clarke County, GA Metro Area')",0.0025240416633367964
+"('Kansas City, MO-KS Metro Area', 'St. Joseph, MO-KS Metro Area')",0.0025240416633367964
+"('Phoenix-Mesa-Scottsdale, AZ Metro Area', 'Lake Havasu City-Kingman, AZ Metro Area')",0.0025240416633367964
+"('Chicago-Naperville-Elgin, IL-IN-WI Metro Area', 'Davenport-Moline-Rock Island, IA-IL Metro Area')",0.0025240416633367964
+"('Phoenix-Mesa-Scottsdale, AZ Metro Area', 'Sierra Vista-Douglas, AZ Metro Area')",0.0025240416633367964
+"('San Diego-Carlsbad, CA Metro Area', 'El Centro, CA Metro Area')",0.0025240416633367964
+"('Indianapolis-Carmel-Anderson, IN Metro Area', 'Terre Haute, IN Metro Area')",0.0025240416633367964
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'Watertown-Fort Drum, NY Metro Area')",0.0025240416633367964
+"('Chicago-Naperville-Elgin, IL-IN-WI Metro Area', 'Rockford, IL Metro Area')",0.0025240416633367964
+"('Chattanooga, TN-GA Metro Area', 'Cleveland, TN Metro Area')",0.0025240416633367964
+"('Chicago-Naperville-Elgin, IL-IN-WI Metro Area', 'Springfield, IL Metro Area')",0.0025240416633367964
+"('Atlanta-Sandy Springs-Roswell, GA Metro Area', 'Rome, GA Metro Area')",0.0025240416633367964
+"('Phoenix-Mesa-Scottsdale, AZ Metro Area', 'Yuma, AZ Metro Area')",0.0025240416633367964
+"('Saginaw, MI Metro Area', 'Bay City, MI Metro Area')",0.0025240416633367964
+"('St. Louis, MO-IL Metro Area', 'Cape Girardeau, MO-IL Metro Area')",0.0025240416633367964
+"('Raleigh, NC Metro Area', 'Goldsboro, NC Metro Area')",0.0025240416633367964
+"('Reno, NV Metro Area', 'Carson City, NV Metro Area')",0.0025240416633367964
+"('Chicago-Naperville-Elgin, IL-IN-WI Metro Area', 'Decatur, IL Metro Area')",0.0025240416633367964
+"('Atlanta-Sandy Springs-Roswell, GA Metro Area', 'Gainesville, GA Metro Area')",0.0025240416633367964
+"('Oshkosh-Neenah, WI Metro Area', 'Appleton, WI Metro Area')",0.0025240416633367964
+"('Miami-Fort Lauderdale-West Palm Beach, FL Metro Area', 'Sebring, FL Metro Area')",0.0025240416633367964
+"('Atlanta-Sandy Springs-Roswell, GA Metro Area', 'Macon, GA Metro Area')",0.0025240416633367964
+"('Portland-Vancouver-Hillsboro, OR-WA Metro Area', 'Bend-Redmond, OR Metro Area')",0.0025240416633367964
+"('Kansas City, MO-KS Metro Area', 'Lawrence, KS Metro Area')",0.0025240416633367964
+"('Portland-Vancouver-Hillsboro, OR-WA Metro Area', 'Longview, WA Metro Area')",0.0025240416633367964
+"('Portland-Vancouver-Hillsboro, OR-WA Metro Area', 'Eugene, OR Metro Area')",0.0025240416633367964
+"('Oklahoma City, OK Metro Area', 'Lawton, OK Metro Area')",0.0025240416633367964
+"('York-Hanover, PA Metro Area', 'Gettysburg, PA Metro Area')",0.0025240416633367964
+"('Portland-Vancouver-Hillsboro, OR-WA Metro Area', 'Corvallis, OR Metro Area')",0.0025240416633367964
+"('New Orleans-Metairie, LA Metro Area', 'Hammond, LA Metro Area')",0.0025240416633367964
+"('Raleigh, NC Metro Area', 'Rocky Mount, NC Metro Area')",0.0025240416633367964
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'Vineland-Bridgeton, NJ Metro Area')",0.0025240416633367964
+"('Orlando-Kissimmee-Sanford, FL Metro Area', 'Deltona-Daytona Beach-Ormond Beach, FL Metro Area')",0.0025240416633367964
+"('Dallas-Fort Worth-Arlington, TX Metro Area', 'Amarillo, TX Metro Area')",0.0025240416633367964
+"('Atlanta-Sandy Springs-Roswell, GA Metro Area', 'Brunswick, GA Metro Area')",0.0025240416633367964
+"('Indianapolis-Carmel-Anderson, IN Metro Area', 'Kokomo, IN Metro Area')",0.0025240416633367964
+"('Seattle-Tacoma-Bellevue, WA Metro Area', 'Bremerton-Silverdale, WA Metro Area')",0.0025240416633367964
+"('Seattle-Tacoma-Bellevue, WA Metro Area', 'Mount Vernon-Anacortes, WA Metro Area')",0.0025240416633367964
+"('Albuquerque, NM Metro Area', 'Santa Fe, NM Metro Area')",0.0025240416633367964
+"('Seattle-Tacoma-Bellevue, WA Metro Area', 'Olympia-Tumwater, WA Metro Area')",0.0025240416633367964
+"('Port St. Lucie, FL Metro Area', 'Sebastian-Vero Beach, FL Metro Area')",0.0025240416633367964
+"('Dallas-Fort Worth-Arlington, TX Metro Area', 'San Angelo, TX Metro Area')",0.0025240416633367964
+"('Indianapolis-Carmel-Anderson, IN Metro Area', 'Fort Wayne, IN Metro Area')",0.0025240416633367964
+"('Orlando-Kissimmee-Sanford, FL Metro Area', 'The Villages, FL Metro Area')",0.0025240416633367964
+"('Kansas City, MO-KS Metro Area', 'Topeka, KS Metro Area')",0.0025240416633367964
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'Trenton, NJ Metro Area')",0.0025240416633367964
+"('Huntsville, AL Metro Area', 'Decatur, AL Metro Area')",0.0025240416633367964
+"('Indianapolis-Carmel-Anderson, IN Metro Area', 'Muncie, IN Metro Area')",0.0025240416633367964
+"('Portland-South Portland, ME Metro Area', 'Lewiston-Auburn, ME Metro Area')",0.0025240416633367964
+"('Portland-South Portland, ME Metro Area', 'Bangor, ME Metro Area')",0.0025240416633367964
+"('Seattle-Tacoma-Bellevue, WA Metro Area', 'Bellingham, WA Metro Area')",0.0025240416633367964
+"('Birmingham-Hoover, AL Metro Area', 'Florence-Muscle Shoals, AL Metro Area')",0.002517381922800288
+"('Birmingham-Hoover, AL Metro Area', 'Montgomery, AL Metro Area')",0.002517381922800288
+"('Knoxville, TN Metro Area', 'Morristown, TN Metro Area')",0.002517381922800288
+"('Denver-Aurora-Lakewood, CO Metro Area', 'Greeley, CO Metro Area')",0.002517381922800288
+"('Louisville/Jefferson County, KY-IN Metro Area', 'Elizabethtown-Fort Knox, KY Metro Area')",0.002517381922800288
+"('Birmingham-Hoover, AL Metro Area', 'Gadsden, AL Metro Area')",0.002517381922800288
+"('Cleveland-Elyria, OH Metro Area', 'Wheeling, WV-OH Metro Area')",0.002517381922800288
+"('Salem, OR Metro Area', 'Albany, OR Metro Area')",0.002517381922800288
+"('Kansas City, MO-KS Metro Area', 'Manhattan, KS Metro Area')",0.002517381922800288
+"('Fresno, CA Metro Area', 'Visalia-Porterville, CA Metro Area')",0.002517381922800288
+"('Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area', 'Dover, DE Metro Area')",0.002517381922800288
+"('Seattle-Tacoma-Bellevue, WA Metro Area', 'Yakima, WA Metro Area')",0.002517381922800288
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'Allentown-Bethlehem-Easton, PA-NJ Metro Area')",0.002517381922800288
+"('Atlanta-Sandy Springs-Roswell, GA Metro Area', 'Columbus, GA-AL Metro Area')",0.002517381922800288
+"('Denver-Aurora-Lakewood, CO Metro Area', 'Fort Collins, CO Metro Area')",0.002517381922800288
+"('Denver-Aurora-Lakewood, CO Metro Area', 'Cheyenne, WY Metro Area')",0.002517381922800288
+"('Pittsburgh, PA Metro Area', 'Weirton-Steubenville, WV-OH Metro Area')",0.002517381922800288
+"('Los Angeles-Long Beach-Anaheim, CA Metro Area', 'San Luis Obispo-Paso Robles-Arroyo Grande, CA Metro Area')",0.002517381922800288
+"('Denver-Aurora-Lakewood, CO Metro Area', 'Colorado Springs, CO Metro Area')",0.002517381922800288
+"('Pittsburgh, PA Metro Area', 'Johnstown, PA Metro Area')",0.002517381922800288
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'Binghamton, NY Metro Area')",0.002517381922800288
+"('Miami-Fort Lauderdale-West Palm Beach, FL Metro Area', 'Naples-Immokalee-Marco Island, FL Metro Area')",0.002517381922800288
+"('San Francisco-Oakland-Hayward, CA Metro Area', 'Vallejo-Fairfield, CA Metro Area')",0.002517381922800288
+"('Kalamazoo-Portage, MI Metro Area', 'Battle Creek, MI Metro Area')",0.002517381922800288
+"('San Jose-Sunnyvale-Santa Clara, CA Metro Area', 'Merced, CA Metro Area')",0.002517381922800288
+"('San Jose-Sunnyvale-Santa Clara, CA Metro Area', 'Salinas, CA Metro Area')",0.002517381922800288
+"('Phoenix-Mesa-Scottsdale, AZ Metro Area', 'Tucson, AZ Metro Area')",0.002517381922800288
+"('Boise City, ID Metro Area', 'Pocatello, ID Metro Area')",0.002517381922800288
+"('Lexington-Fayette, KY Metro Area', 'Owensboro, KY Metro Area')",0.002517381922800288
+"('Boston-Cambridge-Newton, MA-NH Metro Area', 'Worcester, MA-CT Metro Area')",0.002517381922800288
+"('Los Angeles-Long Beach-Anaheim, CA Metro Area', 'Santa Maria-Santa Barbara, CA Metro Area')",0.002517381922800288
+"('Omaha-Council Bluffs, NE-IA Metro Area', 'Lincoln, NE Metro Area')",0.002517381922800288
+"('Miami-Fort Lauderdale-West Palm Beach, FL Metro Area', 'Cape Coral-Fort Myers, FL Metro Area')",0.002517381922800288
+"('Dubuque, IA Metro Area', 'Chicago-Naperville-Elgin, IL-IN-WI Metro Area')",0.002517381922800288
+"('Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area', 'Charlottesville, VA Metro Area')",0.002517381922800288
+"('Houston-The Woodlands-Sugar Land, TX Metro Area', 'McAllen-Edinburg-Mission, TX Metro Area')",0.002517381922800288
+"('Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area', 'New Bern, NC Metro Area')",0.002517381922800288
+"('Dallas-Fort Worth-Arlington, TX Metro Area', 'Lubbock, TX Metro Area')",0.002517381922800288
+"('Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area', 'Harrisonburg, VA Metro Area')",0.002517381922800288
+"('Dallas-Fort Worth-Arlington, TX Metro Area', 'Tyler, TX Metro Area')",0.002517381922800288
+"('Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area', 'Hagerstown-Martinsburg, MD-WV Metro Area')",0.002517381922800288
+"('Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area', 'Blacksburg-Christiansburg-Radford, VA Metro Area')",0.002517381922800288
+"('Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area', 'Staunton-Waynesboro, VA Metro Area')",0.002517381922800288
+"('New Orleans-Metairie, LA Metro Area', 'Monroe, LA Metro Area')",0.002517381922800288
+"('Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area', 'Lynchburg, VA Metro Area')",0.002517381922800288
+"('Sacramento--Roseville--Arden-Arcade, CA Metro Area', 'Yuba City, CA Metro Area')",0.002517381922800288
+"('Atlanta-Sandy Springs-Roswell, GA Metro Area', 'Hinesville, GA Metro Area')",0.002517381922800288
+"('Tulsa, OK Metro Area', 'Dallas-Fort Worth-Arlington, TX Metro Area')",0.002517381922800288
+"('Dallas-Fort Worth-Arlington, TX Metro Area', 'Longview, TX Metro Area')",0.002517381922800288
+"('Atlanta-Sandy Springs-Roswell, GA Metro Area', 'Savannah, GA Metro Area')",0.002517381922800288
+"('Seattle-Tacoma-Bellevue, WA Metro Area', 'Kennewick-Richland, WA Metro Area')",0.002517381922800288
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'Scranton--Wilkes-Barre--Hazleton, PA Metro Area')",0.002517381922800288
+"('Chicago-Naperville-Elgin, IL-IN-WI Metro Area', 'Peoria, IL Metro Area')",0.002517381922800288
+"('Raleigh, NC Metro Area', 'Wilmington, NC Metro Area')",0.002517381922800288
+"('Cheyenne, WY Metro Area', 'Phoenix-Mesa-Scottsdale, AZ Metro Area')",0.002517381922800288
+"('Chicago-Naperville-Elgin, IL-IN-WI Metro Area', 'Dubuque, IA Metro Area')",0.002517381922800288
+"('Seattle-Tacoma-Bellevue, WA Metro Area', 'Fairbanks, AK Metro Area')",0.002517381922800288
+"('Indianapolis-Carmel-Anderson, IN Metro Area', 'Evansville, IN-KY Metro Area')",0.002517381922800288
+"('New Orleans-Metairie, LA Metro Area', 'Alexandria, LA Metro Area')",0.002510722182263779
+"('Atlanta-Sandy Springs-Roswell, GA Metro Area', 'Dalton, GA Metro Area')",0.002510722182263779
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'Buffalo-Cheektowaga-Niagara Falls, NY Metro Area')",0.002510722182263779
+"('Minneapolis-St. Paul-Bloomington, MN-WI Metro Area', 'Fargo, ND-MN Metro Area')",0.002510722182263779
+"('Bridgeport-Stamford-Norwalk, CT Metro Area', 'New Haven-Milford, CT Metro Area')",0.002510722182263779
+"('San Francisco-Oakland-Hayward, CA Metro Area', 'Stockton-Lodi, CA Metro Area')",0.002510722182263779
+"('Orlando-Kissimmee-Sanford, FL Metro Area', 'Ocala, FL Metro Area')",0.002510722182263779
+"('Dallas-Fort Worth-Arlington, TX Metro Area', 'Shreveport-Bossier City, LA Metro Area')",0.002510722182263779
+"('Chicago-Naperville-Elgin, IL-IN-WI Metro Area', 'Champaign-Urbana, IL Metro Area')",0.002510722182263779
+"('Cleveland, TN Metro Area', 'Chattanooga, TN-GA Metro Area')",0.002510722182263779
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'Utica-Rome, NY Metro Area')",0.002510722182263779
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'Syracuse, NY Metro Area')",0.002510722182263779
+"('Harrisburg-Carlisle, PA Metro Area', 'Chambersburg-Waynesboro, PA Metro Area')",0.002510722182263779
+"('Denver-Aurora-Lakewood, CO Metro Area', 'Pueblo, CO Metro Area')",0.002510722182263779
+"('Raleigh, NC Metro Area', 'Greenville, NC Metro Area')",0.002510722182263779
+"('Lafayette, LA Metro Area', 'Houston-The Woodlands-Sugar Land, TX Metro Area')",0.002510722182263779
+"('Charlotte-Concord-Gastonia, NC-SC Metro Area', 'Winston-Salem, NC Metro Area')",0.002510722182263779
+"('Kansas City, MO-KS Metro Area', 'Casper, WY Metro Area')",0.002510722182263779
+"('San Francisco-Oakland-Hayward, CA Metro Area', 'Modesto, CA Metro Area')",0.002510722182263779
+"('Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area', 'Roanoke, VA Metro Area')",0.002510722182263779
+"('South Bend-Mishawaka, IN-MI Metro Area', 'Niles-Benton Harbor, MI Metro Area')",0.002510722182263779
+"('Miami-Fort Lauderdale-West Palm Beach, FL Metro Area', 'Jacksonville, FL Metro Area')",0.002510722182263779
+"('Missoula, MT Metro Area', 'Billings, MT Metro Area')",0.0025040624417272703
+"('Denver-Aurora-Lakewood, CO Metro Area', 'Dallas-Fort Worth-Arlington, TX Metro Area')",0.0025040624417272703
+"('Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area', 'Clarksville, TN-KY Metro Area')",0.0025040624417272703
+"('Kansas City, MO-KS Metro Area', 'Wichita, KS Metro Area')",0.0025040624417272703
+"('Bowling Green, KY Metro Area', 'Louisville/Jefferson County, KY-IN Metro Area')",0.0025040624417272703
+"('Houston-The Woodlands-Sugar Land, TX Metro Area', 'Corpus Christi, TX Metro Area')",0.0025040624417272703
+"('Gainesville, FL Metro Area', 'Panama City, FL Metro Area')",0.0025040624417272703
+"('Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area', 'Huntington-Ashland, WV-KY-OH Metro Area')",0.0025040624417272703
+"('Minneapolis-St. Paul-Bloomington, MN-WI Metro Area', 'La Crosse-Onalaska, WI-MN Metro Area')",0.0025040624417272703
+"('Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area', 'Jacksonville, NC Metro Area')",0.0025040624417272703
+"('New Orleans-Metairie, LA Metro Area', 'Baton Rouge, LA Metro Area')",0.0025040624417272703
+"('Midland, TX Metro Area', 'Odessa, TX Metro Area')",0.0025040624417272703
+"('Los Angeles-Long Beach-Anaheim, CA Metro Area', 'Madera, CA Metro Area')",0.0025040624417272703
+"('Omaha-Council Bluffs, NE-IA Metro Area', 'Sioux City, IA-NE-SD Metro Area')",0.0025040624417272703
+"('Dalton, GA Metro Area', 'Atlanta-Sandy Springs-Roswell, GA Metro Area')",0.002497402701190762
+"('Great Falls, MT Metro Area', 'Missoula, MT Metro Area')",0.002497402701190762
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'Hilton Head Island-Bluffton-Beaufort, SC Metro Area')",0.002497402701190762
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'Rochester, NY Metro Area')",0.002497402701190762
+"('Austin-Round Rock, TX Metro Area', 'Killeen-Temple, TX Metro Area')",0.002497402701190762
+"('Houston-The Woodlands-Sugar Land, TX Metro Area', 'Lake Charles, LA Metro Area')",0.002497402701190762
+"('Bakersfield, CA Metro Area', 'Hanford-Corcoran, CA Metro Area')",0.002497402701190762
+"('Auburn-Opelika, AL Metro Area', 'Atlanta-Sandy Springs-Roswell, GA Metro Area')",0.002497402701190762
+"('Las Vegas-Henderson-Paradise, NV Metro Area', 'St. George, UT Metro Area')",0.002497402701190762
+"('Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area', 'Morgantown, WV Metro Area')",0.002497402701190762
+"('Lancaster, PA Metro Area', 'Lebanon, PA Metro Area')",0.002497402701190762
+"('Detroit-Warren-Dearborn, MI Metro Area', 'Midland, MI Metro Area')",0.002497402701190762
+"('Springfield, IL Metro Area', 'Chicago-Naperville-Elgin, IL-IN-WI Metro Area')",0.002497402701190762
+"('Tulsa, OK Metro Area', 'Fort Smith, AR-OK Metro Area')",0.002490742960654253
+"('Lexington-Fayette, KY Metro Area', 'Cincinnati, OH-KY-IN Metro Area')",0.002490742960654253
+"('Joplin, MO Metro Area', 'St. Louis, MO-IL Metro Area')",0.002490742960654253
+"('Niles-Benton Harbor, MI Metro Area', 'South Bend-Mishawaka, IN-MI Metro Area')",0.002490742960654253
+"('Detroit-Warren-Dearborn, MI Metro Area', 'Lansing-East Lansing, MI Metro Area')",0.002490742960654253
+"('Owensboro, KY Metro Area', 'Cincinnati, OH-KY-IN Metro Area')",0.002490742960654253
+"('Boise City, ID Metro Area', 'Idaho Falls, ID Metro Area')",0.002490742960654253
+"('Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area', 'Richmond, VA Metro Area')",0.002484083220117744
+"('Memphis, TN-MS-AR Metro Area', 'Jonesboro, AR Metro Area')",0.002484083220117744
+"('Spokane-Spokane Valley, WA Metro Area', ""Coeur d'Alene, ID Metro Area"")",0.002484083220117744
+"('Atlanta-Sandy Springs-Roswell, GA Metro Area', 'Augusta-Richmond County, GA-SC Metro Area')",0.002484083220117744
+"('Dallas-Fort Worth-Arlington, TX Metro Area', 'Hot Springs, AR Metro Area')",0.0024774234795812357
+"('Miami-Fort Lauderdale-West Palm Beach, FL Metro Area', 'Tallahassee, FL Metro Area')",0.0024774234795812357
+"('Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area', 'State College, PA Metro Area')",0.0024774234795812357
+"('Orlando-Kissimmee-Sanford, FL Metro Area', 'Lakeland-Winter Haven, FL Metro Area')",0.0024774234795812357
+"('Seattle-Tacoma-Bellevue, WA Metro Area', 'Lewiston, ID-WA Metro Area')",0.0024774234795812357
+"('Miami-Fort Lauderdale-West Palm Beach, FL Metro Area', 'Grand Island, NE Metro Area')",0.002470763739044727
+"('Chicago-Naperville-Elgin, IL-IN-WI Metro Area', 'Green Bay, WI Metro Area')",0.002470763739044727
+"('Cedar Rapids, IA Metro Area', 'Waterloo-Cedar Falls, IA Metro Area')",0.002470763739044727
+"('Chicago-Naperville-Elgin, IL-IN-WI Metro Area', 'Racine, WI Metro Area')",0.002470763739044727
+"('Las Cruces, NM Metro Area', 'El Paso, TX Metro Area')",0.002470763739044727
+"('Minneapolis-St. Paul-Bloomington, MN-WI Metro Area', 'Ames, IA Metro Area')",0.0024641039985082184
+"('Chicago-Naperville-Elgin, IL-IN-WI Metro Area', 'Janesville-Beloit, WI Metro Area')",0.0024641039985082184
+"('Chicago-Naperville-Elgin, IL-IN-WI Metro Area', 'Des Moines-West Des Moines, IA Metro Area')",0.0024641039985082184
+"('Los Angeles-Long Beach-Anaheim, CA Metro Area', 'Riverside-San Bernardino-Ontario, CA Metro Area')",0.0024641039985082184
+"('Houston-The Woodlands-Sugar Land, TX Metro Area', 'Lafayette, LA Metro Area')",0.0024641039985082184
+"('San Luis Obispo-Paso Robles-Arroyo Grande, CA Metro Area', 'Los Angeles-Long Beach-Anaheim, CA Metro Area')",0.0024641039985082184
+"('Allentown-Bethlehem-Easton, PA-NJ Metro Area', 'New York-Newark-Jersey City, NY-NJ-PA Metro Area')",0.0024507845174352007
+"('Atlanta-Sandy Springs-Roswell, GA Metro Area', 'Anniston-Oxford-Jacksonville, AL Metro Area')",0.0024507845174352007
+"('Gulfport-Biloxi-Pascagoula, MS Metro Area', 'Hattiesburg, MS Metro Area')",0.0024507845174352007
+"('St. Louis, MO-IL Metro Area', 'Columbia, MO Metro Area')",0.0024507845174352007
+"('Memphis, TN-MS-AR Metro Area', 'Atlanta-Sandy Springs-Roswell, GA Metro Area')",0.0024507845174352007
+"('St. Louis, MO-IL Metro Area', 'Jefferson City, MO Metro Area')",0.0024507845174352007
+"('St. Louis, MO-IL Metro Area', 'Springfield, MO Metro Area')",0.0024507845174352007
+"('Detroit-Warren-Dearborn, MI Metro Area', 'Monroe, MI Metro Area')",0.0024441247768986923
+"('Durham-Chapel Hill, NC Metro Area', 'Burlington, NC Metro Area')",0.0024441247768986923
+"('Charleston-North Charleston, SC Metro Area', 'Atlanta-Sandy Springs-Roswell, GA Metro Area')",0.0024441247768986923
+"('Atlanta-Sandy Springs-Roswell, GA Metro Area', 'Auburn-Opelika, AL Metro Area')",0.0024441247768986923
+"('Chicago-Naperville-Elgin, IL-IN-WI Metro Area', 'Lafayette-West Lafayette, IN Metro Area')",0.0024374650363621834
+"('North Port-Sarasota-Bradenton, FL Metro Area', 'Punta Gorda, FL Metro Area')",0.0024308052958256746
+"('Miami-Fort Lauderdale-West Palm Beach, FL Metro Area', 'Palm Bay-Melbourne-Titusville, FL Metro Area')",0.0024308052958256746
+"('Dallas-Fort Worth-Arlington, TX Metro Area', 'Jackson, MS Metro Area')",0.0024308052958256746
+"('Fayetteville-Springdale-Rogers, AR-MO Metro Area', 'Joplin, MO Metro Area')",0.002424145555289166
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'Myrtle Beach-Conway-North Myrtle Beach, SC-NC Metro Area')",0.002424145555289166
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'Fayetteville, NC Metro Area')",0.0024174858147526573
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'Florence, SC Metro Area')",0.0024174858147526573
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'Charleston-North Charleston, SC Metro Area')",0.0024108260742161484
+"('Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area', 'Rapid City, SD Metro Area')",0.00240416633367964
+"('Pensacola-Ferry Pass-Brent, FL Metro Area', 'Crestview-Fort Walton Beach-Destin, FL Metro Area')",0.00240416633367964
+"('Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area', 'Bowling Green, KY Metro Area')",0.002397506593143131
+"('Los Angeles-Long Beach-Anaheim, CA Metro Area', 'Provo-Orem, UT Metro Area')",0.002397506593143131
+"('Pittsburgh, PA Metro Area', 'Youngstown-Warren-Boardman, OH-PA Metro Area')",0.0023908468526066227
+"('Appleton, WI Metro Area', 'Madison, WI Metro Area')",0.002384187112070114
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'Atlantic City-Hammonton, NJ Metro Area')",0.002377527371533605
+"('Hammond, LA Metro Area', 'Baton Rouge, LA Metro Area')",0.0023642078904605878
+"('Chicago-Naperville-Elgin, IL-IN-WI Metro Area', 'Madison, WI Metro Area')",0.002357548149924079
+"('Cedar Rapids, IA Metro Area', 'Iowa City, IA Metro Area')",0.002357548149924079
+"('Johnson City, TN Metro Area', 'Kingsport-Bristol-Bristol, TN-VA Metro Area')",0.002357548149924079
+"('Cleveland-Elyria, OH Metro Area', 'Toledo, OH Metro Area')",0.0023508884093875705
+"('Detroit-Warren-Dearborn, MI Metro Area', 'Atlanta-Sandy Springs-Roswell, GA Metro Area')",0.0023375689283145528
+"('Cleveland-Elyria, OH Metro Area', 'Mansfield, OH Metro Area')",0.0023309091877780443
+"('Hattiesburg, MS Metro Area', 'Gulfport-Biloxi-Pascagoula, MS Metro Area')",0.0023309091877780443
+"('El Paso, TX Metro Area', 'Las Cruces, NM Metro Area')",0.002317589706705027
+"('Jackson, MS Metro Area', 'Dallas-Fort Worth-Arlington, TX Metro Area')",0.002290950744558992
+"('Salisbury, MD-DE Metro Area', 'Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area')",0.002290950744558992
+"('Phoenix-Mesa-Scottsdale, AZ Metro Area', 'Portland-Vancouver-Hillsboro, OR-WA Metro Area')",0.002277631263485975
+"('Jacksonville, FL Metro Area', 'Orlando-Kissimmee-Sanford, FL Metro Area')",0.002277631263485975
+"('Phoenix-Mesa-Scottsdale, AZ Metro Area', 'Seattle-Tacoma-Bellevue, WA Metro Area')",0.002270971522949466
+"('Cincinnati, OH-KY-IN Metro Area', 'Lima, OH Metro Area')",0.0022576520418764487
+"('Watertown-Fort Drum, NY Metro Area', 'Syracuse, NY Metro Area')",0.00225099230133994
+"('Charlotte-Concord-Gastonia, NC-SC Metro Area', 'Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area')",0.0022110338581208876
+"('Dallas-Fort Worth-Arlington, TX Metro Area', 'Kansas City, MO-KS Metro Area')",0.0022110338581208876
+"('Sioux City, IA-NE-SD Metro Area', 'Sioux Falls, SD Metro Area')",0.0021510961932923096
+"('Houston-The Woodlands-Sugar Land, TX Metro Area', 'Mobile, AL Metro Area')",0.0021510961932923096
+"('Springfield, MO Metro Area', 'St. Louis, MO-IL Metro Area')",0.002137776712219292
+"('Albuquerque, NM Metro Area', 'Farmington, NM Metro Area')",0.0021244572311462746
+"('Fayetteville, NC Metro Area', 'Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area')",0.002051200085244679
+"('Waterloo-Cedar Falls, IA Metro Area', 'Des Moines-West Des Moines, IA Metro Area')",0.0020245611230986444
+"('Des Moines-West Des Moines, IA Metro Area', 'Minneapolis-St. Paul-Bloomington, MN-WI Metro Area')",0.0019979221609526094
+"('Mobile, AL Metro Area', 'Birmingham-Hoover, AL Metro Area')",0.0019779429393430832
+"('Minneapolis-St. Paul-Bloomington, MN-WI Metro Area', 'Phoenix-Mesa-Scottsdale, AZ Metro Area')",0.001964623458270066
+"('San Francisco-Oakland-Hayward, CA Metro Area', 'Seattle-Tacoma-Bellevue, WA Metro Area')",0.001918005274514505
+"('New York-Newark-Jersey City, NY-NJ-PA Metro Area', 'Columbus, OH Metro Area')",0.0018713870907589442
+"('Miami-Fort Lauderdale-West Palm Beach, FL Metro Area', 'Dothan, AL Metro Area')",0.0017981299448573485
+"('Daphne-Fairhope-Foley, AL Metro Area', 'Pensacola-Ferry Pass-Brent, FL Metro Area')",0.0017714909827113137
+"('Seattle-Tacoma-Bellevue, WA Metro Area', 'Phoenix-Mesa-Scottsdale, AZ Metro Area')",0.0017115533178827353
+"('Panama City, FL Metro Area', 'Tallahassee, FL Metro Area')",0.001678254615200192
+"('Crestview-Fort Walton Beach-Destin, FL Metro Area', 'Orlando-Kissimmee-Sanford, FL Metro Area')",0.0015783585071525615
+"('Denver-Aurora-Lakewood, CO Metro Area', 'Seattle-Tacoma-Bellevue, WA Metro Area')",0.0014185247342763526
+"('Omaha-Council Bluffs, NE-IA Metro Area', 'Dallas-Fort Worth-Arlington, TX Metro Area')",0.0013852260315938092
+"('Houston-The Woodlands-Sugar Land, TX Metro Area', 'San Antonio-New Braunfels, TX Metro Area')",0.0013319481073017397
+"('Houston-The Woodlands-Sugar Land, TX Metro Area', 'Denver-Aurora-Lakewood, CO Metro Area')",0.0012253922587176004
+"('Raleigh, NC Metro Area', 'Atlanta-Sandy Springs-Roswell, GA Metro Area')",0.0011987532965715656
+"('Austin-Round Rock, TX Metro Area', 'Dallas-Fort Worth-Arlington, TX Metro Area')",0.0011521351128160047
+"('Dallas-Fort Worth-Arlington, TX Metro Area', 'San Antonio-New Braunfels, TX Metro Area')",0.0011321558912064785
+"('Crestview-Fort Walton Beach-Destin, FL Metro Area', 'Atlanta-Sandy Springs-Roswell, GA Metro Area')",0.0009789818588667786
+"('Houston-The Woodlands-Sugar Land, TX Metro Area', 'Phoenix-Mesa-Scottsdale, AZ Metro Area')",0.0009789818588667786
+"('San Francisco-Oakland-Hayward, CA Metro Area', 'Portland-Vancouver-Hillsboro, OR-WA Metro Area')",0.0009590026372572525
+"('Panama City, FL Metro Area', 'Pensacola-Ferry Pass-Brent, FL Metro Area')",0.0008857454913556569
+"('Phoenix-Mesa-Scottsdale, AZ Metro Area', 'Albuquerque, NM Metro Area')",0.0007991688643810438
+"('Daphne-Fairhope-Foley, AL Metro Area', 'Birmingham-Hoover, AL Metro Area')",0.000792509123844535
+"('Birmingham-Hoover, AL Metro Area', 'Dothan, AL Metro Area')",0.0007259117184794481
+"('Atlanta-Sandy Springs-Roswell, GA Metro Area', 'Pensacola-Ferry Pass-Brent, FL Metro Area')",0.0006526545725778524
+"('Omaha-Council Bluffs, NE-IA Metro Area', 'Atlanta-Sandy Springs-Roswell, GA Metro Area')",0.0006193558698953089
+"('Detroit-Warren-Dearborn, MI Metro Area', 'Phoenix-Mesa-Scottsdale, AZ Metro Area')",0.0006060363888222915
+"('Mobile, AL Metro Area', 'Los Angeles-Long Beach-Anaheim, CA Metro Area')",0.0005594182050667306
+"('Columbus, OH Metro Area', 'Cleveland-Elyria, OH Metro Area')",0.0005594182050667306
+"('Waterloo-Cedar Falls, IA Metro Area', 'Houston-The Woodlands-Sugar Land, TX Metro Area')",0.0005460987239937132
+"('New Orleans-Metairie, LA Metro Area', 'Atlanta-Sandy Springs-Roswell, GA Metro Area')",0.0005394389834572045
+"('Atlanta-Sandy Springs-Roswell, GA Metro Area', 'Greenville-Anderson-Mauldin, SC Metro Area')",0.0005327792429206959
+"('Omaha-Council Bluffs, NE-IA Metro Area', 'Kansas City, MO-KS Metro Area')",0.0005194597618476785
+"('Columbus, OH Metro Area', 'Cincinnati, OH-KY-IN Metro Area')",0.0004928207997016436
+"('Raleigh, NC Metro Area', 'Charlotte-Concord-Gastonia, NC-SC Metro Area')",0.0004928207997016436
+"('Springfield, MO Metro Area', 'Kansas City, MO-KS Metro Area')",0.00048616105916513496
+"('Chicago-Naperville-Elgin, IL-IN-WI Metro Area', 'Columbus, OH Metro Area')",0.00043288313487306536
+"('Seattle-Tacoma-Bellevue, WA Metro Area', 'Boise City, ID Metro Area')",0.000419563653800048
+"('Memphis, TN-MS-AR Metro Area', 'Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area')",0.0003995844321905219
+"('Phoenix-Mesa-Scottsdale, AZ Metro Area', 'Farmington, NM Metro Area')",0.0003995844321905219
+"('Urban Honolulu, HI Metro Area', 'Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area')",0.00038626495111750446
+"('Omaha-Council Bluffs, NE-IA Metro Area', 'Phoenix-Mesa-Scottsdale, AZ Metro Area')",0.00037960521058099576
+"('Jackson, MS Metro Area', 'Atlanta-Sandy Springs-Roswell, GA Metro Area')",0.00037960521058099576
+"('Sioux City, IA-NE-SD Metro Area', 'Omaha-Council Bluffs, NE-IA Metro Area')",0.00037960521058099576
+"('Denver-Aurora-Lakewood, CO Metro Area', 'Kansas City, MO-KS Metro Area')",0.00037294547004448707
+"('Denver-Aurora-Lakewood, CO Metro Area', 'Phoenix-Mesa-Scottsdale, AZ Metro Area')",0.00037294547004448707
+"('Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area', 'Memphis, TN-MS-AR Metro Area')",0.0003596259889714697
+"('Urban Honolulu, HI Metro Area', 'Seattle-Tacoma-Bellevue, WA Metro Area')",0.0003596259889714697
+"('Seattle-Tacoma-Bellevue, WA Metro Area', 'Urban Honolulu, HI Metro Area')",0.0003463065078984523
+"('Fayetteville, NC Metro Area', 'El Paso, TX Metro Area')",0.0003329870268254349
+"('Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area', 'Little Rock-North Little Rock-Conway, AR Metro Area')",0.0003329870268254349
+"('Charlotte-Concord-Gastonia, NC-SC Metro Area', 'Raleigh, NC Metro Area')",0.0003329870268254349
+"('Watertown-Fort Drum, NY Metro Area', 'Killeen-Temple, TX Metro Area')",0.0003196675457524175
+"('Cincinnati, OH-KY-IN Metro Area', 'Columbus, OH Metro Area')",0.0003196675457524175
+"('Des Moines-West Des Moines, IA Metro Area', 'Omaha-Council Bluffs, NE-IA Metro Area')",0.0003196675457524175
+"('Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area', 'Huntsville, AL Metro Area')",0.0002930285836063827
+"('Salisbury, MD-DE Metro Area', 'Baltimore-Columbia-Towson, MD Metro Area')",0.0002797091025333653
+"('Atlanta-Sandy Springs-Roswell, GA Metro Area', 'Mobile, AL Metro Area')",0.00026638962146034793
+"('Cleveland-Elyria, OH Metro Area', 'Columbus, OH Metro Area')",0.00025972988092383924
+"('Miami-Fort Lauderdale-West Palm Beach, FL Metro Area', 'Orlando-Kissimmee-Sanford, FL Metro Area')",0.00025972988092383924
+"('Cincinnati, OH-KY-IN Metro Area', 'Louisville/Jefferson County, KY-IN Metro Area')",0.00025307014038733055
+"('Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area', 'Lima, OH Metro Area')",0.00025307014038733055
+"('Hattiesburg, MS Metro Area', 'Jackson, MS Metro Area')",0.0002464103998508218
+"('Little Rock-North Little Rock-Conway, AR Metro Area', 'Memphis, TN-MS-AR Metro Area')",0.0002464103998508218
+"('Louisville/Jefferson County, KY-IN Metro Area', 'Lexington-Fayette, KY Metro Area')",0.0002464103998508218
+"('Indianapolis-Carmel-Anderson, IN Metro Area', 'Cincinnati, OH-KY-IN Metro Area')",0.00023975065931431313
+"('Louisville/Jefferson County, KY-IN Metro Area', 'Cincinnati, OH-KY-IN Metro Area')",0.00023975065931431313
+"('Jacksonville, FL Metro Area', 'Atlanta-Sandy Springs-Roswell, GA Metro Area')",0.00022643117824129572
+"('Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area', 'Louisville/Jefferson County, KY-IN Metro Area')",0.00022643117824129572
+"('Cedar Rapids, IA Metro Area', 'Des Moines-West Des Moines, IA Metro Area')",0.00021977143770478703
+"('Hammond, LA Metro Area', 'New Orleans-Metairie, LA Metro Area')",0.00021311169716827833
+"('Columbus, OH Metro Area', 'Mansfield, OH Metro Area')",0.00019313247555875223
+"('Akron, OH Metro Area', 'Youngstown-Warren-Boardman, OH-PA Metro Area')",0.00018647273502224354
+"('Boise City, ID Metro Area', 'Portland-Vancouver-Hillsboro, OR-WA Metro Area')",0.00017981299448573484
+"('Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area', 'Las Cruces, NM Metro Area')",0.00017315325394922615
+"('Greenville-Anderson-Mauldin, SC Metro Area', 'Charlotte-Concord-Gastonia, NC-SC Metro Area')",0.00017315325394922615
+"('Detroit-Warren-Dearborn, MI Metro Area', 'Columbus, OH Metro Area')",0.00017315325394922615
+"('Columbus, OH Metro Area', 'Dayton, OH Metro Area')",0.00017315325394922615
+"('Appleton, WI Metro Area', 'Green Bay, WI Metro Area')",0.00016649351341271746
+"('Durham-Chapel Hill, NC Metro Area', 'Raleigh, NC Metro Area')",0.00016649351341271746
+"('Las Cruces, NM Metro Area', 'Albuquerque, NM Metro Area')",0.00016649351341271746
+"('Albuquerque, NM Metro Area', 'Denver-Aurora-Lakewood, CO Metro Area')",0.00015983377287620874
+"('Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area', 'Kingsport-Bristol-Bristol, TN-VA Metro Area')",0.00015983377287620874
+"('Columbus, OH Metro Area', 'Toledo, OH Metro Area')",0.00015983377287620874
+"('Madison, WI Metro Area', 'Minneapolis-St. Paul-Bloomington, MN-WI Metro Area')",0.00014651429180319135
+"('Hartford-West Hartford-East Hartford, CT Metro Area', 'Boston-Cambridge-Newton, MA-NH Metro Area')",0.00013985455126668266
+"('Lexington-Fayette, KY Metro Area', 'Louisville/Jefferson County, KY-IN Metro Area')",0.00013985455126668266
+"('Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area', 'Atlantic City-Hammonton, NJ Metro Area')",0.00013985455126668266
+"('Jackson, MS Metro Area', 'Memphis, TN-MS-AR Metro Area')",0.00013319481073017397
+"('Memphis, TN-MS-AR Metro Area', 'Jackson, MS Metro Area')",0.00013319481073017397
+"('Allentown-Bethlehem-Easton, PA-NJ Metro Area', 'Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area')",0.00012653507019366527
+"('Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area', 'Chattanooga, TN-GA Metro Area')",0.00011987532965715657
+"('Miami-Fort Lauderdale-West Palm Beach, FL Metro Area', 'Crestview-Fort Walton Beach-Destin, FL Metro Area')",0.00011987532965715657
+"('Detroit-Warren-Dearborn, MI Metro Area', 'Grand Rapids-Wyoming, MI Metro Area')",0.00011987532965715657
+"('Louisville/Jefferson County, KY-IN Metro Area', 'Bowling Green, KY Metro Area')",0.00011987532965715657
+"('Sioux Falls, SD Metro Area', 'Rapid City, SD Metro Area')",0.00011987532965715657
+"('Tampa-St. Petersburg-Clearwater, FL Metro Area', 'North Port-Sarasota-Bradenton, FL Metro Area')",0.00011321558912064786
+"('Memphis, TN-MS-AR Metro Area', 'Little Rock-North Little Rock-Conway, AR Metro Area')",0.00011321558912064786
+"('Fayetteville, NC Metro Area', 'Raleigh, NC Metro Area')",0.00010655584858413917
+"('Minneapolis-St. Paul-Bloomington, MN-WI Metro Area', 'Madison, WI Metro Area')",0.00010655584858413917
+"('Dayton, OH Metro Area', 'Columbus, OH Metro Area')",0.00010655584858413917
+"('San Luis Obispo-Paso Robles-Arroyo Grande, CA Metro Area', 'San Francisco-Oakland-Hayward, CA Metro Area')",0.00010655584858413917
+"('Chattanooga, TN-GA Metro Area', 'Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area')",0.00010655584858413917
+"('Columbia, MO Metro Area', 'Kansas City, MO-KS Metro Area')",0.00010655584858413917
+"('Huntington-Ashland, WV-KY-OH Metro Area', 'Lexington-Fayette, KY Metro Area')",9.989610804763047e-05
+"('Kansas City, MO-KS Metro Area', 'Joplin, MO Metro Area')",9.989610804763047e-05
+"('Orlando-Kissimmee-Sanford, FL Metro Area', 'Tampa-St. Petersburg-Clearwater, FL Metro Area')",9.989610804763047e-05
+"('Columbia, SC Metro Area', 'Florence, SC Metro Area')",9.989610804763047e-05
+"('Miami-Fort Lauderdale-West Palm Beach, FL Metro Area', 'Tampa-St. Petersburg-Clearwater, FL Metro Area')",9.323636751112177e-05
+"('Charlotte-Concord-Gastonia, NC-SC Metro Area', 'Myrtle Beach-Conway-North Myrtle Beach, SC-NC Metro Area')",9.323636751112177e-05
+"('Phoenix-Mesa-Scottsdale, AZ Metro Area', 'Provo-Orem, UT Metro Area')",9.323636751112177e-05
+"('Madison, WI Metro Area', 'Milwaukee-Waukesha-West Allis, WI Metro Area')",9.323636751112177e-05
+"('Albuquerque, NM Metro Area', 'Las Cruces, NM Metro Area')",9.323636751112177e-05
+"('Miami-Fort Lauderdale-West Palm Beach, FL Metro Area', 'Punta Gorda, FL Metro Area')",8.657662697461308e-05
+"('Niles-Benton Harbor, MI Metro Area', 'Kalamazoo-Portage, MI Metro Area')",8.657662697461308e-05
+"('Youngstown-Warren-Boardman, OH-PA Metro Area', 'Cleveland-Elyria, OH Metro Area')",8.657662697461308e-05
+"('Indianapolis-Carmel-Anderson, IN Metro Area', 'Lafayette-West Lafayette, IN Metro Area')",8.657662697461308e-05
+"('Detroit-Warren-Dearborn, MI Metro Area', 'Toledo, OH Metro Area')",7.991688643810437e-05
+"('Springfield, IL Metro Area', 'St. Louis, MO-IL Metro Area')",7.991688643810437e-05
+"('Orlando-Kissimmee-Sanford, FL Metro Area', 'Palm Bay-Melbourne-Titusville, FL Metro Area')",7.991688643810437e-05
+"('Dalton, GA Metro Area', 'Chattanooga, TN-GA Metro Area')",7.991688643810437e-05
+"('Toledo, OH Metro Area', 'Monroe, MI Metro Area')",7.991688643810437e-05
+"('Charleston-North Charleston, SC Metro Area', 'Charlotte-Concord-Gastonia, NC-SC Metro Area')",7.991688643810437e-05
+"('Greensboro-High Point, NC Metro Area', 'Burlington, NC Metro Area')",7.991688643810437e-05
+"('Chattanooga, TN-GA Metro Area', 'Knoxville, TN Metro Area')",7.991688643810437e-05
+"('Tampa-St. Petersburg-Clearwater, FL Metro Area', 'Orlando-Kissimmee-Sanford, FL Metro Area')",7.991688643810437e-05
+"('Great Falls, MT Metro Area', 'Billings, MT Metro Area')",7.991688643810437e-05
+"('Bowling Green, KY Metro Area', 'Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area')",7.325714590159568e-05
+"('Jackson, MS Metro Area', 'Hattiesburg, MS Metro Area')",7.325714590159568e-05
+"('Daphne-Fairhope-Foley, AL Metro Area', 'Mobile, AL Metro Area')",7.325714590159568e-05
+"('Birmingham-Hoover, AL Metro Area', 'Auburn-Opelika, AL Metro Area')",7.325714590159568e-05
+"('Milwaukee-Waukesha-West Allis, WI Metro Area', 'Madison, WI Metro Area')",6.659740536508698e-05
+"('Kansas City, MO-KS Metro Area', 'Columbia, MO Metro Area')",6.659740536508698e-05
+"('Kansas City, MO-KS Metro Area', 'Jefferson City, MO Metro Area')",6.659740536508698e-05
+"('Birmingham-Hoover, AL Metro Area', 'Anniston-Oxford-Jacksonville, AL Metro Area')",6.659740536508698e-05
+"('Charlotte-Concord-Gastonia, NC-SC Metro Area', 'Charleston-North Charleston, SC Metro Area')",6.659740536508698e-05
+"('Cleveland, TN Metro Area', 'Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area')",6.659740536508698e-05
+"('North Port-Sarasota-Bradenton, FL Metro Area', 'Orlando-Kissimmee-Sanford, FL Metro Area')",6.659740536508698e-05
+"('Charlotte-Concord-Gastonia, NC-SC Metro Area', 'Durham-Chapel Hill, NC Metro Area')",6.659740536508698e-05
+"('Oklahoma City, OK Metro Area', 'Tulsa, OK Metro Area')",6.659740536508698e-05
+"('San Diego-Carlsbad, CA Metro Area', 'Urban Honolulu, HI Metro Area')",6.659740536508698e-05
+"('Kansas City, MO-KS Metro Area', 'Springfield, MO Metro Area')",6.659740536508698e-05
+"('Tampa-St. Petersburg-Clearwater, FL Metro Area', 'Gainesville, FL Metro Area')",6.659740536508698e-05
+"('Des Moines-West Des Moines, IA Metro Area', 'Ames, IA Metro Area')",5.993766482857828e-05
+"('Owensboro, KY Metro Area', 'Evansville, IN-KY Metro Area')",5.993766482857828e-05
+"('Charlotte-Concord-Gastonia, NC-SC Metro Area', 'Fayetteville, NC Metro Area')",5.993766482857828e-05
+"('Kalamazoo-Portage, MI Metro Area', 'Grand Rapids-Wyoming, MI Metro Area')",5.993766482857828e-05
+"('Madison, WI Metro Area', 'Janesville-Beloit, WI Metro Area')",5.993766482857828e-05
+"('Auburn-Opelika, AL Metro Area', 'Birmingham-Hoover, AL Metro Area')",5.993766482857828e-05
+"('Omaha-Council Bluffs, NE-IA Metro Area', 'Des Moines-West Des Moines, IA Metro Area')",5.993766482857828e-05
+"('Milwaukee-Waukesha-West Allis, WI Metro Area', 'Racine, WI Metro Area')",5.3277924292069584e-05
+"('Racine, WI Metro Area', 'Milwaukee-Waukesha-West Allis, WI Metro Area')",5.3277924292069584e-05
+"('Fayetteville, NC Metro Area', 'Colorado Springs, CO Metro Area')",5.3277924292069584e-05
+"('Little Rock-North Little Rock-Conway, AR Metro Area', 'Fayetteville-Springdale-Rogers, AR-MO Metro Area')",5.3277924292069584e-05
+"('Joplin, MO Metro Area', 'Springfield, MO Metro Area')",5.3277924292069584e-05
+"('Las Vegas-Henderson-Paradise, NV Metro Area', 'Reno, NV Metro Area')",5.3277924292069584e-05
+"('Omaha-Council Bluffs, NE-IA Metro Area', 'Grand Island, NE Metro Area')",5.3277924292069584e-05
+"('Greenville-Anderson-Mauldin, SC Metro Area', 'Columbia, SC Metro Area')",5.3277924292069584e-05
+"('Columbia, SC Metro Area', 'Greenville-Anderson-Mauldin, SC Metro Area')",5.3277924292069584e-05
+"('San Antonio-New Braunfels, TX Metro Area', 'Austin-Round Rock, TX Metro Area')",5.3277924292069584e-05
+"('Urban Honolulu, HI Metro Area', 'Las Vegas-Henderson-Paradise, NV Metro Area')",5.3277924292069584e-05
+"('Richmond, VA Metro Area', 'Virginia Beach-Norfolk-Newport News, VA-NC Metro Area')",5.3277924292069584e-05
+"('Lafayette, LA Metro Area', 'New Orleans-Metairie, LA Metro Area')",4.6618183755560884e-05
+"('Charleston, WV Metro Area', 'Morgantown, WV Metro Area')",4.6618183755560884e-05
+"('Des Moines-West Des Moines, IA Metro Area', 'Waterloo-Cedar Falls, IA Metro Area')",4.6618183755560884e-05
+"('Myrtle Beach-Conway-North Myrtle Beach, SC-NC Metro Area', 'Wilmington, NC Metro Area')",4.6618183755560884e-05
+"('San Diego-Carlsbad, CA Metro Area', 'Riverside-San Bernardino-Ontario, CA Metro Area')",4.6618183755560884e-05
+"('Little Rock-North Little Rock-Conway, AR Metro Area', 'Hot Springs, AR Metro Area')",4.6618183755560884e-05
+"('Cheyenne, WY Metro Area', 'Denver-Aurora-Lakewood, CO Metro Area')",4.6618183755560884e-05
+"('Dubuque, IA Metro Area', 'Des Moines-West Des Moines, IA Metro Area')",4.6618183755560884e-05
+"('Appleton, WI Metro Area', 'Oshkosh-Neenah, WI Metro Area')",3.9958443219052184e-05
+"('Milwaukee-Waukesha-West Allis, WI Metro Area', 'Green Bay, WI Metro Area')",3.9958443219052184e-05
+"('Missoula, MT Metro Area', 'Boise City, ID Metro Area')",3.9958443219052184e-05
+"('Killeen-Temple, TX Metro Area', 'Austin-Round Rock, TX Metro Area')",3.9958443219052184e-05
+"('Raleigh, NC Metro Area', 'Greensboro-High Point, NC Metro Area')",3.9958443219052184e-05
+"('Baton Rouge, LA Metro Area', 'New Orleans-Metairie, LA Metro Area')",3.9958443219052184e-05
+"('Green Bay, WI Metro Area', 'Milwaukee-Waukesha-West Allis, WI Metro Area')",3.9958443219052184e-05
+"('Harrisburg-Carlisle, PA Metro Area', 'York-Hanover, PA Metro Area')",3.9958443219052184e-05
+"('Urban Honolulu, HI Metro Area', 'San Diego-Carlsbad, CA Metro Area')",3.9958443219052184e-05
+"('Mobile, AL Metro Area', 'Gulfport-Biloxi-Pascagoula, MS Metro Area')",3.9958443219052184e-05
+"('Little Rock-North Little Rock-Conway, AR Metro Area', 'Jonesboro, AR Metro Area')",3.9958443219052184e-05
+"('Stockton-Lodi, CA Metro Area', 'Sacramento--Roseville--Arden-Arcade, CA Metro Area')",3.9958443219052184e-05
+"('Tampa-St. Petersburg-Clearwater, FL Metro Area', 'Lakeland-Winter Haven, FL Metro Area')",3.9958443219052184e-05
+"('Columbia, SC Metro Area', 'Augusta-Richmond County, GA-SC Metro Area')",3.9958443219052184e-05
+"('Lakeland-Winter Haven, FL Metro Area', 'Tampa-St. Petersburg-Clearwater, FL Metro Area')",3.9958443219052184e-05
+"('Pittsburgh, PA Metro Area', 'State College, PA Metro Area')",3.9958443219052184e-05
+"('Salt Lake City, UT Metro Area', 'Idaho Falls, ID Metro Area')",3.329870268254349e-05
+"('York-Hanover, PA Metro Area', 'Harrisburg-Carlisle, PA Metro Area')",3.329870268254349e-05
+"('Joplin, MO Metro Area', 'Fayetteville-Springdale-Rogers, AR-MO Metro Area')",3.329870268254349e-05
+"('Gainesville, FL Metro Area', 'Tampa-St. Petersburg-Clearwater, FL Metro Area')",3.329870268254349e-05
+"('Tampa-St. Petersburg-Clearwater, FL Metro Area', 'Tallahassee, FL Metro Area')",3.329870268254349e-05
+"('Grand Rapids-Wyoming, MI Metro Area', 'Lansing-East Lansing, MI Metro Area')",3.329870268254349e-05
+"('Fort Smith, AR-OK Metro Area', 'Little Rock-North Little Rock-Conway, AR Metro Area')",3.329870268254349e-05
+"('Greensboro-High Point, NC Metro Area', 'Raleigh, NC Metro Area')",3.329870268254349e-05
+"('Des Moines-West Des Moines, IA Metro Area', 'Iowa City, IA Metro Area')",3.329870268254349e-05
+"('Raleigh, NC Metro Area', 'Fayetteville, NC Metro Area')",3.329870268254349e-05
+"('Wilmington, NC Metro Area', 'Myrtle Beach-Conway-North Myrtle Beach, SC-NC Metro Area')",2.6638962146034792e-05
+"('Wichita, KS Metro Area', 'Oklahoma City, OK Metro Area')",2.6638962146034792e-05
+"('Urban Honolulu, HI Metro Area', 'El Paso, TX Metro Area')",2.6638962146034792e-05
+"('Cleveland-Elyria, OH Metro Area', 'Pittsburgh, PA Metro Area')",2.6638962146034792e-05
+"('Charlottesville, VA Metro Area', 'Richmond, VA Metro Area')",2.6638962146034792e-05
+"('Sioux City, IA-NE-SD Metro Area', 'Oklahoma City, OK Metro Area')",2.6638962146034792e-05
+"('Salt Lake City, UT Metro Area', 'Provo-Orem, UT Metro Area')",2.6638962146034792e-05
+"('Fresno, CA Metro Area', 'Hanford-Corcoran, CA Metro Area')",2.6638962146034792e-05
+"('Grand Rapids-Wyoming, MI Metro Area', 'Kalamazoo-Portage, MI Metro Area')",2.6638962146034792e-05
+"('Harrisburg-Carlisle, PA Metro Area', 'Lebanon, PA Metro Area')",2.6638962146034792e-05
+"('Salt Lake City, UT Metro Area', 'St. George, UT Metro Area')",2.6638962146034792e-05
+"('Jacksonville, FL Metro Area', 'Tampa-St. Petersburg-Clearwater, FL Metro Area')",2.6638962146034792e-05
+"('Hartford-West Hartford-East Hartford, CT Metro Area', 'New Haven-Milford, CT Metro Area')",2.6638962146034792e-05
+"('Little Rock-North Little Rock-Conway, AR Metro Area', 'Fort Smith, AR-OK Metro Area')",2.6638962146034792e-05
+"('Tulsa, OK Metro Area', 'Fayetteville-Springdale-Rogers, AR-MO Metro Area')",2.6638962146034792e-05
+"('Austin-Round Rock, TX Metro Area', 'San Antonio-New Braunfels, TX Metro Area')",2.6638962146034792e-05
+"('Spokane-Spokane Valley, WA Metro Area', 'Lewiston, ID-WA Metro Area')",2.6638962146034792e-05
+"('San Antonio-New Braunfels, TX Metro Area', 'Corpus Christi, TX Metro Area')",1.9979221609526092e-05
+"('Tulsa, OK Metro Area', 'Lafayette, LA Metro Area')",1.9979221609526092e-05
+"('Wilmington, NC Metro Area', 'Jacksonville, NC Metro Area')",1.9979221609526092e-05
+"('Tulsa, OK Metro Area', 'Oklahoma City, OK Metro Area')",1.9979221609526092e-05
+"('Huntington-Ashland, WV-KY-OH Metro Area', 'Charleston, WV Metro Area')",1.9979221609526092e-05
+"('Boise City, ID Metro Area', ""Coeur d'Alene, ID Metro Area"")",1.9979221609526092e-05
+"('Columbia, SC Metro Area', 'Charleston-North Charleston, SC Metro Area')",1.9979221609526092e-05
+"('Sioux City, IA-NE-SD Metro Area', 'Des Moines-West Des Moines, IA Metro Area')",1.9979221609526092e-05
+"('Fresno, CA Metro Area', 'Madera, CA Metro Area')",1.9979221609526092e-05
+"('Charleston-North Charleston, SC Metro Area', 'Virginia Beach-Norfolk-Newport News, VA-NC Metro Area')",1.9979221609526092e-05
+"('Pensacola-Ferry Pass-Brent, FL Metro Area', 'Mobile, AL Metro Area')",1.9979221609526092e-05
+"('Merced, CA Metro Area', 'Fresno, CA Metro Area')",1.9979221609526092e-05
+"('Gulfport-Biloxi-Pascagoula, MS Metro Area', 'Jackson, MS Metro Area')",1.9979221609526092e-05
+"('Boise City, ID Metro Area', 'Lewiston, ID-WA Metro Area')",1.9979221609526092e-05
+"('Roanoke, VA Metro Area', 'Richmond, VA Metro Area')",1.9979221609526092e-05
+"('Hanford-Corcoran, CA Metro Area', 'Fresno, CA Metro Area')",1.9979221609526092e-05
+"('Madison, WI Metro Area', 'La Crosse-Onalaska, WI-MN Metro Area')",1.9979221609526092e-05
+"('Huntsville, AL Metro Area', 'Mobile, AL Metro Area')",1.9979221609526092e-05
+"('Mobile, AL Metro Area', 'Daphne-Fairhope-Foley, AL Metro Area')",1.9979221609526092e-05
+"('Oklahoma City, OK Metro Area', 'Wichita, KS Metro Area')",1.9979221609526092e-05
+"('Parkersburg-Vienna, WV Metro Area', 'Charleston, WV Metro Area')",1.9979221609526092e-05
+"('Madera, CA Metro Area', 'Fresno, CA Metro Area')",1.9979221609526092e-05
+"('Crestview-Fort Walton Beach-Destin, FL Metro Area', 'Panama City, FL Metro Area')",1.9979221609526092e-05
+"('St. George, UT Metro Area', 'Las Vegas-Henderson-Paradise, NV Metro Area')",1.9979221609526092e-05
+"('Oshkosh-Neenah, WI Metro Area', 'Madison, WI Metro Area')",1.9979221609526092e-05
+"('El Paso, TX Metro Area', 'Odessa, TX Metro Area')",1.9979221609526092e-05
+"('Staunton-Waynesboro, VA Metro Area', 'Charlottesville, VA Metro Area')",1.3319481073017396e-05
+"('Jacksonville, FL Metro Area', 'Gainesville, FL Metro Area')",1.3319481073017396e-05
+"('Tucson, AZ Metro Area', 'Midland, MI Metro Area')",1.3319481073017396e-05
+"('Youngstown-Warren-Boardman, OH-PA Metro Area', 'Akron, OH Metro Area')",1.3319481073017396e-05
+"('Baton Rouge, LA Metro Area', 'Alexandria, LA Metro Area')",1.3319481073017396e-05
+"('Syracuse, NY Metro Area', 'Utica-Rome, NY Metro Area')",1.3319481073017396e-05
+"('Syracuse, NY Metro Area', 'Rochester, NY Metro Area')",1.3319481073017396e-05
+"('Sioux Falls, SD Metro Area', 'Sioux City, IA-NE-SD Metro Area')",1.3319481073017396e-05
+"('Virginia Beach-Norfolk-Newport News, VA-NC Metro Area', 'Richmond, VA Metro Area')",1.3319481073017396e-05
+"('Owensboro, KY Metro Area', 'Louisville/Jefferson County, KY-IN Metro Area')",1.3319481073017396e-05
+"('Jacksonville, FL Metro Area', 'Virginia Beach-Norfolk-Newport News, VA-NC Metro Area')",1.3319481073017396e-05
+"('Baton Rouge, LA Metro Area', 'Lafayette, LA Metro Area')",1.3319481073017396e-05
+"('Jacksonville, FL Metro Area', 'Pensacola-Ferry Pass-Brent, FL Metro Area')",1.3319481073017396e-05
+"('Winston-Salem, NC Metro Area', 'Greensboro-High Point, NC Metro Area')",1.3319481073017396e-05
+"('Casper, WY Metro Area', 'Billings, MT Metro Area')",1.3319481073017396e-05
+"('Jacksonville, NC Metro Area', 'Hilton Head Island-Bluffton-Beaufort, SC Metro Area')",1.3319481073017396e-05
+"('Baton Rouge, LA Metro Area', 'Lake Charles, LA Metro Area')",1.3319481073017396e-05
+"('Fond du Lac, WI Metro Area', 'Oshkosh-Neenah, WI Metro Area')",1.3319481073017396e-05
+"('Lafayette, LA Metro Area', 'Lake Charles, LA Metro Area')",1.3319481073017396e-05
+"('Santa Cruz-Watsonville, CA Metro Area', 'San Jose-Sunnyvale-Santa Clara, CA Metro Area')",1.3319481073017396e-05
+"('Augusta-Richmond County, GA-SC Metro Area', 'Columbia, SC Metro Area')",1.3319481073017396e-05
+"('Hilton Head Island-Bluffton-Beaufort, SC Metro Area', 'Columbia, SC Metro Area')",1.3319481073017396e-05
+"('Midland, MI Metro Area', 'Saginaw, MI Metro Area')",1.3319481073017396e-05
+"('Burlington, NC Metro Area', 'Greensboro-High Point, NC Metro Area')",1.3319481073017396e-05
+"('Lawton, OK Metro Area', 'El Paso, TX Metro Area')",1.3319481073017396e-05
+"('Charleston-North Charleston, SC Metro Area', 'Columbia, SC Metro Area')",1.3319481073017396e-05
+"('Charleston-North Charleston, SC Metro Area', 'Greenville-Anderson-Mauldin, SC Metro Area')",1.3319481073017396e-05
+"('Dubuque, IA Metro Area', 'Iowa City, IA Metro Area')",1.3319481073017396e-05
+"('Kalamazoo-Portage, MI Metro Area', 'Niles-Benton Harbor, MI Metro Area')",1.3319481073017396e-05
+"('Dayton, OH Metro Area', 'Lima, OH Metro Area')",1.3319481073017396e-05
+"('Louisville/Jefferson County, KY-IN Metro Area', 'Clarksville, TN-KY Metro Area')",1.3319481073017396e-05
+"('Cheyenne, WY Metro Area', 'Casper, WY Metro Area')",1.3319481073017396e-05
+"('New Orleans-Metairie, LA Metro Area', 'Lafayette, LA Metro Area')",1.3319481073017396e-05
+"('Odessa, TX Metro Area', 'El Paso, TX Metro Area')",1.3319481073017396e-05
+"('Beckley, WV Metro Area', 'Charleston, WV Metro Area')",1.3319481073017396e-05
+"('Kingsport-Bristol-Bristol, TN-VA Metro Area', 'Virginia Beach-Norfolk-Newport News, VA-NC Metro Area')",1.3319481073017396e-05
+"('Greenville-Anderson-Mauldin, SC Metro Area', 'Hilton Head Island-Bluffton-Beaufort, SC Metro Area')",1.3319481073017396e-05
+"('Greenville-Anderson-Mauldin, SC Metro Area', 'Charleston-North Charleston, SC Metro Area')",1.3319481073017396e-05
+"('Colorado Springs, CO Metro Area', 'Pueblo, CO Metro Area')",1.3319481073017396e-05
+"('Crestview-Fort Walton Beach-Destin, FL Metro Area', 'Pensacola-Ferry Pass-Brent, FL Metro Area')",1.3319481073017396e-05
+"('Chattanooga, TN-GA Metro Area', 'Dalton, GA Metro Area')",1.3319481073017396e-05
+"('York-Hanover, PA Metro Area', 'Lancaster, PA Metro Area')",1.3319481073017396e-05
+"('Alexandria, LA Metro Area', 'Lafayette, LA Metro Area')",1.3319481073017396e-05
+"('Greensboro-High Point, NC Metro Area', 'Winston-Salem, NC Metro Area')",1.3319481073017396e-05
+"('Green Bay, WI Metro Area', 'Appleton, WI Metro Area')",1.3319481073017396e-05
+"('Staunton-Waynesboro, VA Metro Area', 'Virginia Beach-Norfolk-Newport News, VA-NC Metro Area')",1.3319481073017396e-05
+"('Bridgeport-Stamford-Norwalk, CT Metro Area', 'Hartford-West Hartford-East Hartford, CT Metro Area')",1.3319481073017396e-05
+"('Wausau, WI Metro Area', 'Madison, WI Metro Area')",1.3319481073017396e-05
+"('Asheville, NC Metro Area', 'Greenville-Anderson-Mauldin, SC Metro Area')",1.3319481073017396e-05
+"('Auburn-Opelika, AL Metro Area', 'Daphne-Fairhope-Foley, AL Metro Area')",1.3319481073017396e-05
+"('Rapid City, SD Metro Area', 'Sioux Falls, SD Metro Area')",1.3319481073017396e-05
+"('Billings, MT Metro Area', 'Missoula, MT Metro Area')",1.3319481073017396e-05
+"('Fayetteville, NC Metro Area', 'Urban Honolulu, HI Metro Area')",1.3319481073017396e-05
+"('Rochester, NY Metro Area', 'Buffalo-Cheektowaga-Niagara Falls, NY Metro Area')",1.3319481073017396e-05
+"('New Haven-Milford, CT Metro Area', 'Hartford-West Hartford-East Hartford, CT Metro Area')",1.3319481073017396e-05
+"('Gulfport-Biloxi-Pascagoula, MS Metro Area', 'Mobile, AL Metro Area')",1.3319481073017396e-05
+"('Memphis, TN-MS-AR Metro Area', 'Gulfport-Biloxi-Pascagoula, MS Metro Area')",6.659740536508698e-06
+"('McAllen-Edinburg-Mission, TX Metro Area', 'San Antonio-New Braunfels, TX Metro Area')",6.659740536508698e-06
+"('Kingsport-Bristol-Bristol, TN-VA Metro Area', 'Morristown, TN Metro Area')",6.659740536508698e-06
+"('Waterloo-Cedar Falls, IA Metro Area', 'Cedar Rapids, IA Metro Area')",6.659740536508698e-06
+"('Panama City, FL Metro Area', 'Palm Bay-Melbourne-Titusville, FL Metro Area')",6.659740536508698e-06
+"('Anchorage, AK Metro Area', 'Fairbanks, AK Metro Area')",6.659740536508698e-06
+"('St. George, UT Metro Area', 'Sioux City, IA-NE-SD Metro Area')",6.659740536508698e-06
+"('Stockton-Lodi, CA Metro Area', 'Modesto, CA Metro Area')",6.659740536508698e-06
+"('Rocky Mount, NC Metro Area', 'Greenville, NC Metro Area')",6.659740536508698e-06
+"('Jacksonville, FL Metro Area', 'Tallahassee, FL Metro Area')",6.659740536508698e-06
+"('Panama City, FL Metro Area', 'Crestview-Fort Walton Beach-Destin, FL Metro Area')",6.659740536508698e-06
+"('Odessa, TX Metro Area', 'Midland, TX Metro Area')",6.659740536508698e-06
+"('Kingsport-Bristol-Bristol, TN-VA Metro Area', 'Knoxville, TN Metro Area')",6.659740536508698e-06
+"('Midland, TX Metro Area', 'Lubbock, TX Metro Area')",6.659740536508698e-06
+"('Owensboro, KY Metro Area', 'Lexington-Fayette, KY Metro Area')",6.659740536508698e-06
+"('Lynchburg, VA Metro Area', 'Roanoke, VA Metro Area')",6.659740536508698e-06
+"('El Centro, CA Metro Area', 'San Diego-Carlsbad, CA Metro Area')",6.659740536508698e-06
+"('Greenville, NC Metro Area', 'New Bern, NC Metro Area')",6.659740536508698e-06
+"('Idaho Falls, ID Metro Area', 'Pocatello, ID Metro Area')",6.659740536508698e-06
+"('Gadsden, AL Metro Area', 'Anniston-Oxford-Jacksonville, AL Metro Area')",6.659740536508698e-06
+"('Longview, TX Metro Area', 'Tyler, TX Metro Area')",6.659740536508698e-06
+"('Decatur, AL Metro Area', 'Florence-Muscle Shoals, AL Metro Area')",6.659740536508698e-06
+"('Owensboro, KY Metro Area', 'Bowling Green, KY Metro Area')",6.659740536508698e-06
+"('Idaho Falls, ID Metro Area', 'Provo-Orem, UT Metro Area')",6.659740536508698e-06
+"('Lake Charles, LA Metro Area', 'Baton Rouge, LA Metro Area')",6.659740536508698e-06
+"('Lewiston, ID-WA Metro Area', 'Casper, WY Metro Area')",6.659740536508698e-06
+"('Lake Charles, LA Metro Area', 'Lafayette, LA Metro Area')",6.659740536508698e-06
+"('Midland, TX Metro Area', 'San Antonio-New Braunfels, TX Metro Area')",6.659740536508698e-06
+"('Fort Smith, AR-OK Metro Area', 'Tulsa, OK Metro Area')",6.659740536508698e-06
+"('Staunton-Waynesboro, VA Metro Area', 'Harrisonburg, VA Metro Area')",6.659740536508698e-06
+"('Grand Forks, ND-MN Metro Area', 'Fargo, ND-MN Metro Area')",6.659740536508698e-06
+"('Homosassa Springs, FL Metro Area', 'Ocala, FL Metro Area')",6.659740536508698e-06
+"('Davenport-Moline-Rock Island, IA-IL Metro Area', 'Waterloo-Cedar Falls, IA Metro Area')",6.659740536508698e-06
+"('Hagerstown-Martinsburg, MD-WV Metro Area', 'Chambersburg-Waynesboro, PA Metro Area')",6.659740536508698e-06
+"('Durham-Chapel Hill, NC Metro Area', 'Greensboro-High Point, NC Metro Area')",6.659740536508698e-06
+"('Elmira, NY Metro Area', 'Binghamton, NY Metro Area')",6.659740536508698e-06
+"('Fort Collins, CO Metro Area', 'Greeley, CO Metro Area')",6.659740536508698e-06
+"('Charleston-North Charleston, SC Metro Area', 'Florence, SC Metro Area')",6.659740536508698e-06
+"('Evansville, IN-KY Metro Area', 'Owensboro, KY Metro Area')",6.659740536508698e-06
+"('Fort Collins, CO Metro Area', 'Cheyenne, WY Metro Area')",6.659740536508698e-06
+"('Harrisonburg, VA Metro Area', 'Staunton-Waynesboro, VA Metro Area')",6.659740536508698e-06
+"('Greeley, CO Metro Area', 'Fort Collins, CO Metro Area')",6.659740536508698e-06
+"('Greensboro-High Point, NC Metro Area', 'Durham-Chapel Hill, NC Metro Area')",6.659740536508698e-06
+"('Buffalo-Cheektowaga-Niagara Falls, NY Metro Area', 'Rochester, NY Metro Area')",6.659740536508698e-06
+"('Jackson, MI Metro Area', 'Battle Creek, MI Metro Area')",6.659740536508698e-06
+"('Corvallis, OR Metro Area', 'Albany, OR Metro Area')",6.659740536508698e-06
+"('Brownsville-Harlingen, TX Metro Area', 'McAllen-Edinburg-Mission, TX Metro Area')",6.659740536508698e-06
+"('Cape Coral-Fort Myers, FL Metro Area', 'Punta Gorda, FL Metro Area')",6.659740536508698e-06
+"('Cape Coral-Fort Myers, FL Metro Area', 'North Port-Sarasota-Bradenton, FL Metro Area')",6.659740536508698e-06
+"('Columbia, MO Metro Area', 'Jefferson City, MO Metro Area')",6.659740536508698e-06
+"('Chico, CA Metro Area', 'Yuba City, CA Metro Area')",6.659740536508698e-06
+"('Modesto, CA Metro Area', 'Merced, CA Metro Area')",6.659740536508698e-06
+"('Savannah, GA Metro Area', 'Hinesville, GA Metro Area')",6.659740536508698e-06
+"('Bay City, MI Metro Area', 'Midland, MI Metro Area')",6.659740536508698e-06
+"('Bay City, MI Metro Area', 'Saginaw, MI Metro Area')",6.659740536508698e-06
+"('Wheeling, WV-OH Metro Area', 'Weirton-Steubenville, WV-OH Metro Area')",6.659740536508698e-06
+"('Weirton-Steubenville, WV-OH Metro Area', 'Wheeling, WV-OH Metro Area')",6.659740536508698e-06
+"('Columbus, GA-AL Metro Area', 'Auburn-Opelika, AL Metro Area')",6.659740536508698e-06
+"('Columbus, GA-AL Metro Area', 'Fayetteville, NC Metro Area')",6.659740536508698e-06
+"('Watertown-Fort Drum, NY Metro Area', 'Elizabethtown-Fort Knox, KY Metro Area')",6.659740536508698e-06
+"('Florence, SC Metro Area', 'Charleston-North Charleston, SC Metro Area')",6.659740536508698e-06
+"('Santa Maria-Santa Barbara, CA Metro Area', 'San Luis Obispo-Paso Robles-Arroyo Grande, CA Metro Area')",6.659740536508698e-06
+"('Naples-Immokalee-Marco Island, FL Metro Area', 'Cape Coral-Fort Myers, FL Metro Area')",6.659740536508698e-06
+"('Corpus Christi, TX Metro Area', 'San Antonio-New Braunfels, TX Metro Area')",6.659740536508698e-06
+"('Roanoke, VA Metro Area', 'Lynchburg, VA Metro Area')",6.659740536508698e-06
+"('Roanoke, VA Metro Area', 'Blacksburg-Christiansburg-Radford, VA Metro Area')",6.659740536508698e-06
+"('Parkersburg-Vienna, WV Metro Area', 'Morgantown, WV Metro Area')",6.659740536508698e-06
+"('Saginaw, MI Metro Area', 'Midland, MI Metro Area')",6.659740536508698e-06
+"('Norwich-New London, CT Metro Area', 'Worcester, MA-CT Metro Area')",6.659740536508698e-06
+"('Warner Robins, GA Metro Area', 'Macon, GA Metro Area')",6.659740536508698e-06
+"('Naples-Immokalee-Marco Island, FL Metro Area', 'Jacksonville, FL Metro Area')",6.659740536508698e-06
+"('Cape Coral-Fort Myers, FL Metro Area', 'Naples-Immokalee-Marco Island, FL Metro Area')",6.659740536508698e-06
+"('Bloomsburg-Berwick, PA Metro Area', 'Scranton--Wilkes-Barre--Hazleton, PA Metro Area')",6.659740536508698e-06
+"('Ocean City, NJ Metro Area', 'Atlantic City-Hammonton, NJ Metro Area')",6.659740536508698e-06
+"('Tyler, TX Metro Area', 'Longview, TX Metro Area')",6.659740536508698e-06
+"('Lafayette, LA Metro Area', 'Baton Rouge, LA Metro Area')",6.659740536508698e-06
+"('Lafayette, LA Metro Area', 'Shreveport-Bossier City, LA Metro Area')",6.659740536508698e-06
+"('Wichita, KS Metro Area', 'Manhattan, KS Metro Area')",6.659740536508698e-06
+"('Wichita, KS Metro Area', 'Killeen-Temple, TX Metro Area')",6.659740536508698e-06
+"('New Bern, NC Metro Area', 'Greenville, NC Metro Area')",6.659740536508698e-06
+"('Walla Walla, WA Metro Area', 'Kennewick-Richland, WA Metro Area')",6.659740536508698e-06
+"('Utica-Rome, NY Metro Area', 'Syracuse, NY Metro Area')",6.659740536508698e-06
+"('Bakersfield, CA Metro Area', 'Visalia-Porterville, CA Metro Area')",6.659740536508698e-06
+"('Visalia-Porterville, CA Metro Area', 'Bakersfield, CA Metro Area')",6.659740536508698e-06
+"('Kennewick-Richland, WA Metro Area', 'Yakima, WA Metro Area')",6.659740536508698e-06
+"('Shreveport-Bossier City, LA Metro Area', 'Monroe, LA Metro Area')",6.659740536508698e-06
+"('Chambersburg-Waynesboro, PA Metro Area', 'Hagerstown-Martinsburg, MD-WV Metro Area')",6.659740536508698e-06
+"('East Stroudsburg, PA Metro Area', 'Allentown-Bethlehem-Easton, PA-NJ Metro Area')",6.659740536508698e-06
+"('Santa Cruz-Watsonville, CA Metro Area', 'Salinas, CA Metro Area')",6.659740536508698e-06
+"('Elizabethtown-Fort Knox, KY Metro Area', 'Killeen-Temple, TX Metro Area')",6.659740536508698e-06
+"('San Luis Obispo-Paso Robles-Arroyo Grande, CA Metro Area', 'Santa Maria-Santa Barbara, CA Metro Area')",6.659740536508698e-06
+"('Gettysburg, PA Metro Area', 'Chambersburg-Waynesboro, PA Metro Area')",6.659740536508698e-06
+"('Morristown, TN Metro Area', 'Kingsport-Bristol-Bristol, TN-VA Metro Area')",6.659740536508698e-06
+"('Hilton Head Island-Bluffton-Beaufort, SC Metro Area', 'Jacksonville, NC Metro Area')",6.659740536508698e-06
+"('Jackson, MS Metro Area', 'Gulfport-Biloxi-Pascagoula, MS Metro Area')",6.659740536508698e-06
+"('Bloomington, IL Metro Area', 'Peoria, IL Metro Area')",6.659740536508698e-06
+"('Fayetteville, NC Metro Area', 'Crestview-Fort Walton Beach-Destin, FL Metro Area')",6.659740536508698e-06
+"('Blacksburg-Christiansburg-Radford, VA Metro Area', 'Roanoke, VA Metro Area')",6.659740536508698e-06
+"('Salisbury, MD-DE Metro Area', 'Dover, DE Metro Area')",6.659740536508698e-06
+"('Auburn-Opelika, AL Metro Area', 'Columbus, GA-AL Metro Area')",6.659740536508698e-06
+"('Fayetteville, NC Metro Area', 'Clarksville, TN-KY Metro Area')",6.659740536508698e-06
+"('Altoona, PA Metro Area', 'State College, PA Metro Area')",6.659740536508698e-06
+"('Altoona, PA Metro Area', 'Johnstown, PA Metro Area')",6.659740536508698e-06
+"('Sebastian-Vero Beach, FL Metro Area', 'Palm Bay-Melbourne-Titusville, FL Metro Area')",6.659740536508698e-06
+"('Sebastian-Vero Beach, FL Metro Area', 'Port St. Lucie, FL Metro Area')",6.659740536508698e-06
+"('Fayetteville, NC Metro Area', 'Killeen-Temple, TX Metro Area')",6.659740536508698e-06
+"('Hilton Head Island-Bluffton-Beaufort, SC Metro Area', 'Charleston-North Charleston, SC Metro Area')",6.659740536508698e-06
+"('The Villages, FL Metro Area', 'Ocala, FL Metro Area')",6.659740536508698e-06
+"('Fresno, CA Metro Area', 'Bakersfield, CA Metro Area')",6.659740536508698e-06
+"('Cedar Rapids, IA Metro Area', 'Dubuque, IA Metro Area')",6.659740536508698e-06
+"('Clarksville, TN-KY Metro Area', 'Fayetteville, NC Metro Area')",6.659740536508698e-06
+"('Fayetteville-Springdale-Rogers, AR-MO Metro Area', 'Fort Smith, AR-OK Metro Area')",6.659740536508698e-06
+"('Anniston-Oxford-Jacksonville, AL Metro Area', 'Gadsden, AL Metro Area')",6.659740536508698e-06
+"('Gainesville, FL Metro Area', 'Jacksonville, FL Metro Area')",6.659740536508698e-06
+"('Lebanon, PA Metro Area', 'Lancaster, PA Metro Area')",6.659740536508698e-06
+"('Monroe, MI Metro Area', 'Toledo, OH Metro Area')",6.659740536508698e-06
