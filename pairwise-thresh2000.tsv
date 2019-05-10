@@ -1,0 +1,682 @@
+ID	Source	SOURCE_coord	Dest	DEST_coord	count
+0	Akron, OH Metro Area	 41.083064,-81.518485	Canton-Massillon, OH Metro Area	 40.7989522,-81.3784445	3021
+1	Akron, OH Metro Area	 41.083064,-81.518485	Cleveland-Elyria, OH Metro Area	 41.5051613,-81.6934446	6522
+2	Albany-Schenectady-Troy, NY Metro Area	 42.6511674,-73.754968	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	4941
+3	Allentown-Bethlehem-Easton, PA-NJ Metro Area	 40.6022059,-75.4712794	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	4820
+4	Allentown-Bethlehem-Easton, PA-NJ Metro Area	 40.6022059,-75.4712794	Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area	 39.9527237,-75.1635262	5453
+5	Amarillo, TX Metro Area	 35.2072185,-101.8338246	Dallas-Fort Worth-Arlington, TX Metro Area	 32.7762719,-96.7968559	2055
+6	Anchorage, AK Metro Area	 61.1758781,-149.1107333	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	3208
+7	Ann Arbor, MI Metro Area	 42.2681569,-83.7312291	Detroit-Warren-Dearborn, MI Metro Area	 42.3315509,-83.0466403	8874
+8	Appleton, WI Metro Area	 44.2611337,-88.4067604	Oshkosh-Neenah, WI Metro Area	 44.0206919,-88.5408574	2726
+9	Athens-Clarke County, GA Metro Area	 33.9597677,-83.376398	Atlanta-Sandy Springs-Roswell, GA Metro Area	 33.7490987,-84.3901849	3985
+10	Atlanta-Sandy Springs-Roswell, GA Metro Area	 33.7490987,-84.3901849	Athens-Clarke County, GA Metro Area	 33.9597677,-83.376398	7983
+11	Atlanta-Sandy Springs-Roswell, GA Metro Area	 33.7490987,-84.3901849	Augusta-Richmond County, GA-SC Metro Area	 33.4709714,-81.9748429	3167
+12	Atlanta-Sandy Springs-Roswell, GA Metro Area	 33.7490987,-84.3901849	Birmingham-Hoover, AL Metro Area	 33.570499,-86.765783	2537
+13	Atlanta-Sandy Springs-Roswell, GA Metro Area	 33.7490987,-84.3901849	Charlotte-Concord-Gastonia, NC-SC Metro Area	 35.2270869,-80.8431268	2694
+14	Atlanta-Sandy Springs-Roswell, GA Metro Area	 33.7490987,-84.3901849	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	4246
+15	Atlanta-Sandy Springs-Roswell, GA Metro Area	 33.7490987,-84.3901849	Columbus, GA-AL Metro Area	 32.4609764,-84.9877094	2664
+16	Atlanta-Sandy Springs-Roswell, GA Metro Area	 33.7490987,-84.3901849	Dallas-Fort Worth-Arlington, TX Metro Area	 32.7762719,-96.7968559	3880
+17	Atlanta-Sandy Springs-Roswell, GA Metro Area	 33.7490987,-84.3901849	Gainesville, GA Metro Area	 34.2978794,-83.8240663	4322
+18	Atlanta-Sandy Springs-Roswell, GA Metro Area	 33.7490987,-84.3901849	Houston-The Woodlands-Sugar Land, TX Metro Area	 29.7589382,-95.3676974	2143
+19	Atlanta-Sandy Springs-Roswell, GA Metro Area	 33.7490987,-84.3901849	Jacksonville, FL Metro Area	 30.3321838,-81.655651	2420
+20	Atlanta-Sandy Springs-Roswell, GA Metro Area	 33.7490987,-84.3901849	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	2500
+21	Atlanta-Sandy Springs-Roswell, GA Metro Area	 33.7490987,-84.3901849	Macon, GA Metro Area	 32.8406946,-83.6324022	2322
+22	Atlanta-Sandy Springs-Roswell, GA Metro Area	 33.7490987,-84.3901849	Miami-Fort Lauderdale-West Palm Beach, FL Metro Area	 25.7742658,-80.1936589	5105
+23	Atlanta-Sandy Springs-Roswell, GA Metro Area	 33.7490987,-84.3901849	Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area	 36.1622296,-86.7743531	2244
+24	Atlanta-Sandy Springs-Roswell, GA Metro Area	 33.7490987,-84.3901849	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	5872
+25	Atlanta-Sandy Springs-Roswell, GA Metro Area	 33.7490987,-84.3901849	Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area	 39.9527237,-75.1635262	2120
+26	Atlanta-Sandy Springs-Roswell, GA Metro Area	 33.7490987,-84.3901849	Savannah, GA Metro Area	 32.0809,-81.0912	2836
+27	Atlanta-Sandy Springs-Roswell, GA Metro Area	 33.7490987,-84.3901849	Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area	 38.8950092,-77.0365625	4861
+28	Atlantic City-Hammonton, NJ Metro Area	 39.3642852,-74.4229351	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	2283
+29	Atlantic City-Hammonton, NJ Metro Area	 39.3642852,-74.4229351	Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area	 39.9527237,-75.1635262	3108
+30	Augusta-Richmond County, GA-SC Metro Area	 33.4709714,-81.9748429	Atlanta-Sandy Springs-Roswell, GA Metro Area	 33.7490987,-84.3901849	3036
+31	Austin-Round Rock, TX Metro Area	 30.2711286,-97.7436995	College Station-Bryan, TX Metro Area	 30.6253463,-96.3271538	2194
+32	Austin-Round Rock, TX Metro Area	 30.2711286,-97.7436995	Dallas-Fort Worth-Arlington, TX Metro Area	 32.7762719,-96.7968559	8623
+33	Austin-Round Rock, TX Metro Area	 30.2711286,-97.7436995	Houston-The Woodlands-Sugar Land, TX Metro Area	 29.7589382,-95.3676974	8736
+34	Austin-Round Rock, TX Metro Area	 30.2711286,-97.7436995	Killeen-Temple, TX Metro Area	 31.1171441,-97.727796	2672
+35	Austin-Round Rock, TX Metro Area	 30.2711286,-97.7436995	San Antonio-New Braunfels, TX Metro Area	 29.4246002,-98.4951405	7048
+36	Bakersfield, CA Metro Area	 35.3738712,-119.0194639	Fresno, CA Metro Area	 36.7295295,-119.708861260756	2211
+37	Bakersfield, CA Metro Area	 35.3738712,-119.0194639	Hanford-Corcoran, CA Metro Area	 36.3274502,-119.6456844	2078
+38	Bakersfield, CA Metro Area	 35.3738712,-119.0194639	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	5175
+39	Bakersfield, CA Metro Area	 35.3738712,-119.0194639	Riverside-San Bernardino-Ontario, CA Metro Area	 33.9806, -117.3755	2788
+40	Baltimore-Columbia-Towson, MD Metro Area	 39.2908816,-76.610759	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	3505
+41	Baltimore-Columbia-Towson, MD Metro Area	 39.2908816,-76.610759	Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area	 39.9527237,-75.1635262	5292
+42	Baltimore-Columbia-Towson, MD Metro Area	 39.2908816,-76.610759	Salisbury, MD-DE Metro Area	 38.3662114,-75.6008881	4061
+43	Baltimore-Columbia-Towson, MD Metro Area	 39.2908816,-76.610759	Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area	 38.8950092,-77.0365625	21789
+44	Baltimore-Columbia-Towson, MD Metro Area	 39.2908816,-76.610759	York-Hanover, PA Metro Area	 39.962398,-76.727392	3166
+45	Barnstable Town, MA Metro Area	 41.278228,-73.600649	Boston-Cambridge-Newton, MA-NH Metro Area	 42.3602534,-71.0582912	4067
+46	Baton Rouge, LA Metro Area	 30.4459596,-91.18738	Houston-The Woodlands-Sugar Land, TX Metro Area	 29.7589382,-95.3676974	2054
+47	Baton Rouge, LA Metro Area	 30.4459596,-91.18738	New Orleans-Metairie, LA Metro Area	 29.9499323,-90.0701156	3996
+48	Beaumont-Port Arthur, TX Metro Area	 30.0860459,-94.1018461	Houston-The Woodlands-Sugar Land, TX Metro Area	 29.7589382,-95.3676974	4301
+49	Bellingham, WA Metro Area	 48.7544012,-122.4788361	Seattle-Tacoma-Bellevue, WA Metro Area	 47.6038321,-122.3300624	3091
+50	Birmingham-Hoover, AL Metro Area	 33.570499,-86.765783	Montgomery, AL Metro Area	 40.85239,-78.266098	2167
+51	Birmingham-Hoover, AL Metro Area	 33.570499,-86.765783	Tuscaloosa, AL Metro Area	 33.490251,-86.859181	3243
+52	Blacksburg-Christiansburg-Radford, VA Metro Area	 37.2296566,-80.4136767	Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area	 38.8950092,-77.0365625	2024
+53	Bloomington, IN Metro Area	 39.1670396,-86.5342881	Indianapolis-Carmel-Anderson, IN Metro Area	 39.7683331,-86.1583502	2477
+54	Boston-Cambridge-Newton, MA-NH Metro Area	 42.3602534,-71.0582912	Barnstable Town, MA Metro Area	 41.278228,-73.600649	2788
+55	Boston-Cambridge-Newton, MA-NH Metro Area	 42.3602534,-71.0582912	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	2459
+56	Boston-Cambridge-Newton, MA-NH Metro Area	 42.3602534,-71.0582912	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	4103
+57	Boston-Cambridge-Newton, MA-NH Metro Area	 42.3602534,-71.0582912	Manchester-Nashua, NH Metro Area	 42.9956397,-71.4547891	7830
+58	Boston-Cambridge-Newton, MA-NH Metro Area	 42.3602534,-71.0582912	Miami-Fort Lauderdale-West Palm Beach, FL Metro Area	 25.7742658,-80.1936589	3587
+59	Boston-Cambridge-Newton, MA-NH Metro Area	 42.3602534,-71.0582912	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	10560
+60	Boston-Cambridge-Newton, MA-NH Metro Area	 42.3602534,-71.0582912	Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area	 39.9527237,-75.1635262	2583
+61	Boston-Cambridge-Newton, MA-NH Metro Area	 42.3602534,-71.0582912	Portland-South Portland, ME Metro Area	 43.6591,-70.2568	3891
+62	Boston-Cambridge-Newton, MA-NH Metro Area	 42.3602534,-71.0582912	Providence-Warwick, RI-MA Metro Area	 41.8240,-71.4128	14371
+63	Boston-Cambridge-Newton, MA-NH Metro Area	 42.3602534,-71.0582912	San Francisco-Oakland-Hayward, CA Metro Area	 37.7749,-122.4194	3170
+64	Boston-Cambridge-Newton, MA-NH Metro Area	 42.3602534,-71.0582912	Springfield, MA Metro Area	 42.1014831,-72.589811	6473
+65	Boston-Cambridge-Newton, MA-NH Metro Area	 42.3602534,-71.0582912	Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area	 38.8950092,-77.0365625	5143
+66	Boston-Cambridge-Newton, MA-NH Metro Area	 42.3602534,-71.0582912	Worcester, MA-CT Metro Area	 42.2625932,-71.8022934	11893
+67	Boulder, CO Metro Area	 40.102555,-105.3632079	Denver-Aurora-Lakewood, CO Metro Area	 39.7348381,-104.9653271	9340
+68	Boulder, CO Metro Area	 40.102555,-105.3632079	Greeley, CO Metro Area	 38.4570355,-101.8185007	2097
+69	Bremerton-Silverdale, WA Metro Area	 47.5653663,-122.6246836	Seattle-Tacoma-Bellevue, WA Metro Area	 47.6038321,-122.3300624	4366
+70	Bridgeport-Stamford-Norwalk, CT Metro Area	 41.1792,-73.1894	Hartford-West Hartford-East Hartford, CT Metro Area	 33.4700252,-84.63344	4038
+71	Bridgeport-Stamford-Norwalk, CT Metro Area	 41.1792,-73.1894	New Haven-Milford, CT Metro Area	 41.3083,-72.9279	5564
+72	Bridgeport-Stamford-Norwalk, CT Metro Area	 41.1792,-73.1894	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	6317
+73	Buffalo-Cheektowaga-Niagara Falls, NY Metro Area	 42.8867166,-78.8783922	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	2588
+74	Buffalo-Cheektowaga-Niagara Falls, NY Metro Area	 42.8867166,-78.8783922	Rochester, NY Metro Area	 43.1854754,-77.6106861508176	3310
+75	Canton-Massillon, OH Metro Area	 40.7989522,-81.3784445	Akron, OH Metro Area	 41.083064,-81.518485	3318
+76	Cape Coral-Fort Myers, FL Metro Area	 26.6059432,-81.9806771	Miami-Fort Lauderdale-West Palm Beach, FL Metro Area	 25.7742658,-80.1936589	2194
+77	Cape Coral-Fort Myers, FL Metro Area	 26.6059432,-81.9806771	Naples-Immokalee-Marco Island, FL Metro Area	 26.1421976,-81.7942944	2275
+78	Champaign-Urbana, IL Metro Area	 40.1164205,-88.2433829	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	4163
+79	Charleston, WV Metro Area	 38.3505995,-81.6332812	Huntington-Ashland, WV-KY-OH Metro Area	 38.4192496,-82.445154	2034
+80	Charleston-North Charleston, SC Metro Area	 32.7876012,-79.9402728	Columbia, SC Metro Area	 34.0007493,-81.0343313	2945
+81	Charlotte-Concord-Gastonia, NC-SC Metro Area	 35.2270869,-80.8431268	Atlanta-Sandy Springs-Roswell, GA Metro Area	 33.7490987,-84.3901849	2521
+82	Charlotte-Concord-Gastonia, NC-SC Metro Area	 35.2270869,-80.8431268	Columbia, SC Metro Area	 34.0007493,-81.0343313	3281
+83	Charlotte-Concord-Gastonia, NC-SC Metro Area	 35.2270869,-80.8431268	Durham-Chapel Hill, NC Metro Area	 36.0181316,-78.8751582	2518
+84	Charlotte-Concord-Gastonia, NC-SC Metro Area	 35.2270869,-80.8431268	Greensboro-High Point, NC Metro Area	 36.0726355,-79.7919754	2895
+85	Charlotte-Concord-Gastonia, NC-SC Metro Area	 35.2270869,-80.8431268	Greenville-Anderson-Mauldin, SC Metro Area	 34.851354,-82.3984882	2421
+86	Charlotte-Concord-Gastonia, NC-SC Metro Area	 35.2270869,-80.8431268	Hickory-Lenoir-Morganton, NC Metro Area	 35.7333312,-81.3442915	2679
+87	Charlotte-Concord-Gastonia, NC-SC Metro Area	 35.2270869,-80.8431268	Raleigh, NC Metro Area	 35.7803977,-78.6390989	3463
+88	Charlotte-Concord-Gastonia, NC-SC Metro Area	 35.2270869,-80.8431268	Winston-Salem, NC Metro Area	 36.0999,-80.2442	3377
+89	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	Atlanta-Sandy Springs-Roswell, GA Metro Area	 33.7490987,-84.3901849	4367
+90	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	Bloomington, IL Metro Area	 40.4731073,-88.9941403	5084
+91	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	Bloomington, IN Metro Area	 39.1670396,-86.5342881	2328
+92	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	Boston-Cambridge-Newton, MA-NH Metro Area	 42.3602534,-71.0582912	2380
+93	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	Carbondale-Marion, IL Metro Area	 37.7274692,-89.216655	2506
+94	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	Champaign-Urbana, IL Metro Area	 40.1164205,-88.2433829	8638
+95	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	Dallas-Fort Worth-Arlington, TX Metro Area	 32.7762719,-96.7968559	4522
+96	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	Davenport-Moline-Rock Island, IA-IL Metro Area	 41.5236436,-90.5776368	2112
+97	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	Denver-Aurora-Lakewood, CO Metro Area	 39.7348381,-104.9653271	3544
+98	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	Detroit-Warren-Dearborn, MI Metro Area	 42.3315509,-83.0466403	3105
+99	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	Grand Rapids-Wyoming, MI Metro Area	 42.9142413,-85.533004	2018
+100	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	Houston-The Woodlands-Sugar Land, TX Metro Area	 29.7589382,-95.3676974	5858
+101	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	Indianapolis-Carmel-Anderson, IN Metro Area	 39.7683331,-86.1583502	6095
+102	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	Iowa City, IA Metro Area	 41.6612561,-91.5299106	2099
+103	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	Kankakee, IL Metro Area	 41.1200325,-87.8611531	2576
+104	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	Lafayette-West Lafayette, IN Metro Area	 40.4167022,-86.8752869	2661
+105	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	Las Vegas-Henderson-Paradise, NV Metro Area	 36.1662859,-115.149225	2193
+106	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	6436
+107	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	Madison, WI Metro Area	 43.074761,-89.3837613	3439
+108	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	Miami-Fort Lauderdale-West Palm Beach, FL Metro Area	 25.7742658,-80.1936589	2648
+109	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	Michigan City-La Porte, IN Metro Area	 41.7075394,-86.8950297	2933
+110	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	Milwaukee-Waukesha-West Allis, WI Metro Area	 43.0349931,-87.922497	6936
+111	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	Minneapolis-St. Paul-Bloomington, MN-WI Metro Area	 44.9772995,-93.2654692	4855
+112	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area	 36.1622296,-86.7743531	2130
+113	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	6225
+114	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	Orlando-Kissimmee-Sanford, FL Metro Area	 28.5479786,-81.4127841856302	2026
+115	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	Phoenix-Mesa-Scottsdale, AZ Metro Area	 33.4485866,-112.0773456	6216
+116	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	Racine, WI Metro Area	 42.7260523,-87.7825242	2080
+117	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	Rockford, IL Metro Area	 42.2713945,-89.093966	3941
+118	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	San Diego-Carlsbad, CA Metro Area	 32.7174209,-117.1627714	2662
+119	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	San Francisco-Oakland-Hayward, CA Metro Area	 37.7749,-122.4194	3364
+120	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	Seattle-Tacoma-Bellevue, WA Metro Area	 47.6038321,-122.3300624	2832
+121	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	St. Louis, MO-IL Metro Area	 38.6268039,-90.1994097	5100
+122	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	Tampa-St. Petersburg-Clearwater, FL Metro Area	 27.9518491,-82.4563972	3397
+123	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	Virginia Beach-Norfolk-Newport News, VA-NC Metro Area	 36.8529841,-75.9774183	2457
+124	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area	 38.8950092,-77.0365625	3926
+125	Cincinnati, OH-KY-IN Metro Area	 39.1014537,-84.5124602	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	2058
+126	Cincinnati, OH-KY-IN Metro Area	 39.1014537,-84.5124602	Columbus, OH Metro Area	 39.9622601,-83.0007065	5692
+127	Cincinnati, OH-KY-IN Metro Area	 39.1014537,-84.5124602	Dayton, OH Metro Area	 39.7589478,-84.1916069	5240
+128	Cincinnati, OH-KY-IN Metro Area	 39.1014537,-84.5124602	Lexington-Fayette, KY Metro Area	 38.0464066,-84.4970393	2316
+129	Cleveland-Elyria, OH Metro Area	 41.5051613,-81.6934446	Akron, OH Metro Area	 41.083064,-81.518485	8605
+130	Cleveland-Elyria, OH Metro Area	 41.5051613,-81.6934446	Cincinnati, OH-KY-IN Metro Area	 39.1014537,-84.5124602	2334
+131	Cleveland-Elyria, OH Metro Area	 41.5051613,-81.6934446	Columbus, OH Metro Area	 39.9622601,-83.0007065	6424
+132	Cleveland-Elyria, OH Metro Area	 41.5051613,-81.6934446	Toledo, OH Metro Area	 41.6786754,-83.5127283	2290
+133	College Station-Bryan, TX Metro Area	 30.6253463,-96.3271538	Dallas-Fort Worth-Arlington, TX Metro Area	 32.7762719,-96.7968559	2643
+134	College Station-Bryan, TX Metro Area	 30.6253463,-96.3271538	Houston-The Woodlands-Sugar Land, TX Metro Area	 29.7589382,-95.3676974	4096
+135	Colorado Springs, CO Metro Area	 38.8339578,-104.8253485	Denver-Aurora-Lakewood, CO Metro Area	 39.7348381,-104.9653271	6842
+136	Columbia, MO Metro Area	 38.951883,-92.3337366	St. Louis, MO-IL Metro Area	 38.6268039,-90.1994097	2070
+137	Columbia, SC Metro Area	 34.0007493,-81.0343313	Charleston-North Charleston, SC Metro Area	 32.7876012,-79.9402728	2280
+138	Columbia, SC Metro Area	 34.0007493,-81.0343313	Charlotte-Concord-Gastonia, NC-SC Metro Area	 35.2270869,-80.8431268	3115
+139	Columbia, SC Metro Area	 34.0007493,-81.0343313	Greenville-Anderson-Mauldin, SC Metro Area	 34.851354,-82.3984882	2785
+140	Columbus, GA-AL Metro Area	 32.4609764,-84.9877094	Atlanta-Sandy Springs-Roswell, GA Metro Area	 33.7490987,-84.3901849	2717
+141	Columbus, GA-AL Metro Area	 32.4609764,-84.9877094	Auburn-Opelika, AL Metro Area	 41.4767352,-81.1443658	2132
+142	Columbus, OH Metro Area	 39.9622601,-83.0007065	Cincinnati, OH-KY-IN Metro Area	 39.1014537,-84.5124602	5212
+143	Columbus, OH Metro Area	 39.9622601,-83.0007065	Cleveland-Elyria, OH Metro Area	 41.5051613,-81.6934446	3156
+144	Columbus, OH Metro Area	 39.9622601,-83.0007065	Dayton, OH Metro Area	 39.7589478,-84.1916069	2777
+145	Corpus Christi, TX Metro Area	 27.8002542,-97.3955744	Houston-The Woodlands-Sugar Land, TX Metro Area	 29.7589382,-95.3676974	2669
+146	Corpus Christi, TX Metro Area	 27.8002542,-97.3955744	San Antonio-New Braunfels, TX Metro Area	 29.4246002,-98.4951405	2945
+147	Corvallis, OR Metro Area	 44.5645659,-123.2620435	Portland-Vancouver-Hillsboro, OR-WA Metro Area	 45.5202471,-122.6741949	2154
+148	Crestview-Fort Walton Beach-Destin, FL Metro Area	 30.7621326,-86.5705084	Pensacola-Ferry Pass-Brent, FL Metro Area	 30.421309,-87.2169149	2599
+149	Dallas-Fort Worth-Arlington, TX Metro Area	 32.7762719,-96.7968559	Abilene, TX Metro Area	 32.4466741,-99.7333011	3473
+150	Dallas-Fort Worth-Arlington, TX Metro Area	 32.7762719,-96.7968559	Atlanta-Sandy Springs-Roswell, GA Metro Area	 33.7490987,-84.3901849	3113
+151	Dallas-Fort Worth-Arlington, TX Metro Area	 32.7762719,-96.7968559	Austin-Round Rock, TX Metro Area	 30.2711286,-97.7436995	11931
+152	Dallas-Fort Worth-Arlington, TX Metro Area	 32.7762719,-96.7968559	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	2282
+153	Dallas-Fort Worth-Arlington, TX Metro Area	 32.7762719,-96.7968559	College Station-Bryan, TX Metro Area	 30.6253463,-96.3271538	4663
+154	Dallas-Fort Worth-Arlington, TX Metro Area	 32.7762719,-96.7968559	Denver-Aurora-Lakewood, CO Metro Area	 39.7348381,-104.9653271	3021
+155	Dallas-Fort Worth-Arlington, TX Metro Area	 32.7762719,-96.7968559	Houston-The Woodlands-Sugar Land, TX Metro Area	 29.7589382,-95.3676974	16319
+156	Dallas-Fort Worth-Arlington, TX Metro Area	 32.7762719,-96.7968559	Longview, TX Metro Area	 32.5007038,-94.7404891	2428
+157	Dallas-Fort Worth-Arlington, TX Metro Area	 32.7762719,-96.7968559	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	2805
+158	Dallas-Fort Worth-Arlington, TX Metro Area	 32.7762719,-96.7968559	Lubbock, TX Metro Area	 33.5778631,-101.8551665	5206
+159	Dallas-Fort Worth-Arlington, TX Metro Area	 32.7762719,-96.7968559	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	2803
+160	Dallas-Fort Worth-Arlington, TX Metro Area	 32.7762719,-96.7968559	Oklahoma City, OK Metro Area	 35.4729886,-97.5170536	5155
+161	Dallas-Fort Worth-Arlington, TX Metro Area	 32.7762719,-96.7968559	Phoenix-Mesa-Scottsdale, AZ Metro Area	 33.4485866,-112.0773456	2042
+162	Dallas-Fort Worth-Arlington, TX Metro Area	 32.7762719,-96.7968559	San Antonio-New Braunfels, TX Metro Area	 29.4246002,-98.4951405	7375
+163	Dallas-Fort Worth-Arlington, TX Metro Area	 32.7762719,-96.7968559	Seattle-Tacoma-Bellevue, WA Metro Area	 47.6038321,-122.3300624	2314
+164	Dallas-Fort Worth-Arlington, TX Metro Area	 32.7762719,-96.7968559	Sherman-Denison, TX Metro Area	 33.6360125,-96.6097889	2748
+165	Dallas-Fort Worth-Arlington, TX Metro Area	 32.7762719,-96.7968559	Tulsa, OK Metro Area	 36.1556805,-95.9929113	2115
+166	Dallas-Fort Worth-Arlington, TX Metro Area	 32.7762719,-96.7968559	Tyler, TX Metro Area	 32.3512601,-95.3010624	2987
+167	Dallas-Fort Worth-Arlington, TX Metro Area	 32.7762719,-96.7968559	Waco, TX Metro Area	 31.549333,-97.1466695	3003
+168	Dallas-Fort Worth-Arlington, TX Metro Area	 32.7762719,-96.7968559	Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area	 38.8950092,-77.0365625	2180
+169	Dayton, OH Metro Area	 39.7589478,-84.1916069	Cincinnati, OH-KY-IN Metro Area	 39.1014537,-84.5124602	6282
+170	Dayton, OH Metro Area	 39.7589478,-84.1916069	Columbus, OH Metro Area	 39.9622601,-83.0007065	3568
+171	Deltona-Daytona Beach-Ormond Beach, FL Metro Area	 28.9005446,-81.2636738	Orlando-Kissimmee-Sanford, FL Metro Area	 28.5479786,-81.4127841856302	4417
+172	Denver-Aurora-Lakewood, CO Metro Area	 39.7348381,-104.9653271	Boulder, CO Metro Area	 40.102555,-105.3632079	8517
+173	Denver-Aurora-Lakewood, CO Metro Area	 39.7348381,-104.9653271	Colorado Springs, CO Metro Area	 38.8339578,-104.8253485	7235
+174	Denver-Aurora-Lakewood, CO Metro Area	 39.7348381,-104.9653271	Dallas-Fort Worth-Arlington, TX Metro Area	 32.7762719,-96.7968559	2202
+175	Denver-Aurora-Lakewood, CO Metro Area	 39.7348381,-104.9653271	Fort Collins, CO Metro Area	 40.5508527,-105.0668085	5640
+176	Denver-Aurora-Lakewood, CO Metro Area	 39.7348381,-104.9653271	Greeley, CO Metro Area	 38.4570355,-101.8185007	6795
+177	Denver-Aurora-Lakewood, CO Metro Area	 39.7348381,-104.9653271	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	2778
+178	Denver-Aurora-Lakewood, CO Metro Area	 39.7348381,-104.9653271	Phoenix-Mesa-Scottsdale, AZ Metro Area	 33.4485866,-112.0773456	3431
+179	Denver-Aurora-Lakewood, CO Metro Area	 39.7348381,-104.9653271	Seattle-Tacoma-Bellevue, WA Metro Area	 47.6038321,-122.3300624	2489
+180	Des Moines-West Des Moines, IA Metro Area	 41.5910641,-93.6037149	Ames, IA Metro Area	 42.0267703,-93.6170554	2283
+181	Detroit-Warren-Dearborn, MI Metro Area	 42.3315509,-83.0466403	Ann Arbor, MI Metro Area	 42.2681569,-83.7312291	13026
+182	Detroit-Warren-Dearborn, MI Metro Area	 42.3315509,-83.0466403	Atlanta-Sandy Springs-Roswell, GA Metro Area	 33.7490987,-84.3901849	2604
+183	Detroit-Warren-Dearborn, MI Metro Area	 42.3315509,-83.0466403	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	3798
+184	Detroit-Warren-Dearborn, MI Metro Area	 42.3315509,-83.0466403	Flint, MI Metro Area	 43.0171773,-83.7236024	5557
+185	Detroit-Warren-Dearborn, MI Metro Area	 42.3315509,-83.0466403	Grand Rapids-Wyoming, MI Metro Area	 42.9142413,-85.533004	5859
+186	Detroit-Warren-Dearborn, MI Metro Area	 42.3315509,-83.0466403	Jackson, MI Metro Area	 32.2990384,-90.1847691	2105
+187	Detroit-Warren-Dearborn, MI Metro Area	 42.3315509,-83.0466403	Kalamazoo-Portage, MI Metro Area	 42.291707,-85.5872286	2429
+188	Detroit-Warren-Dearborn, MI Metro Area	 42.3315509,-83.0466403	Lansing-East Lansing, MI Metro Area	 42.7337712,-84.5553805	8974
+189	Detroit-Warren-Dearborn, MI Metro Area	 42.3315509,-83.0466403	Monroe, MI Metro Area	 41.9145037,-83.3968252	2575
+190	Detroit-Warren-Dearborn, MI Metro Area	 42.3315509,-83.0466403	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	2008
+191	Detroit-Warren-Dearborn, MI Metro Area	 42.3315509,-83.0466403	Phoenix-Mesa-Scottsdale, AZ Metro Area	 33.4485866,-112.0773456	2604
+192	Dover, DE Metro Area	 39.158168,-75.5243682	Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area	 39.9527237,-75.1635262	3219
+193	Duluth, MN-WI Metro Area	 46.7729322,-92.1251218	Minneapolis-St. Paul-Bloomington, MN-WI Metro Area	 44.9772995,-93.2654692	4192
+194	Durham-Chapel Hill, NC Metro Area	 36.0181316,-78.8751582	Raleigh, NC Metro Area	 35.7803977,-78.6390989	5806
+195	El Paso, TX Metro Area	 31.7600372,-106.487287	Dallas-Fort Worth-Arlington, TX Metro Area	 32.7762719,-96.7968559	2259
+196	El Paso, TX Metro Area	 31.7600372,-106.487287	Las Cruces, NM Metro Area	 32.3140354,-106.7798078	2522
+197	Elkhart-Goshen, IN Metro Area	 41.6819935,-85.9766671	South Bend-Mishawaka, IN-MI Metro Area	 41.6833813,-86.2500066	2022
+198	Eugene, OR Metro Area	 44.0505054,-123.0950506	Portland-Vancouver-Hillsboro, OR-WA Metro Area	 45.5202471,-122.6741949	4148
+199	Flagstaff, AZ Metro Area	 35.199458,-111.6514259	Phoenix-Mesa-Scottsdale, AZ Metro Area	 33.4485866,-112.0773456	3559
+200	Flint, MI Metro Area	 43.0171773,-83.7236024	Detroit-Warren-Dearborn, MI Metro Area	 42.3315509,-83.0466403	5136
+201	Fort Collins, CO Metro Area	 40.5508527,-105.0668085	Denver-Aurora-Lakewood, CO Metro Area	 39.7348381,-104.9653271	4011
+202	Fort Collins, CO Metro Area	 40.5508527,-105.0668085	Greeley, CO Metro Area	 38.4570355,-101.8185007	3625
+203	Fresno, CA Metro Area	 36.7295295,-119.708861260756	Bakersfield, CA Metro Area	 35.3738712,-119.0194639	2008
+204	Fresno, CA Metro Area	 36.7295295,-119.708861260756	San Francisco-Oakland-Hayward, CA Metro Area	 37.7749,-122.4194	2444
+205	Fresno, CA Metro Area	 36.7295295,-119.708861260756	Visalia-Porterville, CA Metro Area	 36.3302284,-119.2920585	2433
+206	Gainesville, GA Metro Area	 34.2978794,-83.8240663	Atlanta-Sandy Springs-Roswell, GA Metro Area	 33.7490987,-84.3901849	3999
+207	Gettysburg, PA Metro Area	 39.8309399,-77.2310908	York-Hanover, PA Metro Area	 39.962398,-76.727392	2437
+208	Glens Falls, NY Metro Area	 43.309941,-73.644447	Albany-Schenectady-Troy, NY Metro Area	 42.6511674,-73.754968	2003
+209	Grand Rapids-Wyoming, MI Metro Area	 42.9142413,-85.533004	Detroit-Warren-Dearborn, MI Metro Area	 42.3315509,-83.0466403	2533
+210	Grand Rapids-Wyoming, MI Metro Area	 42.9142413,-85.533004	Lansing-East Lansing, MI Metro Area	 42.7337712,-84.5553805	2489
+211	Grand Rapids-Wyoming, MI Metro Area	 42.9142413,-85.533004	Muskegon, MI Metro Area	 43.2341813,-86.2483921	2821
+212	Greeley, CO Metro Area	 38.4570355,-101.8185007	Boulder, CO Metro Area	 40.102555,-105.3632079	2916
+213	Greeley, CO Metro Area	 38.4570355,-101.8185007	Denver-Aurora-Lakewood, CO Metro Area	 39.7348381,-104.9653271	4803
+214	Greeley, CO Metro Area	 38.4570355,-101.8185007	Fort Collins, CO Metro Area	 40.5508527,-105.0668085	3248
+215	Greensboro-High Point, NC Metro Area	 36.0726355,-79.7919754	Charlotte-Concord-Gastonia, NC-SC Metro Area	 35.2270869,-80.8431268	3282
+216	Greensboro-High Point, NC Metro Area	 36.0726355,-79.7919754	Raleigh, NC Metro Area	 35.7803977,-78.6390989	2046
+217	Greensboro-High Point, NC Metro Area	 36.0726355,-79.7919754	Winston-Salem, NC Metro Area	 36.0999,-80.2442	4629
+218	Greenville-Anderson-Mauldin, SC Metro Area	 34.851354,-82.3984882	Charleston-North Charleston, SC Metro Area	 32.7876012,-79.9402728	2038
+219	Greenville-Anderson-Mauldin, SC Metro Area	 34.851354,-82.3984882	Columbia, SC Metro Area	 34.0007493,-81.0343313	2615
+220	Greenville-Anderson-Mauldin, SC Metro Area	 34.851354,-82.3984882	Spartanburg, SC Metro Area	 34.9498007,-81.9320157	4134
+221	Hagerstown-Martinsburg, MD-WV Metro Area	 39.6419219,-77.7202641	Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area	 38.8950092,-77.0365625	2857
+222	Harrisburg-Carlisle, PA Metro Area	 40.2663107,-76.8861122	Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area	 39.9527237,-75.1635262	2201
+223	Harrisburg-Carlisle, PA Metro Area	 40.2663107,-76.8861122	York-Hanover, PA Metro Area	 39.962398,-76.727392	2181
+224	Hartford-West Hartford-East Hartford, CT Metro Area	 33.4700252,-84.63344	Boston-Cambridge-Newton, MA-NH Metro Area	 42.3602534,-71.0582912	2486
+225	Hartford-West Hartford-East Hartford, CT Metro Area	 33.4700252,-84.63344	New Haven-Milford, CT Metro Area	 41.3083,-72.9279	5752
+226	Hartford-West Hartford-East Hartford, CT Metro Area	 33.4700252,-84.63344	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	2241
+227	Hartford-West Hartford-East Hartford, CT Metro Area	 33.4700252,-84.63344	Norwich-New London, CT Metro Area	 41.3557,-72.0995	2629
+228	Hartford-West Hartford-East Hartford, CT Metro Area	 33.4700252,-84.63344	Worcester, MA-CT Metro Area	 42.2625932,-71.8022934	2094
+229	Hickory-Lenoir-Morganton, NC Metro Area	 35.7333312,-81.3442915	Charlotte-Concord-Gastonia, NC-SC Metro Area	 35.2270869,-80.8431268	3157
+230	Honolulu, HI Metro Area	 21.3250785,-157.846644178573	Las Vegas-Henderson-Paradise, NV Metro Area	 36.1662859,-115.149225	2267
+231	Honolulu, HI Metro Area	 21.3250785,-157.846644178573	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	2042
+232	Honolulu, HI Metro Area	 21.3250785,-157.846644178573	San Diego-Carlsbad, CA Metro Area	 32.7174209,-117.1627714	2283
+233	Honolulu, HI Metro Area	 21.3250785,-157.846644178573	Seattle-Tacoma-Bellevue, WA Metro Area	 47.6038321,-122.3300624	2327
+234	Houston-The Woodlands-Sugar Land, TX Metro Area	 29.7589382,-95.3676974	Atlanta-Sandy Springs-Roswell, GA Metro Area	 33.7490987,-84.3901849	2057
+235	Houston-The Woodlands-Sugar Land, TX Metro Area	 29.7589382,-95.3676974	Austin-Round Rock, TX Metro Area	 30.2711286,-97.7436995	13212
+236	Houston-The Woodlands-Sugar Land, TX Metro Area	 29.7589382,-95.3676974	Beaumont-Port Arthur, TX Metro Area	 30.0860459,-94.1018461	4315
+237	Houston-The Woodlands-Sugar Land, TX Metro Area	 29.7589382,-95.3676974	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	2623
+238	Houston-The Woodlands-Sugar Land, TX Metro Area	 29.7589382,-95.3676974	College Station-Bryan, TX Metro Area	 30.6253463,-96.3271538	7098
+239	Houston-The Woodlands-Sugar Land, TX Metro Area	 29.7589382,-95.3676974	Corpus Christi, TX Metro Area	 27.8002542,-97.3955744	2620
+240	Houston-The Woodlands-Sugar Land, TX Metro Area	 29.7589382,-95.3676974	Dallas-Fort Worth-Arlington, TX Metro Area	 32.7762719,-96.7968559	14093
+241	Houston-The Woodlands-Sugar Land, TX Metro Area	 29.7589382,-95.3676974	Denver-Aurora-Lakewood, CO Metro Area	 39.7348381,-104.9653271	2432
+242	Houston-The Woodlands-Sugar Land, TX Metro Area	 29.7589382,-95.3676974	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	2705
+243	Houston-The Woodlands-Sugar Land, TX Metro Area	 29.7589382,-95.3676974	New Orleans-Metairie, LA Metro Area	 29.9499323,-90.0701156	2495
+244	Houston-The Woodlands-Sugar Land, TX Metro Area	 29.7589382,-95.3676974	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	2646
+245	Houston-The Woodlands-Sugar Land, TX Metro Area	 29.7589382,-95.3676974	Phoenix-Mesa-Scottsdale, AZ Metro Area	 33.4485866,-112.0773456	2279
+246	Houston-The Woodlands-Sugar Land, TX Metro Area	 29.7589382,-95.3676974	San Antonio-New Braunfels, TX Metro Area	 29.4246002,-98.4951405	8508
+247	Indianapolis-Carmel-Anderson, IN Metro Area	 39.7683331,-86.1583502	Bloomington, IN Metro Area	 39.1670396,-86.5342881	5521
+248	Indianapolis-Carmel-Anderson, IN Metro Area	 39.7683331,-86.1583502	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	3414
+249	Indianapolis-Carmel-Anderson, IN Metro Area	 39.7683331,-86.1583502	Lafayette-West Lafayette, IN Metro Area	 40.4167022,-86.8752869	3075
+250	Indianapolis-Carmel-Anderson, IN Metro Area	 39.7683331,-86.1583502	Muncie, IN Metro Area	 40.1936683,-85.3865114	4162
+251	Indianapolis-Carmel-Anderson, IN Metro Area	 39.7683331,-86.1583502	Terre Haute, IN Metro Area	 39.4667025,-87.4139119	2035
+252	Jacksonville, FL Metro Area	 30.3321838,-81.655651	Miami-Fort Lauderdale-West Palm Beach, FL Metro Area	 25.7742658,-80.1936589	2010
+253	Jacksonville, FL Metro Area	 30.3321838,-81.655651	Orlando-Kissimmee-Sanford, FL Metro Area	 28.5479786,-81.4127841856302	2810
+254	Jacksonville, FL Metro Area	 30.3321838,-81.655651	Tallahassee, FL Metro Area	 30.4380832,-84.2809332	2134
+255	Jacksonville, FL Metro Area	 30.3321838,-81.655651	Tampa-St. Petersburg-Clearwater, FL Metro Area	 27.9518491,-82.4563972	2504
+256	Johnson City, TN Metro Area	 36.3134398,-82.3534728	Kingsport-Bristol-Bristol, TN-VA Metro Area	 36.550238,-82.5594293	2177
+257	Kalamazoo-Portage, MI Metro Area	 42.291707,-85.5872286	Grand Rapids-Wyoming, MI Metro Area	 42.9142413,-85.533004	2201
+258	Kansas City, MO-KS Metro Area	 39.100105,-94.5781416	Dallas-Fort Worth-Arlington, TX Metro Area	 32.7762719,-96.7968559	2371
+259	Kansas City, MO-KS Metro Area	 39.100105,-94.5781416	Lawrence, KS Metro Area	 38.9719384,-95.2359496	3590
+260	Kansas City, MO-KS Metro Area	 39.100105,-94.5781416	Springfield, MO Metro Area	 37.2166779,-93.2920373	2025
+261	Kansas City, MO-KS Metro Area	 39.100105,-94.5781416	St. Joseph, MO-KS Metro Area	 39.7686055,-94.8466322	2854
+262	Kansas City, MO-KS Metro Area	 39.100105,-94.5781416	St. Louis, MO-IL Metro Area	 38.6268039,-90.1994097	2626
+263	Killeen-Temple, TX Metro Area	 31.1171441,-97.727796	Austin-Round Rock, TX Metro Area	 30.2711286,-97.7436995	3190
+264	Killeen-Temple, TX Metro Area	 31.1171441,-97.727796	Dallas-Fort Worth-Arlington, TX Metro Area	 32.7762719,-96.7968559	3029
+265	Kingsport-Bristol-Bristol, TN-VA Metro Area	 36.550238,-82.5594293	Johnson City, TN Metro Area	 36.3134398,-82.3534728	2178
+266	Kingston, NY Metro Area	 41.9287812,-74.0023702	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	3407
+267	Knoxville, TN Metro Area	 35.9603948,-83.9210261	Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area	 36.1622296,-86.7743531	3073
+268	Lake Havasu City-Kingman, AZ Metro Area	 34.4838502,-114.3224495	Phoenix-Mesa-Scottsdale, AZ Metro Area	 33.4485866,-112.0773456	2352
+269	Lakeland-Winter Haven, FL Metro Area	 28.0470734,-81.9539892	Orlando-Kissimmee-Sanford, FL Metro Area	 28.5479786,-81.4127841856302	7347
+270	Lakeland-Winter Haven, FL Metro Area	 28.0470734,-81.9539892	Tampa-St. Petersburg-Clearwater, FL Metro Area	 27.9518491,-82.4563972	3729
+271	Lancaster, PA Metro Area	 40.03813,-76.3056686	Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area	 39.9527237,-75.1635262	2257
+272	Lansing-East Lansing, MI Metro Area	 42.7337712,-84.5553805	Detroit-Warren-Dearborn, MI Metro Area	 42.3315509,-83.0466403	3296
+273	Las Cruces, NM Metro Area	 32.3140354,-106.7798078	El Paso, TX Metro Area	 31.7600372,-106.487287	2103
+274	Las Vegas-Henderson-Paradise, NV Metro Area	 36.1662859,-115.149225	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	7533
+275	Las Vegas-Henderson-Paradise, NV Metro Area	 36.1662859,-115.149225	Phoenix-Mesa-Scottsdale, AZ Metro Area	 33.4485866,-112.0773456	3285
+276	Las Vegas-Henderson-Paradise, NV Metro Area	 36.1662859,-115.149225	Reno, NV Metro Area	 39.52927,-119.8136744	2798
+277	Las Vegas-Henderson-Paradise, NV Metro Area	 36.1662859,-115.149225	Riverside-San Bernardino-Ontario, CA Metro Area	 33.9806, -117.3755	3672
+278	Las Vegas-Henderson-Paradise, NV Metro Area	 36.1662859,-115.149225	San Diego-Carlsbad, CA Metro Area	 32.7174209,-117.1627714	2551
+279	Lawrence, KS Metro Area	 38.9719384,-95.2359496	Kansas City, MO-KS Metro Area	 39.100105,-94.5781416	3945
+280	Lexington-Fayette, KY Metro Area	 38.0464066,-84.4970393	Louisville/Jefferson County, KY-IN Metro Area	 38.209237,-85.7038502	2552
+281	Lincoln, NE Metro Area	 40.8,-96.667821	Omaha-Council Bluffs, NE-IA Metro Area	 41.2587317,-95.9378732	3869
+282	Little Rock-North Little Rock-Conway, AR Metro Area	 34.7464809,-92.2895948	Fayetteville-Springdale-Rogers, AR-MO Metro Area	 36.0625843,-94.1574328	2028
+283	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	Atlanta-Sandy Springs-Roswell, GA Metro Area	 33.7490987,-84.3901849	2891
+284	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	Austin-Round Rock, TX Metro Area	 30.2711286,-97.7436995	2509
+285	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	Bakersfield, CA Metro Area	 35.3738712,-119.0194639	11749
+286	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	Boston-Cambridge-Newton, MA-NH Metro Area	 42.3602534,-71.0582912	3199
+287	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	4382
+288	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	Dallas-Fort Worth-Arlington, TX Metro Area	 32.7762719,-96.7968559	7834
+289	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	Denver-Aurora-Lakewood, CO Metro Area	 39.7348381,-104.9653271	3922
+290	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	Fresno, CA Metro Area	 36.7295295,-119.708861260756	4621
+291	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	Honolulu, HI Metro Area	 21.3250785,-157.846644178573	2092
+292	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	Houston-The Woodlands-Sugar Land, TX Metro Area	 29.7589382,-95.3676974	4942
+293	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	Las Vegas-Henderson-Paradise, NV Metro Area	 36.1662859,-115.149225	15264
+294	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	Miami-Fort Lauderdale-West Palm Beach, FL Metro Area	 25.7742658,-80.1936589	2347
+295	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	9486
+296	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	Oxnard-Thousand Oaks-Ventura, CA Metro Area	 34.1976308,-119.1803818	10835
+297	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	Phoenix-Mesa-Scottsdale, AZ Metro Area	 33.4485866,-112.0773456	9908
+298	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	Portland-Vancouver-Hillsboro, OR-WA Metro Area	 45.5202471,-122.6741949	4276
+299	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	Riverside-San Bernardino-Ontario, CA Metro Area	 33.9806, -117.3755	83445
+300	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	Sacramento--Roseville--Arden-Arcade, CA Metro Area	 38.5815719,-121.4943996	7423
+301	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	San Antonio-New Braunfels, TX Metro Area	 29.4246002,-98.4951405	2255
+302	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	San Diego-Carlsbad, CA Metro Area	 32.7174209,-117.1627714	17228
+303	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	San Francisco-Oakland-Hayward, CA Metro Area	 37.7749,-122.4194	17046
+304	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	San Jose-Sunnyvale-Santa Clara, CA Metro Area	 37.3361905,-121.8905833	5924
+305	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	San Luis Obispo-Paso Robles-Arroyo Grande, CA Metro Area	 35.2827525,-120.6596156	3436
+306	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	Santa Maria-Santa Barbara, CA Metro Area	 34.9531295,-120.4358577	5208
+307	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	Seattle-Tacoma-Bellevue, WA Metro Area	 47.6038321,-122.3300624	6964
+308	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	Tucson, AZ Metro Area	 32.2218917,-110.9262353	2239
+309	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area	 38.8950092,-77.0365625	4420
+310	Louisville/Jefferson County, KY-IN Metro Area	 38.209237,-85.7038502	Elizabethtown-Fort Knox, KY Metro Area	 37.693952,-85.8591285	2533
+311	Louisville/Jefferson County, KY-IN Metro Area	 38.209237,-85.7038502	Lexington-Fayette, KY Metro Area	 38.0464066,-84.4970393	3249
+312	Lubbock, TX Metro Area	 33.5778631,-101.8551665	Dallas-Fort Worth-Arlington, TX Metro Area	 32.7762719,-96.7968559	3248
+313	Macon, GA Metro Area	 32.8406946,-83.6324022	Atlanta-Sandy Springs-Roswell, GA Metro Area	 33.7490987,-84.3901849	2471
+314	Madera, CA Metro Area	 37.1716264,-119.7737991	Fresno, CA Metro Area	 36.7295295,-119.708861260756	2209
+315	Madera, CA Metro Area	 37.1716264,-119.7737991	Riverside-San Bernardino-Ontario, CA Metro Area	 33.9806, -117.3755	2219
+316	Madison, WI Metro Area	 43.074761,-89.3837613	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	2021
+317	Madison, WI Metro Area	 43.074761,-89.3837613	Milwaukee-Waukesha-West Allis, WI Metro Area	 43.0349931,-87.922497	2326
+318	Manchester-Nashua, NH Metro Area	 42.9956397,-71.4547891	Boston-Cambridge-Newton, MA-NH Metro Area	 42.3602534,-71.0582912	6534
+319	Mankato-North Mankato, MN Metro Area	 44.1634663,-93.9993505	Minneapolis-St. Paul-Bloomington, MN-WI Metro Area	 44.9772995,-93.2654692	2443
+320	McAllen-Edinburg-Mission, TX Metro Area	 26.2043691,-98.230082	Houston-The Woodlands-Sugar Land, TX Metro Area	 29.7589382,-95.3676974	2935
+321	McAllen-Edinburg-Mission, TX Metro Area	 26.2043691,-98.230082	San Antonio-New Braunfels, TX Metro Area	 29.4246002,-98.4951405	2887
+322	Memphis, TN-MS-AR Metro Area	 35.1490215,-90.0516285	Atlanta-Sandy Springs-Roswell, GA Metro Area	 33.7490987,-84.3901849	2527
+323	Memphis, TN-MS-AR Metro Area	 35.1490215,-90.0516285	Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area	 36.1622296,-86.7743531	3046
+324	Merced, CA Metro Area	 37.3029568,-120.4843269	Modesto, CA Metro Area	 37.6390972,-120.9968782	2214
+325	Miami-Fort Lauderdale-West Palm Beach, FL Metro Area	 25.7742658,-80.1936589	Atlanta-Sandy Springs-Roswell, GA Metro Area	 33.7490987,-84.3901849	6751
+326	Miami-Fort Lauderdale-West Palm Beach, FL Metro Area	 25.7742658,-80.1936589	Boston-Cambridge-Newton, MA-NH Metro Area	 42.3602534,-71.0582912	2519
+327	Miami-Fort Lauderdale-West Palm Beach, FL Metro Area	 25.7742658,-80.1936589	Cape Coral-Fort Myers, FL Metro Area	 26.6059432,-81.9806771	4090
+328	Miami-Fort Lauderdale-West Palm Beach, FL Metro Area	 25.7742658,-80.1936589	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	3088
+329	Miami-Fort Lauderdale-West Palm Beach, FL Metro Area	 25.7742658,-80.1936589	Deltona-Daytona Beach-Ormond Beach, FL Metro Area	 28.9005446,-81.2636738	2003
+330	Miami-Fort Lauderdale-West Palm Beach, FL Metro Area	 25.7742658,-80.1936589	Gainesville, FL Metro Area	 29.67357765,-82.3233746019217	4613
+331	Miami-Fort Lauderdale-West Palm Beach, FL Metro Area	 25.7742658,-80.1936589	Houston-The Woodlands-Sugar Land, TX Metro Area	 29.7589382,-95.3676974	2682
+332	Miami-Fort Lauderdale-West Palm Beach, FL Metro Area	 25.7742658,-80.1936589	Jacksonville, FL Metro Area	 30.3321838,-81.655651	5404
+333	Miami-Fort Lauderdale-West Palm Beach, FL Metro Area	 25.7742658,-80.1936589	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	3460
+334	Miami-Fort Lauderdale-West Palm Beach, FL Metro Area	 25.7742658,-80.1936589	Naples-Immokalee-Marco Island, FL Metro Area	 26.1421976,-81.7942944	2456
+335	Miami-Fort Lauderdale-West Palm Beach, FL Metro Area	 25.7742658,-80.1936589	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	9979
+336	Miami-Fort Lauderdale-West Palm Beach, FL Metro Area	 25.7742658,-80.1936589	Orlando-Kissimmee-Sanford, FL Metro Area	 28.5479786,-81.4127841856302	13499
+337	Miami-Fort Lauderdale-West Palm Beach, FL Metro Area	 25.7742658,-80.1936589	Palm Bay-Melbourne-Titusville, FL Metro Area	 28.0331886,-80.6429695	2361
+338	Miami-Fort Lauderdale-West Palm Beach, FL Metro Area	 25.7742658,-80.1936589	Port St. Lucie, FL Metro Area	 27.2939333,-80.3503283	6804
+339	Miami-Fort Lauderdale-West Palm Beach, FL Metro Area	 25.7742658,-80.1936589	Tallahassee, FL Metro Area	 30.4380832,-84.2809332	5097
+340	Miami-Fort Lauderdale-West Palm Beach, FL Metro Area	 25.7742658,-80.1936589	Tampa-St. Petersburg-Clearwater, FL Metro Area	 27.9518491,-82.4563972	7403
+341	Miami-Fort Lauderdale-West Palm Beach, FL Metro Area	 25.7742658,-80.1936589	Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area	 38.8950092,-77.0365625	3850
+342	Midland, TX Metro Area	 31.9973662,-102.0779482	Odessa, TX Metro Area	 31.8457149,-102.367687	2019
+343	Milwaukee-Waukesha-West Allis, WI Metro Area	 43.0349931,-87.922497	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	3632
+344	Milwaukee-Waukesha-West Allis, WI Metro Area	 43.0349931,-87.922497	Madison, WI Metro Area	 43.074761,-89.3837613	4343
+345	Milwaukee-Waukesha-West Allis, WI Metro Area	 43.0349931,-87.922497	Racine, WI Metro Area	 42.7260523,-87.7825242	2485
+346	Minneapolis-St. Paul-Bloomington, MN-WI Metro Area	 44.9772995,-93.2654692	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	3351
+347	Minneapolis-St. Paul-Bloomington, MN-WI Metro Area	 44.9772995,-93.2654692	Duluth, MN-WI Metro Area	 46.7729322,-92.1251218	5059
+348	Minneapolis-St. Paul-Bloomington, MN-WI Metro Area	 44.9772995,-93.2654692	Fargo, ND-MN Metro Area	 46.877229,-96.789821	2993
+349	Minneapolis-St. Paul-Bloomington, MN-WI Metro Area	 44.9772995,-93.2654692	Mankato-North Mankato, MN Metro Area	 44.1634663,-93.9993505	3210
+350	Minneapolis-St. Paul-Bloomington, MN-WI Metro Area	 44.9772995,-93.2654692	Phoenix-Mesa-Scottsdale, AZ Metro Area	 33.4485866,-112.0773456	2808
+351	Minneapolis-St. Paul-Bloomington, MN-WI Metro Area	 44.9772995,-93.2654692	St. Cloud, MN Metro Area	 45.5616075,-94.1642004	7697
+352	Modesto, CA Metro Area	 37.6390972,-120.9968782	Stockton-Lodi, CA Metro Area	 38.1341, -121.2722	3118
+353	Montgomery, AL Metro Area	 40.85239,-78.266098	Birmingham-Hoover, AL Metro Area	 33.570499,-86.765783	2676
+354	Mount Vernon-Anacortes, WA Metro Area	 48.4200462,-122.32642	Seattle-Tacoma-Bellevue, WA Metro Area	 47.6038321,-122.3300624	2160
+355	Muncie, IN Metro Area	 40.1936683,-85.3865114	Indianapolis-Carmel-Anderson, IN Metro Area	 39.7683331,-86.1583502	2626
+356	Muskegon, MI Metro Area	 43.2341813,-86.2483921	Grand Rapids-Wyoming, MI Metro Area	 42.9142413,-85.533004	2766
+357	Myrtle Beach-Conway-North Myrtle Beach, SC-NC Metro Area	 33.6956461,-78.8900409	Wilmington, NC Metro Area	 34.2257282,-77.9447107	2231
+358	Napa, CA Metro Area	 38.2975,-122.2869	Vallejo-Fairfield, CA Metro Area	 38.1040864,-122.2566367	2136
+359	Naples-Immokalee-Marco Island, FL Metro Area	 26.1421976,-81.7942944	Cape Coral-Fort Myers, FL Metro Area	 26.6059432,-81.9806771	4038
+360	Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area	 36.1622296,-86.7743531	Atlanta-Sandy Springs-Roswell, GA Metro Area	 33.7490987,-84.3901849	2219
+361	Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area	 36.1622296,-86.7743531	Knoxville, TN Metro Area	 35.9603948,-83.9210261	3028
+362	Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area	 36.1622296,-86.7743531	Memphis, TN-MS-AR Metro Area	 35.1490215,-90.0516285	2418
+363	New Haven-Milford, CT Metro Area	 41.3083,-72.9279	Bridgeport-Stamford-Norwalk, CT Metro Area	 41.1792,-73.1894	4476
+364	New Haven-Milford, CT Metro Area	 41.3083,-72.9279	Hartford-West Hartford-East Hartford, CT Metro Area	 33.4700252,-84.63344	7182
+365	New Haven-Milford, CT Metro Area	 41.3083,-72.9279	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	2520
+366	New Orleans-Metairie, LA Metro Area	 29.9499323,-90.0701156	Baton Rouge, LA Metro Area	 30.4459596,-91.18738	6429
+367	New Orleans-Metairie, LA Metro Area	 29.9499323,-90.0701156	Hammond, LA Metro Area	 41.5833658,-87.500043	3330
+368	New Orleans-Metairie, LA Metro Area	 29.9499323,-90.0701156	Houston-The Woodlands-Sugar Land, TX Metro Area	 29.7589382,-95.3676974	2645
+369	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Albany-Schenectady-Troy, NY Metro Area	 42.6511674,-73.754968	9878
+370	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Allentown-Bethlehem-Easton, PA-NJ Metro Area	 40.6022059,-75.4712794	9289
+371	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Atlanta-Sandy Springs-Roswell, GA Metro Area	 33.7490987,-84.3901849	11073
+372	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Atlantic City-Hammonton, NJ Metro Area	 39.3642852,-74.4229351	2581
+373	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Austin-Round Rock, TX Metro Area	 30.2711286,-97.7436995	3096
+374	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Baltimore-Columbia-Towson, MD Metro Area	 39.2908816,-76.610759	7262
+375	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Binghamton, NY Metro Area	 42.096968,-75.914341	4124
+376	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Boston-Cambridge-Newton, MA-NH Metro Area	 42.3602534,-71.0582912	14779
+377	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Bridgeport-Stamford-Norwalk, CT Metro Area	 41.1792,-73.1894	12488
+378	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Buffalo-Cheektowaga-Niagara Falls, NY Metro Area	 42.8867166,-78.8783922	5051
+379	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Cape Coral-Fort Myers, FL Metro Area	 26.6059432,-81.9806771	2555
+380	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Charlotte-Concord-Gastonia, NC-SC Metro Area	 35.2270869,-80.8431268	6989
+381	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	7153
+382	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Columbus, OH Metro Area	 39.9622601,-83.0007065	2053
+383	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Dallas-Fort Worth-Arlington, TX Metro Area	 32.7762719,-96.7968559	5911
+384	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Deltona-Daytona Beach-Ormond Beach, FL Metro Area	 28.9005446,-81.2636738	2237
+385	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Denver-Aurora-Lakewood, CO Metro Area	 39.7348381,-104.9653271	2436
+386	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Durham-Chapel Hill, NC Metro Area	 36.0181316,-78.8751582	2110
+387	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	East Stroudsburg, PA Metro Area	 40.9995386,-75.1812913	2760
+388	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Hartford-West Hartford-East Hartford, CT Metro Area	 33.4700252,-84.63344	4511
+389	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Houston-The Woodlands-Sugar Land, TX Metro Area	 29.7589382,-95.3676974	5934
+390	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Ithaca, NY Metro Area	 42.4396039,-76.4968019	2071
+391	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Jacksonville, FL Metro Area	 30.3321838,-81.655651	2095
+392	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Kingston, NY Metro Area	 41.9287812,-74.0023702	4860
+393	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Las Vegas-Henderson-Paradise, NV Metro Area	 36.1662859,-115.149225	2199
+394	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	13816
+395	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Miami-Fort Lauderdale-West Palm Beach, FL Metro Area	 25.7742658,-80.1936589	23221
+396	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Myrtle Beach-Conway-North Myrtle Beach, SC-NC Metro Area	 33.6956461,-78.8900409	2294
+397	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	New Haven-Milford, CT Metro Area	 41.3083,-72.9279	4000
+398	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	North Port-Sarasota-Bradenton, FL Metro Area	 27.044224,-82.2359254	2613
+399	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Orlando-Kissimmee-Sanford, FL Metro Area	 28.5479786,-81.4127841856302	10986
+400	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area	 39.9527237,-75.1635262	27934
+401	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Phoenix-Mesa-Scottsdale, AZ Metro Area	 33.4485866,-112.0773456	5153
+402	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Pittsburgh, PA Metro Area	 40.4416941,-79.9900861	3035
+403	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Port St. Lucie, FL Metro Area	 27.2939333,-80.3503283	2049
+404	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Providence-Warwick, RI-MA Metro Area	 41.8240,-71.4128	4860
+405	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Raleigh, NC Metro Area	 35.7803977,-78.6390989	3646
+406	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Richmond, VA Metro Area	 37.5407,-77.4360	3219
+407	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Rochester, NY Metro Area	 43.1854754,-77.6106861508176	5231
+408	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	San Diego-Carlsbad, CA Metro Area	 32.7174209,-117.1627714	3436
+409	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	San Francisco-Oakland-Hayward, CA Metro Area	 37.7749,-122.4194	8361
+410	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	San Jose-Sunnyvale-Santa Clara, CA Metro Area	 37.3361905,-121.8905833	2350
+411	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	San Juan-Carolina-Caguas, PR Metro Area	 18.4655,-66.1057	2130
+412	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Scranton--Wilkes-Barre--Hazleton, PA Metro Area	 41.4086874,-75.6621294	4167
+413	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Seattle-Tacoma-Bellevue, WA Metro Area	 47.6038321,-122.3300624	3756
+414	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Springfield, MA Metro Area	 42.1014831,-72.589811	2092
+415	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Syracuse, NY Metro Area	 43.0481221,-76.1474244	4581
+416	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Tampa-St. Petersburg-Clearwater, FL Metro Area	 27.9518491,-82.4563972	8279
+417	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Trenton, NJ Metro Area	 40.2170575,-74.7429463	10268
+418	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Utica-Rome, NY Metro Area	 43.1009031,-75.2326641	2536
+419	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Vineland-Bridgeton, NJ Metro Area	 39.473152,-75.0020265495217	2252
+420	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Virginia Beach-Norfolk-Newport News, VA-NC Metro Area	 36.8529841,-75.9774183	3950
+421	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area	 38.8950092,-77.0365625	16307
+422	North Port-Sarasota-Bradenton, FL Metro Area	 27.044224,-82.2359254	Orlando-Kissimmee-Sanford, FL Metro Area	 28.5479786,-81.4127841856302	2103
+423	North Port-Sarasota-Bradenton, FL Metro Area	 27.044224,-82.2359254	Punta Gorda, FL Metro Area	 26.9297836,-82.0453664	2284
+424	North Port-Sarasota-Bradenton, FL Metro Area	 27.044224,-82.2359254	Tampa-St. Petersburg-Clearwater, FL Metro Area	 27.9518491,-82.4563972	3173
+425	Norwich-New London, CT Metro Area	 41.3557,-72.0995	Hartford-West Hartford-East Hartford, CT Metro Area	 33.4700252,-84.63344	2489
+426	Ocala, FL Metro Area	 29.1924213,-82.1352047	Orlando-Kissimmee-Sanford, FL Metro Area	 28.5479786,-81.4127841856302	2642
+427	Ogden-Clearfield, UT Metro Area	 41.2230048,-111.9738429	Logan, UT-ID Metro Area	 41.7313447,-111.8348631	2003
+428	Ogden-Clearfield, UT Metro Area	 41.2230048,-111.9738429	Provo-Orem, UT Metro Area	 40.2338438,-111.6585337	2473
+429	Ogden-Clearfield, UT Metro Area	 41.2230048,-111.9738429	Salt Lake City, UT Metro Area	 40.7670126,-111.8904308	6504
+430	Oklahoma City, OK Metro Area	 35.4729886,-97.5170536	Dallas-Fort Worth-Arlington, TX Metro Area	 32.7762719,-96.7968559	3134
+431	Oklahoma City, OK Metro Area	 35.4729886,-97.5170536	Tulsa, OK Metro Area	 36.1556805,-95.9929113	3683
+432	Olympia-Tumwater, WA Metro Area	 47.0451022,-122.8950075	Seattle-Tacoma-Bellevue, WA Metro Area	 47.6038321,-122.3300624	4322
+433	Omaha-Council Bluffs, NE-IA Metro Area	 41.2587317,-95.9378732	Lincoln, NE Metro Area	 40.8,-96.667821	4438
+434	Orlando-Kissimmee-Sanford, FL Metro Area	 28.5479786,-81.4127841856302	Atlanta-Sandy Springs-Roswell, GA Metro Area	 33.7490987,-84.3901849	2707
+435	Orlando-Kissimmee-Sanford, FL Metro Area	 28.5479786,-81.4127841856302	Deltona-Daytona Beach-Ormond Beach, FL Metro Area	 28.9005446,-81.2636738	6959
+436	Orlando-Kissimmee-Sanford, FL Metro Area	 28.5479786,-81.4127841856302	Houston-The Woodlands-Sugar Land, TX Metro Area	 29.7589382,-95.3676974	2008
+437	Orlando-Kissimmee-Sanford, FL Metro Area	 28.5479786,-81.4127841856302	Jacksonville, FL Metro Area	 30.3321838,-81.655651	3593
+438	Orlando-Kissimmee-Sanford, FL Metro Area	 28.5479786,-81.4127841856302	Lakeland-Winter Haven, FL Metro Area	 28.0470734,-81.9539892	5924
+439	Orlando-Kissimmee-Sanford, FL Metro Area	 28.5479786,-81.4127841856302	Miami-Fort Lauderdale-West Palm Beach, FL Metro Area	 25.7742658,-80.1936589	9947
+440	Orlando-Kissimmee-Sanford, FL Metro Area	 28.5479786,-81.4127841856302	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	3788
+441	Orlando-Kissimmee-Sanford, FL Metro Area	 28.5479786,-81.4127841856302	Ocala, FL Metro Area	 29.1924213,-82.1352047	2268
+442	Orlando-Kissimmee-Sanford, FL Metro Area	 28.5479786,-81.4127841856302	Palm Bay-Melbourne-Titusville, FL Metro Area	 28.0331886,-80.6429695	2875
+443	Orlando-Kissimmee-Sanford, FL Metro Area	 28.5479786,-81.4127841856302	Tampa-St. Petersburg-Clearwater, FL Metro Area	 27.9518491,-82.4563972	6151
+444	Oshkosh-Neenah, WI Metro Area	 44.0206919,-88.5408574	Appleton, WI Metro Area	 44.2611337,-88.4067604	3180
+445	Oxnard-Thousand Oaks-Ventura, CA Metro Area	 34.1976308,-119.1803818	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	9102
+446	Palm Bay-Melbourne-Titusville, FL Metro Area	 28.0331886,-80.6429695	Miami-Fort Lauderdale-West Palm Beach, FL Metro Area	 25.7742658,-80.1936589	2092
+447	Palm Bay-Melbourne-Titusville, FL Metro Area	 28.0331886,-80.6429695	Orlando-Kissimmee-Sanford, FL Metro Area	 28.5479786,-81.4127841856302	3606
+448	Pensacola-Ferry Pass-Brent, FL Metro Area	 30.421309,-87.2169149	Crestview-Fort Walton Beach-Destin, FL Metro Area	 30.7621326,-86.5705084	2204
+449	Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area	 39.9527237,-75.1635262	Allentown-Bethlehem-Easton, PA-NJ Metro Area	 40.6022059,-75.4712794	4541
+450	Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area	 39.9527237,-75.1635262	Atlanta-Sandy Springs-Roswell, GA Metro Area	 33.7490987,-84.3901849	3302
+451	Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area	 39.9527237,-75.1635262	Atlantic City-Hammonton, NJ Metro Area	 39.3642852,-74.4229351	3058
+452	Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area	 39.9527237,-75.1635262	Baltimore-Columbia-Towson, MD Metro Area	 39.2908816,-76.610759	5146
+453	Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area	 39.9527237,-75.1635262	Boston-Cambridge-Newton, MA-NH Metro Area	 42.3602534,-71.0582912	2882
+454	Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area	 39.9527237,-75.1635262	Dover, DE Metro Area	 39.158168,-75.5243682	3103
+455	Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area	 39.9527237,-75.1635262	Harrisburg-Carlisle, PA Metro Area	 40.2663107,-76.8861122	3809
+456	Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area	 39.9527237,-75.1635262	Lancaster, PA Metro Area	 40.03813,-76.3056686	3633
+457	Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area	 39.9527237,-75.1635262	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	2491
+458	Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area	 39.9527237,-75.1635262	Miami-Fort Lauderdale-West Palm Beach, FL Metro Area	 25.7742658,-80.1936589	3693
+459	Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area	 39.9527237,-75.1635262	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	18130
+460	Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area	 39.9527237,-75.1635262	Orlando-Kissimmee-Sanford, FL Metro Area	 28.5479786,-81.4127841856302	2244
+461	Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area	 39.9527237,-75.1635262	Pittsburgh, PA Metro Area	 40.4416941,-79.9900861	4495
+462	Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area	 39.9527237,-75.1635262	Reading, PA Metro Area	 40.335345,-75.9279495	4834
+463	Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area	 39.9527237,-75.1635262	Salisbury, MD-DE Metro Area	 38.3662114,-75.6008881	2458
+464	Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area	 39.9527237,-75.1635262	Scranton--Wilkes-Barre--Hazleton, PA Metro Area	 41.4086874,-75.6621294	2102
+465	Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area	 39.9527237,-75.1635262	State College, PA Metro Area	 40.7944504,-77.8616386	2969
+466	Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area	 39.9527237,-75.1635262	Trenton, NJ Metro Area	 40.2170575,-74.7429463	3416
+467	Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area	 39.9527237,-75.1635262	Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area	 38.8950092,-77.0365625	6808
+468	Phoenix-Mesa-Scottsdale, AZ Metro Area	 33.4485866,-112.0773456	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	3417
+469	Phoenix-Mesa-Scottsdale, AZ Metro Area	 33.4485866,-112.0773456	Dallas-Fort Worth-Arlington, TX Metro Area	 32.7762719,-96.7968559	2891
+470	Phoenix-Mesa-Scottsdale, AZ Metro Area	 33.4485866,-112.0773456	Denver-Aurora-Lakewood, CO Metro Area	 39.7348381,-104.9653271	2519
+471	Phoenix-Mesa-Scottsdale, AZ Metro Area	 33.4485866,-112.0773456	Flagstaff, AZ Metro Area	 35.199458,-111.6514259	4885
+472	Phoenix-Mesa-Scottsdale, AZ Metro Area	 33.4485866,-112.0773456	Houston-The Woodlands-Sugar Land, TX Metro Area	 29.7589382,-95.3676974	2397
+473	Phoenix-Mesa-Scottsdale, AZ Metro Area	 33.4485866,-112.0773456	Lake Havasu City-Kingman, AZ Metro Area	 34.4838502,-114.3224495	2228
+474	Phoenix-Mesa-Scottsdale, AZ Metro Area	 33.4485866,-112.0773456	Las Vegas-Henderson-Paradise, NV Metro Area	 36.1662859,-115.149225	3104
+475	Phoenix-Mesa-Scottsdale, AZ Metro Area	 33.4485866,-112.0773456	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	6208
+476	Phoenix-Mesa-Scottsdale, AZ Metro Area	 33.4485866,-112.0773456	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	3419
+477	Phoenix-Mesa-Scottsdale, AZ Metro Area	 33.4485866,-112.0773456	Portland-Vancouver-Hillsboro, OR-WA Metro Area	 45.5202471,-122.6741949	4110
+478	Phoenix-Mesa-Scottsdale, AZ Metro Area	 33.4485866,-112.0773456	Prescott, AZ Metro Area	 34.5399962,-112.4687616	4274
+479	Phoenix-Mesa-Scottsdale, AZ Metro Area	 33.4485866,-112.0773456	Riverside-San Bernardino-Ontario, CA Metro Area	 33.9806, -117.3755	3432
+480	Phoenix-Mesa-Scottsdale, AZ Metro Area	 33.4485866,-112.0773456	San Diego-Carlsbad, CA Metro Area	 32.7174209,-117.1627714	3041
+481	Phoenix-Mesa-Scottsdale, AZ Metro Area	 33.4485866,-112.0773456	San Francisco-Oakland-Hayward, CA Metro Area	 37.7749,-122.4194	2476
+482	Phoenix-Mesa-Scottsdale, AZ Metro Area	 33.4485866,-112.0773456	Seattle-Tacoma-Bellevue, WA Metro Area	 47.6038321,-122.3300624	4268
+483	Phoenix-Mesa-Scottsdale, AZ Metro Area	 33.4485866,-112.0773456	Sierra Vista-Douglas, AZ Metro Area	 31.5455709,-110.2772249	2816
+484	Phoenix-Mesa-Scottsdale, AZ Metro Area	 33.4485866,-112.0773456	Tucson, AZ Metro Area	 32.2218917,-110.9262353	11208
+485	Pittsburgh, PA Metro Area	 40.4416941,-79.9900861	Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area	 39.9527237,-75.1635262	2719
+486	Pittsburgh, PA Metro Area	 40.4416941,-79.9900861	Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area	 38.8950092,-77.0365625	2100
+487	Port St. Lucie, FL Metro Area	 27.2939333,-80.3503283	Miami-Fort Lauderdale-West Palm Beach, FL Metro Area	 25.7742658,-80.1936589	4056
+488	Portland-South Portland, ME Metro Area	 43.6591,-70.2568	Boston-Cambridge-Newton, MA-NH Metro Area	 42.3602534,-71.0582912	3320
+489	Portland-Vancouver-Hillsboro, OR-WA Metro Area	 45.5202471,-122.6741949	Corvallis, OR Metro Area	 44.5645659,-123.2620435	2691
+490	Portland-Vancouver-Hillsboro, OR-WA Metro Area	 45.5202471,-122.6741949	Eugene, OR Metro Area	 44.0505054,-123.0950506	3980
+491	Portland-Vancouver-Hillsboro, OR-WA Metro Area	 45.5202471,-122.6741949	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	2928
+492	Portland-Vancouver-Hillsboro, OR-WA Metro Area	 45.5202471,-122.6741949	Phoenix-Mesa-Scottsdale, AZ Metro Area	 33.4485866,-112.0773456	2814
+493	Portland-Vancouver-Hillsboro, OR-WA Metro Area	 45.5202471,-122.6741949	Salem, OR Metro Area	 44.9391565,-123.033121	6172
+494	Portland-Vancouver-Hillsboro, OR-WA Metro Area	 45.5202471,-122.6741949	Seattle-Tacoma-Bellevue, WA Metro Area	 47.6038321,-122.3300624	7526
+495	Prescott, AZ Metro Area	 34.5399962,-112.4687616	Phoenix-Mesa-Scottsdale, AZ Metro Area	 33.4485866,-112.0773456	2866
+496	Providence-Warwick, RI-MA Metro Area	 41.8240,-71.4128	Boston-Cambridge-Newton, MA-NH Metro Area	 42.3602534,-71.0582912	12220
+497	Providence-Warwick, RI-MA Metro Area	 41.8240,-71.4128	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	2442
+498	Providence-Warwick, RI-MA Metro Area	 41.8240,-71.4128	Worcester, MA-CT Metro Area	 42.2625932,-71.8022934	2385
+499	Provo-Orem, UT Metro Area	 40.2338438,-111.6585337	Salt Lake City, UT Metro Area	 40.7670126,-111.8904308	7071
+500	Punta Gorda, FL Metro Area	 26.9297836,-82.0453664	North Port-Sarasota-Bradenton, FL Metro Area	 27.044224,-82.2359254	3066
+501	Racine, WI Metro Area	 42.7260523,-87.7825242	Milwaukee-Waukesha-West Allis, WI Metro Area	 43.0349931,-87.922497	2982
+502	Raleigh, NC Metro Area	 35.7803977,-78.6390989	Charlotte-Concord-Gastonia, NC-SC Metro Area	 35.2270869,-80.8431268	3115
+503	Raleigh, NC Metro Area	 35.7803977,-78.6390989	Durham-Chapel Hill, NC Metro Area	 36.0181316,-78.8751582	7537
+504	Reading, PA Metro Area	 40.335345,-75.9279495	Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area	 39.9527237,-75.1635262	3265
+505	Reno, NV Metro Area	 39.52927,-119.8136744	Las Vegas-Henderson-Paradise, NV Metro Area	 36.1662859,-115.149225	2013
+506	Richmond, VA Metro Area	 37.5407,-77.4360	Virginia Beach-Norfolk-Newport News, VA-NC Metro Area	 36.8529841,-75.9774183	5905
+507	Richmond, VA Metro Area	 37.5407,-77.4360	Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area	 38.8950092,-77.0365625	6462
+508	Riverside-San Bernardino-Ontario, CA Metro Area	 33.9806, -117.3755	Bakersfield, CA Metro Area	 35.3738712,-119.0194639	4478
+509	Riverside-San Bernardino-Ontario, CA Metro Area	 33.9806, -117.3755	Dallas-Fort Worth-Arlington, TX Metro Area	 32.7762719,-96.7968559	2100
+510	Riverside-San Bernardino-Ontario, CA Metro Area	 33.9806, -117.3755	Las Vegas-Henderson-Paradise, NV Metro Area	 36.1662859,-115.149225	4662
+511	Riverside-San Bernardino-Ontario, CA Metro Area	 33.9806, -117.3755	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	49855
+512	Riverside-San Bernardino-Ontario, CA Metro Area	 33.9806, -117.3755	Phoenix-Mesa-Scottsdale, AZ Metro Area	 33.4485866,-112.0773456	4018
+513	Riverside-San Bernardino-Ontario, CA Metro Area	 33.9806, -117.3755	Sacramento--Roseville--Arden-Arcade, CA Metro Area	 38.5815719,-121.4943996	3014
+514	Riverside-San Bernardino-Ontario, CA Metro Area	 33.9806, -117.3755	San Diego-Carlsbad, CA Metro Area	 32.7174209,-117.1627714	13734
+515	Riverside-San Bernardino-Ontario, CA Metro Area	 33.9806, -117.3755	San Francisco-Oakland-Hayward, CA Metro Area	 37.7749,-122.4194	2669
+516	Riverside-San Bernardino-Ontario, CA Metro Area	 33.9806, -117.3755	Seattle-Tacoma-Bellevue, WA Metro Area	 47.6038321,-122.3300624	2073
+517	Rochester, MN Metro Area	 44.0234387,-92.4630182	Minneapolis-St. Paul-Bloomington, MN-WI Metro Area	 44.9772995,-93.2654692	2479
+518	Rochester, NY Metro Area	 43.1854754,-77.6106861508176	Buffalo-Cheektowaga-Niagara Falls, NY Metro Area	 42.8867166,-78.8783922	3109
+519	Rochester, NY Metro Area	 43.1854754,-77.6106861508176	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	5017
+520	Rochester, NY Metro Area	 43.1854754,-77.6106861508176	Syracuse, NY Metro Area	 43.0481221,-76.1474244	2102
+521	Rockford, IL Metro Area	 42.2713945,-89.093966	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	3513
+522	Sacramento--Roseville--Arden-Arcade, CA Metro Area	 38.5815719,-121.4943996	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	5422
+523	Sacramento--Roseville--Arden-Arcade, CA Metro Area	 38.5815719,-121.4943996	Reno, NV Metro Area	 39.52927,-119.8136744	2033
+524	Sacramento--Roseville--Arden-Arcade, CA Metro Area	 38.5815719,-121.4943996	Riverside-San Bernardino-Ontario, CA Metro Area	 33.9806, -117.3755	3613
+525	Sacramento--Roseville--Arden-Arcade, CA Metro Area	 38.5815719,-121.4943996	San Francisco-Oakland-Hayward, CA Metro Area	 37.7749,-122.4194	9639
+526	Sacramento--Roseville--Arden-Arcade, CA Metro Area	 38.5815719,-121.4943996	San Jose-Sunnyvale-Santa Clara, CA Metro Area	 37.3361905,-121.8905833	2709
+527	Sacramento--Roseville--Arden-Arcade, CA Metro Area	 38.5815719,-121.4943996	Stockton-Lodi, CA Metro Area	 38.1341, -121.2722	3728
+528	Sacramento--Roseville--Arden-Arcade, CA Metro Area	 38.5815719,-121.4943996	Vallejo-Fairfield, CA Metro Area	 38.1040864,-122.2566367	2523
+529	Sacramento--Roseville--Arden-Arcade, CA Metro Area	 38.5815719,-121.4943996	Yuba City, CA Metro Area	 39.1404477,-121.6169108	2415
+530	Salem, OR Metro Area	 44.9391565,-123.033121	Portland-Vancouver-Hillsboro, OR-WA Metro Area	 45.5202471,-122.6741949	7070
+531	Salisbury, MD-DE Metro Area	 38.3662114,-75.6008881	Baltimore-Columbia-Towson, MD Metro Area	 39.2908816,-76.610759	2144
+532	Salt Lake City, UT Metro Area	 40.7670126,-111.8904308	Ogden-Clearfield, UT Metro Area	 41.2230048,-111.9738429	7035
+533	Salt Lake City, UT Metro Area	 40.7670126,-111.8904308	Provo-Orem, UT Metro Area	 40.2338438,-111.6585337	8273
+534	San Antonio-New Braunfels, TX Metro Area	 29.4246002,-98.4951405	Austin-Round Rock, TX Metro Area	 30.2711286,-97.7436995	9484
+535	San Antonio-New Braunfels, TX Metro Area	 29.4246002,-98.4951405	College Station-Bryan, TX Metro Area	 30.6253463,-96.3271538	2361
+536	San Antonio-New Braunfels, TX Metro Area	 29.4246002,-98.4951405	Corpus Christi, TX Metro Area	 27.8002542,-97.3955744	3285
+537	San Antonio-New Braunfels, TX Metro Area	 29.4246002,-98.4951405	Dallas-Fort Worth-Arlington, TX Metro Area	 32.7762719,-96.7968559	6935
+538	San Antonio-New Braunfels, TX Metro Area	 29.4246002,-98.4951405	Houston-The Woodlands-Sugar Land, TX Metro Area	 29.7589382,-95.3676974	6741
+539	San Diego-Carlsbad, CA Metro Area	 32.7174209,-117.1627714	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	2827
+540	San Diego-Carlsbad, CA Metro Area	 32.7174209,-117.1627714	Dallas-Fort Worth-Arlington, TX Metro Area	 32.7762719,-96.7968559	2347
+541	San Diego-Carlsbad, CA Metro Area	 32.7174209,-117.1627714	Houston-The Woodlands-Sugar Land, TX Metro Area	 29.7589382,-95.3676974	2071
+542	San Diego-Carlsbad, CA Metro Area	 32.7174209,-117.1627714	Las Vegas-Henderson-Paradise, NV Metro Area	 36.1662859,-115.149225	2998
+543	San Diego-Carlsbad, CA Metro Area	 32.7174209,-117.1627714	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	15903
+544	San Diego-Carlsbad, CA Metro Area	 32.7174209,-117.1627714	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	2223
+545	San Diego-Carlsbad, CA Metro Area	 32.7174209,-117.1627714	Phoenix-Mesa-Scottsdale, AZ Metro Area	 33.4485866,-112.0773456	3926
+546	San Diego-Carlsbad, CA Metro Area	 32.7174209,-117.1627714	Riverside-San Bernardino-Ontario, CA Metro Area	 33.9806, -117.3755	22027
+547	San Diego-Carlsbad, CA Metro Area	 32.7174209,-117.1627714	Sacramento--Roseville--Arden-Arcade, CA Metro Area	 38.5815719,-121.4943996	2555
+548	San Diego-Carlsbad, CA Metro Area	 32.7174209,-117.1627714	San Francisco-Oakland-Hayward, CA Metro Area	 37.7749,-122.4194	6005
+549	San Diego-Carlsbad, CA Metro Area	 32.7174209,-117.1627714	San Jose-Sunnyvale-Santa Clara, CA Metro Area	 37.3361905,-121.8905833	2504
+550	San Diego-Carlsbad, CA Metro Area	 32.7174209,-117.1627714	Seattle-Tacoma-Bellevue, WA Metro Area	 47.6038321,-122.3300624	2916
+551	San Diego-Carlsbad, CA Metro Area	 32.7174209,-117.1627714	Virginia Beach-Norfolk-Newport News, VA-NC Metro Area	 36.8529841,-75.9774183	2696
+552	San Diego-Carlsbad, CA Metro Area	 32.7174209,-117.1627714	Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area	 38.8950092,-77.0365625	3967
+553	San Francisco-Oakland-Hayward, CA Metro Area	 37.7749,-122.4194	Boston-Cambridge-Newton, MA-NH Metro Area	 42.3602534,-71.0582912	2610
+554	San Francisco-Oakland-Hayward, CA Metro Area	 37.7749,-122.4194	Dallas-Fort Worth-Arlington, TX Metro Area	 32.7762719,-96.7968559	2212
+555	San Francisco-Oakland-Hayward, CA Metro Area	 37.7749,-122.4194	Fresno, CA Metro Area	 36.7295295,-119.708861260756	2097
+556	San Francisco-Oakland-Hayward, CA Metro Area	 37.7749,-122.4194	Las Vegas-Henderson-Paradise, NV Metro Area	 36.1662859,-115.149225	2068
+557	San Francisco-Oakland-Hayward, CA Metro Area	 37.7749,-122.4194	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	14613
+558	San Francisco-Oakland-Hayward, CA Metro Area	 37.7749,-122.4194	Modesto, CA Metro Area	 37.6390972,-120.9968782	2914
+559	San Francisco-Oakland-Hayward, CA Metro Area	 37.7749,-122.4194	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	5951
+560	San Francisco-Oakland-Hayward, CA Metro Area	 37.7749,-122.4194	Phoenix-Mesa-Scottsdale, AZ Metro Area	 33.4485866,-112.0773456	2078
+561	San Francisco-Oakland-Hayward, CA Metro Area	 37.7749,-122.4194	Portland-Vancouver-Hillsboro, OR-WA Metro Area	 45.5202471,-122.6741949	2532
+562	San Francisco-Oakland-Hayward, CA Metro Area	 37.7749,-122.4194	Riverside-San Bernardino-Ontario, CA Metro Area	 33.9806, -117.3755	2537
+563	San Francisco-Oakland-Hayward, CA Metro Area	 37.7749,-122.4194	Sacramento--Roseville--Arden-Arcade, CA Metro Area	 38.5815719,-121.4943996	12836
+564	San Francisco-Oakland-Hayward, CA Metro Area	 37.7749,-122.4194	San Diego-Carlsbad, CA Metro Area	 32.7174209,-117.1627714	3934
+565	San Francisco-Oakland-Hayward, CA Metro Area	 37.7749,-122.4194	San Jose-Sunnyvale-Santa Clara, CA Metro Area	 37.3361905,-121.8905833	18504
+566	San Francisco-Oakland-Hayward, CA Metro Area	 37.7749,-122.4194	Santa Cruz-Watsonville, CA Metro Area	 36.9749416,-122.0285259	2635
+567	San Francisco-Oakland-Hayward, CA Metro Area	 37.7749,-122.4194	Santa Maria-Santa Barbara, CA Metro Area	 34.9531295,-120.4358577	2388
+568	San Francisco-Oakland-Hayward, CA Metro Area	 37.7749,-122.4194	Santa Rosa, CA Metro Area	 38.4404,-122.7141	5594
+569	San Francisco-Oakland-Hayward, CA Metro Area	 37.7749,-122.4194	Seattle-Tacoma-Bellevue, WA Metro Area	 47.6038321,-122.3300624	4631
+570	San Francisco-Oakland-Hayward, CA Metro Area	 37.7749,-122.4194	Stockton-Lodi, CA Metro Area	 38.1341, -121.2722	8505
+571	San Francisco-Oakland-Hayward, CA Metro Area	 37.7749,-122.4194	Vallejo-Fairfield, CA Metro Area	 38.1040864,-122.2566367	7176
+572	San Francisco-Oakland-Hayward, CA Metro Area	 37.7749,-122.4194	Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area	 38.8950092,-77.0365625	2950
+573	San Jose-Sunnyvale-Santa Clara, CA Metro Area	 37.3361905,-121.8905833	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	5463
+574	San Jose-Sunnyvale-Santa Clara, CA Metro Area	 37.3361905,-121.8905833	Modesto, CA Metro Area	 37.6390972,-120.9968782	2302
+575	San Jose-Sunnyvale-Santa Clara, CA Metro Area	 37.3361905,-121.8905833	Sacramento--Roseville--Arden-Arcade, CA Metro Area	 38.5815719,-121.4943996	4925
+576	San Jose-Sunnyvale-Santa Clara, CA Metro Area	 37.3361905,-121.8905833	San Francisco-Oakland-Hayward, CA Metro Area	 37.7749,-122.4194	26128
+577	San Jose-Sunnyvale-Santa Clara, CA Metro Area	 37.3361905,-121.8905833	Santa Cruz-Watsonville, CA Metro Area	 36.9749416,-122.0285259	3584
+578	San Jose-Sunnyvale-Santa Clara, CA Metro Area	 37.3361905,-121.8905833	Stockton-Lodi, CA Metro Area	 38.1341, -121.2722	3110
+579	San Juan-Carolina-Caguas, PR Metro Area	 18.4655,-66.1057	Miami-Fort Lauderdale-West Palm Beach, FL Metro Area	 25.7742658,-80.1936589	2691
+580	San Juan-Carolina-Caguas, PR Metro Area	 18.4655,-66.1057	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	3634
+581	San Juan-Carolina-Caguas, PR Metro Area	 18.4655,-66.1057	Orlando-Kissimmee-Sanford, FL Metro Area	 28.5479786,-81.4127841856302	7980
+582	San Juan-Carolina-Caguas, PR Metro Area	 18.4655,-66.1057	Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area	 39.9527237,-75.1635262	2340
+583	San Juan-Carolina-Caguas, PR Metro Area	 18.4655,-66.1057	Tampa-St. Petersburg-Clearwater, FL Metro Area	 27.9518491,-82.4563972	2584
+584	Santa Cruz-Watsonville, CA Metro Area	 36.9749416,-122.0285259	San Francisco-Oakland-Hayward, CA Metro Area	 37.7749,-122.4194	2253
+585	Santa Cruz-Watsonville, CA Metro Area	 36.9749416,-122.0285259	San Jose-Sunnyvale-Santa Clara, CA Metro Area	 37.3361905,-121.8905833	2237
+586	Santa Fe, NM Metro Area	 35.6869996,-105.9377997	Albuquerque, NM Metro Area	 35.0841034,-106.6509851	2368
+587	Santa Maria-Santa Barbara, CA Metro Area	 34.9531295,-120.4358577	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	3305
+588	Santa Maria-Santa Barbara, CA Metro Area	 34.9531295,-120.4358577	San Luis Obispo-Paso Robles-Arroyo Grande, CA Metro Area	 35.2827525,-120.6596156	2009
+589	Santa Rosa, CA Metro Area	 38.4404,-122.7141	San Francisco-Oakland-Hayward, CA Metro Area	 37.7749,-122.4194	4275
+590	Savannah, GA Metro Area	 32.0809,-81.0912	Atlanta-Sandy Springs-Roswell, GA Metro Area	 33.7490987,-84.3901849	2367
+591	Scranton--Wilkes-Barre--Hazleton, PA Metro Area	 41.4086874,-75.6621294	Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area	 39.9527237,-75.1635262	2138
+592	Seattle-Tacoma-Bellevue, WA Metro Area	 47.6038321,-122.3300624	Bellingham, WA Metro Area	 48.7544012,-122.4788361	4058
+593	Seattle-Tacoma-Bellevue, WA Metro Area	 47.6038321,-122.3300624	Bremerton-Silverdale, WA Metro Area	 47.5653663,-122.6246836	4023
+594	Seattle-Tacoma-Bellevue, WA Metro Area	 47.6038321,-122.3300624	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	5060
+595	Seattle-Tacoma-Bellevue, WA Metro Area	 47.6038321,-122.3300624	Mount Vernon-Anacortes, WA Metro Area	 48.4200462,-122.32642	2168
+596	Seattle-Tacoma-Bellevue, WA Metro Area	 47.6038321,-122.3300624	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	2057
+597	Seattle-Tacoma-Bellevue, WA Metro Area	 47.6038321,-122.3300624	Olympia-Tumwater, WA Metro Area	 47.0451022,-122.8950075	6006
+598	Seattle-Tacoma-Bellevue, WA Metro Area	 47.6038321,-122.3300624	Phoenix-Mesa-Scottsdale, AZ Metro Area	 33.4485866,-112.0773456	4951
+599	Seattle-Tacoma-Bellevue, WA Metro Area	 47.6038321,-122.3300624	Portland-Vancouver-Hillsboro, OR-WA Metro Area	 45.5202471,-122.6741949	6505
+600	Seattle-Tacoma-Bellevue, WA Metro Area	 47.6038321,-122.3300624	San Diego-Carlsbad, CA Metro Area	 32.7174209,-117.1627714	2141
+601	Seattle-Tacoma-Bellevue, WA Metro Area	 47.6038321,-122.3300624	San Francisco-Oakland-Hayward, CA Metro Area	 37.7749,-122.4194	3641
+602	Seattle-Tacoma-Bellevue, WA Metro Area	 47.6038321,-122.3300624	Spokane-Spokane Valley, WA Metro Area	 47.6579425,-117.4212265	4307
+603	Sherman-Denison, TX Metro Area	 33.6360125,-96.6097889	Dallas-Fort Worth-Arlington, TX Metro Area	 32.7762719,-96.7968559	2241
+604	Spartanburg, SC Metro Area	 34.9498007,-81.9320157	Greenville-Anderson-Mauldin, SC Metro Area	 34.851354,-82.3984882	2444
+605	Spokane-Spokane Valley, WA Metro Area	 47.6579425,-117.4212265	Seattle-Tacoma-Bellevue, WA Metro Area	 47.6038321,-122.3300624	3297
+606	Springfield, MA Metro Area	 42.1014831,-72.589811	Boston-Cambridge-Newton, MA-NH Metro Area	 42.3602534,-71.0582912	4540
+607	Springfield, MO Metro Area	 37.2166779,-93.2920373	Kansas City, MO-KS Metro Area	 39.100105,-94.5781416	2322
+608	St. Cloud, MN Metro Area	 45.5616075,-94.1642004	Minneapolis-St. Paul-Bloomington, MN-WI Metro Area	 44.9772995,-93.2654692	4572
+609	St. Louis, MO-IL Metro Area	 38.6268039,-90.1994097	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	4321
+610	St. Louis, MO-IL Metro Area	 38.6268039,-90.1994097	Columbia, MO Metro Area	 38.951883,-92.3337366	3323
+611	St. Louis, MO-IL Metro Area	 38.6268039,-90.1994097	Kansas City, MO-KS Metro Area	 39.100105,-94.5781416	3069
+612	St. Louis, MO-IL Metro Area	 38.6268039,-90.1994097	Springfield, MO Metro Area	 37.2166779,-93.2920373	4053
+613	Stockton-Lodi, CA Metro Area	 38.1341, -121.2722	Modesto, CA Metro Area	 37.6390972,-120.9968782	3154
+614	Stockton-Lodi, CA Metro Area	 38.1341, -121.2722	Sacramento--Roseville--Arden-Arcade, CA Metro Area	 38.5815719,-121.4943996	3905
+615	Stockton-Lodi, CA Metro Area	 38.1341, -121.2722	San Francisco-Oakland-Hayward, CA Metro Area	 37.7749,-122.4194	3941
+616	Syracuse, NY Metro Area	 43.0481221,-76.1474244	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	2828
+617	Syracuse, NY Metro Area	 43.0481221,-76.1474244	Rochester, NY Metro Area	 43.1854754,-77.6106861508176	2072
+618	Syracuse, NY Metro Area	 43.0481221,-76.1474244	Utica-Rome, NY Metro Area	 43.1009031,-75.2326641	2015
+619	Tallahassee, FL Metro Area	 30.4380832,-84.2809332	Miami-Fort Lauderdale-West Palm Beach, FL Metro Area	 25.7742658,-80.1936589	2256
+620	Tampa-St. Petersburg-Clearwater, FL Metro Area	 27.9518491,-82.4563972	Atlanta-Sandy Springs-Roswell, GA Metro Area	 33.7490987,-84.3901849	2611
+621	Tampa-St. Petersburg-Clearwater, FL Metro Area	 27.9518491,-82.4563972	Cape Coral-Fort Myers, FL Metro Area	 26.6059432,-81.9806771	2296
+622	Tampa-St. Petersburg-Clearwater, FL Metro Area	 27.9518491,-82.4563972	Dallas-Fort Worth-Arlington, TX Metro Area	 32.7762719,-96.7968559	2014
+623	Tampa-St. Petersburg-Clearwater, FL Metro Area	 27.9518491,-82.4563972	Gainesville, FL Metro Area	 29.67357765,-82.3233746019217	2812
+624	Tampa-St. Petersburg-Clearwater, FL Metro Area	 27.9518491,-82.4563972	Jacksonville, FL Metro Area	 30.3321838,-81.655651	2250
+625	Tampa-St. Petersburg-Clearwater, FL Metro Area	 27.9518491,-82.4563972	Lakeland-Winter Haven, FL Metro Area	 28.0470734,-81.9539892	4059
+626	Tampa-St. Petersburg-Clearwater, FL Metro Area	 27.9518491,-82.4563972	Miami-Fort Lauderdale-West Palm Beach, FL Metro Area	 25.7742658,-80.1936589	4773
+627	Tampa-St. Petersburg-Clearwater, FL Metro Area	 27.9518491,-82.4563972	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	2688
+628	Tampa-St. Petersburg-Clearwater, FL Metro Area	 27.9518491,-82.4563972	North Port-Sarasota-Bradenton, FL Metro Area	 27.044224,-82.2359254	3811
+629	Tampa-St. Petersburg-Clearwater, FL Metro Area	 27.9518491,-82.4563972	Orlando-Kissimmee-Sanford, FL Metro Area	 28.5479786,-81.4127841856302	6817
+630	Tampa-St. Petersburg-Clearwater, FL Metro Area	 27.9518491,-82.4563972	Tallahassee, FL Metro Area	 30.4380832,-84.2809332	2940
+631	Toledo, OH Metro Area	 41.6786754,-83.5127283	Columbus, OH Metro Area	 39.9622601,-83.0007065	2283
+632	Trenton, NJ Metro Area	 40.2170575,-74.7429463	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	8571
+633	Trenton, NJ Metro Area	 40.2170575,-74.7429463	Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area	 39.9527237,-75.1635262	4897
+634	Tucson, AZ Metro Area	 32.2218917,-110.9262353	Phoenix-Mesa-Scottsdale, AZ Metro Area	 33.4485866,-112.0773456	11508
+635	Tulsa, OK Metro Area	 36.1556805,-95.9929113	Dallas-Fort Worth-Arlington, TX Metro Area	 32.7762719,-96.7968559	2188
+636	Tulsa, OK Metro Area	 36.1556805,-95.9929113	Oklahoma City, OK Metro Area	 35.4729886,-97.5170536	5189
+637	Tuscaloosa, AL Metro Area	 33.490251,-86.859181	Birmingham-Hoover, AL Metro Area	 33.570499,-86.765783	2856
+638	Tyler, TX Metro Area	 32.3512601,-95.3010624	Dallas-Fort Worth-Arlington, TX Metro Area	 32.7762719,-96.7968559	2105
+639	Vallejo-Fairfield, CA Metro Area	 38.1040864,-122.2566367	Sacramento--Roseville--Arden-Arcade, CA Metro Area	 38.5815719,-121.4943996	3577
+640	Vallejo-Fairfield, CA Metro Area	 38.1040864,-122.2566367	San Francisco-Oakland-Hayward, CA Metro Area	 37.7749,-122.4194	5798
+641	Vineland-Bridgeton, NJ Metro Area	 39.473152,-75.0020265495217	Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area	 39.9527237,-75.1635262	2007
+642	Virginia Beach-Norfolk-Newport News, VA-NC Metro Area	 36.8529841,-75.9774183	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	2287
+643	Virginia Beach-Norfolk-Newport News, VA-NC Metro Area	 36.8529841,-75.9774183	Richmond, VA Metro Area	 37.5407,-77.4360	7387
+644	Virginia Beach-Norfolk-Newport News, VA-NC Metro Area	 36.8529841,-75.9774183	Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area	 38.8950092,-77.0365625	8068
+645	Visalia-Porterville, CA Metro Area	 36.3302284,-119.2920585	Fresno, CA Metro Area	 36.7295295,-119.708861260756	2673
+646	Waco, TX Metro Area	 31.549333,-97.1466695	Dallas-Fort Worth-Arlington, TX Metro Area	 32.7762719,-96.7968559	2318
+647	Warner Robins, GA Metro Area	 32.6209775,-83.5999048	Macon, GA Metro Area	 32.8406946,-83.6324022	2200
+648	Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area	 38.8950092,-77.0365625	Atlanta-Sandy Springs-Roswell, GA Metro Area	 33.7490987,-84.3901849	3881
+649	Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area	 38.8950092,-77.0365625	Baltimore-Columbia-Towson, MD Metro Area	 39.2908816,-76.610759	24801
+650	Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area	 38.8950092,-77.0365625	Blacksburg-Christiansburg-Radford, VA Metro Area	 37.2296566,-80.4136767	4958
+651	Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area	 38.8950092,-77.0365625	Boston-Cambridge-Newton, MA-NH Metro Area	 42.3602534,-71.0582912	4019
+652	Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area	 38.8950092,-77.0365625	California-Lexington Park, MD Metro Area	 38.3004029,-76.5074542	2731
+653	Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area	 38.8950092,-77.0365625	Charlotte-Concord-Gastonia, NC-SC Metro Area	 35.2270869,-80.8431268	2883
+654	Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area	 38.8950092,-77.0365625	Charlottesville, VA Metro Area	 38.029306,-78.4766781	3715
+655	Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area	 38.8950092,-77.0365625	Chicago-Naperville-Elgin, IL-IN-WI Metro Area	 41.8755616,-87.6244212	3136
+656	Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area	 38.8950092,-77.0365625	Dallas-Fort Worth-Arlington, TX Metro Area	 32.7762719,-96.7968559	3674
+657	Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area	 38.8950092,-77.0365625	Denver-Aurora-Lakewood, CO Metro Area	 39.7348381,-104.9653271	3004
+658	Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area	 38.8950092,-77.0365625	Hagerstown-Martinsburg, MD-WV Metro Area	 39.6419219,-77.7202641	5680
+659	Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area	 38.8950092,-77.0365625	Harrisonburg, VA Metro Area	 38.4493315,-78.8688833	2866
+660	Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area	 38.8950092,-77.0365625	Houston-The Woodlands-Sugar Land, TX Metro Area	 29.7589382,-95.3676974	3789
+661	Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area	 38.8950092,-77.0365625	Los Angeles-Long Beach-Anaheim, CA Metro Area	 34.0536909,-118.2427666	3819
+662	Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area	 38.8950092,-77.0365625	Miami-Fort Lauderdale-West Palm Beach, FL Metro Area	 25.7742658,-80.1936589	3041
+663	Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area	 38.8950092,-77.0365625	New York-Newark-Jersey City, NY-NJ-PA Metro Area	 40.7127281,-74.0060152	9875
+664	Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area	 38.8950092,-77.0365625	Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area	 39.9527237,-75.1635262	5290
+665	Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area	 38.8950092,-77.0365625	Pittsburgh, PA Metro Area	 40.4416941,-79.9900861	2129
+666	Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area	 38.8950092,-77.0365625	Raleigh, NC Metro Area	 35.7803977,-78.6390989	2131
+667	Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area	 38.8950092,-77.0365625	Richmond, VA Metro Area	 37.5407,-77.4360	10209
+668	Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area	 38.8950092,-77.0365625	Salisbury, MD-DE Metro Area	 38.3662114,-75.6008881	2858
+669	Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area	 38.8950092,-77.0365625	San Diego-Carlsbad, CA Metro Area	 32.7174209,-117.1627714	2812
+670	Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area	 38.8950092,-77.0365625	San Francisco-Oakland-Hayward, CA Metro Area	 37.7749,-122.4194	3308
+671	Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area	 38.8950092,-77.0365625	Seattle-Tacoma-Bellevue, WA Metro Area	 47.6038321,-122.3300624	2030
+672	Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area	 38.8950092,-77.0365625	Tampa-St. Petersburg-Clearwater, FL Metro Area	 27.9518491,-82.4563972	2759
+673	Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area	 38.8950092,-77.0365625	Virginia Beach-Norfolk-Newport News, VA-NC Metro Area	 36.8529841,-75.9774183	8929
+674	Winston-Salem, NC Metro Area	 36.0999,-80.2442	Charlotte-Concord-Gastonia, NC-SC Metro Area	 35.2270869,-80.8431268	3522
+675	Winston-Salem, NC Metro Area	 36.0999,-80.2442	Greensboro-High Point, NC Metro Area	 36.0726355,-79.7919754	4752
+676	Worcester, MA-CT Metro Area	 42.2625932,-71.8022934	Boston-Cambridge-Newton, MA-NH Metro Area	 42.3602534,-71.0582912	11052
+677	Worcester, MA-CT Metro Area	 42.2625932,-71.8022934	Providence-Warwick, RI-MA Metro Area	 41.8240,-71.4128	2356
+678	York-Hanover, PA Metro Area	 39.962398,-76.727392	Harrisburg-Carlisle, PA Metro Area	 40.2663107,-76.8861122	2423
+679	Youngstown-Warren-Boardman, OH-PA Metro Area	 41.1035786,-80.6520161	Pittsburgh, PA Metro Area	 40.4416941,-79.9900861	2256
+680	Yuba City, CA Metro Area	 39.1404477,-121.6169108	Sacramento--Roseville--Arden-Arcade, CA Metro Area	 38.5815719,-121.4943996	2086
